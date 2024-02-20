@@ -1,0 +1,471 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "スタート",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 584.5714285714286,
+        "scrollY": 501.4285714285714
+    },
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "ダンジョン",
+        "order": 9,
+        "parentId": 0,
+        "scrollX": 708,
+        "scrollY": 952.2857142857142
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "戦闘テスト用",
+        "order": 3,
+        "parentId": 1,
+        "scrollX": 570.8571428571428,
+        "scrollY": 487.71428571428567
+    },
+    {
+        "id": 4,
+        "expanded": true,
+        "name": "ミデルズベリー",
+        "order": 43,
+        "parentId": 0,
+        "scrollX": 824.5714285714286,
+        "scrollY": 1768.2857142857142
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "アレシアとロイの家",
+        "order": 44,
+        "parentId": 4,
+        "scrollX": 1023,
+        "scrollY": 877.5
+    },
+    {
+        "id": 6,
+        "expanded": false,
+        "name": "\\V[85]の家",
+        "order": 45,
+        "parentId": 5,
+        "scrollX": 584.5714285714286,
+        "scrollY": 501.4285714285714
+    },
+    {
+        "id": 7,
+        "expanded": false,
+        "name": "\\V[87]の家",
+        "order": 46,
+        "parentId": 5,
+        "scrollX": 584.5714285714286,
+        "scrollY": 501.4285714285714
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "\\V[93]の家",
+        "order": 47,
+        "parentId": 5,
+        "scrollX": 584.5714285714286,
+        "scrollY": 501.4285714285714
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "公園",
+        "order": 50,
+        "parentId": 4,
+        "scrollX": 584.5714285714286,
+        "scrollY": 501.4285714285714
+    },
+    {
+        "id": 10,
+        "expanded": false,
+        "name": "\\V[89]の家",
+        "order": 48,
+        "parentId": 5,
+        "scrollX": 584.5714285714286,
+        "scrollY": 501.4285714285714
+    },
+    {
+        "id": 11,
+        "expanded": true,
+        "name": "\\V[91]の家",
+        "order": 49,
+        "parentId": 5,
+        "scrollX": 584.5714285714286,
+        "scrollY": 501.4285714285714
+    },
+    {
+        "id": 12,
+        "expanded": false,
+        "name": "草原 エリア1",
+        "order": 14,
+        "parentId": 2,
+        "scrollX": 816,
+        "scrollY": 678
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "町　予備",
+        "order": 7,
+        "parentId": 1,
+        "scrollX": 584.5714285714286,
+        "scrollY": 1751.142857142857
+    },
+    {
+        "id": 14,
+        "expanded": true,
+        "name": "森 エリア1",
+        "order": 10,
+        "parentId": 2,
+        "scrollX": 824.5714285714286,
+        "scrollY": 952.2857142857142
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "森 エリア2",
+        "order": 11,
+        "parentId": 14,
+        "scrollX": 816,
+        "scrollY": 702
+    },
+    {
+        "id": 16,
+        "expanded": true,
+        "name": "森 エリア3",
+        "order": 12,
+        "parentId": 15,
+        "scrollX": 785.1428571428571,
+        "scrollY": 655.7142857142857
+    },
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "回想部屋",
+        "order": 2,
+        "parentId": 1,
+        "scrollX": 584.5714285714286,
+        "scrollY": 501.4285714285714
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "森 エリア4",
+        "order": 13,
+        "parentId": 16,
+        "scrollX": 816,
+        "scrollY": 800
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "草原 エリア2",
+        "order": 15,
+        "parentId": 12,
+        "scrollX": 816,
+        "scrollY": 702
+    },
+    {
+        "id": 20,
+        "expanded": false,
+        "name": "草原 エリア3",
+        "order": 16,
+        "parentId": 12,
+        "scrollX": 816,
+        "scrollY": 800
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "草原 エリア4",
+        "order": 17,
+        "parentId": 12,
+        "scrollX": 816,
+        "scrollY": 798
+    },
+    {
+        "id": 22,
+        "expanded": false,
+        "name": "沼地 エリア1",
+        "order": 18,
+        "parentId": 2,
+        "scrollX": 869.1428571428571,
+        "scrollY": 799.7142857142857
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "沼地 エリア2",
+        "order": 19,
+        "parentId": 22,
+        "scrollX": 726.5454545454546,
+        "scrollY": 638.1818181818182
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "沼地 エリア3",
+        "order": 20,
+        "parentId": 22,
+        "scrollX": 799.1999999999999,
+        "scrollY": 702
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "沼地 エリア4",
+        "order": 21,
+        "parentId": 22,
+        "scrollX": 1145.142857142857,
+        "scrollY": 798.8571428571428
+    },
+    {
+        "id": 26,
+        "expanded": true,
+        "name": "洞窟 エリア1",
+        "order": 22,
+        "parentId": 2,
+        "scrollX": 848.5714285714286,
+        "scrollY": 897.4285714285713
+    },
+    {
+        "id": 27,
+        "expanded": false,
+        "name": "洞窟 エリア2",
+        "order": 23,
+        "parentId": 26,
+        "scrollX": 880.8,
+        "scrollY": 997.1999999999999
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "洞窟 エリア3",
+        "order": 24,
+        "parentId": 26,
+        "scrollX": 880.8,
+        "scrollY": 997.1999999999999
+    },
+    {
+        "id": 29,
+        "expanded": false,
+        "name": "洞窟 エリア4",
+        "order": 25,
+        "parentId": 26,
+        "scrollX": 1109.142857142857,
+        "scrollY": 487.71428571428567
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "砂漠 エリア1",
+        "order": 26,
+        "parentId": 2,
+        "scrollX": 944.5714285714286,
+        "scrollY": 1113.4285714285713
+    },
+    {
+        "id": 31,
+        "expanded": false,
+        "name": "砂漠 エリア2",
+        "order": 27,
+        "parentId": 30,
+        "scrollX": 888,
+        "scrollY": 780
+    },
+    {
+        "id": 32,
+        "expanded": false,
+        "name": "砂漠 エリア3",
+        "order": 28,
+        "parentId": 30,
+        "scrollX": 888,
+        "scrollY": 900
+    },
+    {
+        "id": 33,
+        "expanded": false,
+        "name": "砂漠 エリア4",
+        "order": 29,
+        "parentId": 30,
+        "scrollX": 880.8,
+        "scrollY": 997.1999999999999
+    },
+    {
+        "id": 34,
+        "expanded": false,
+        "name": "砂漠 エリア5",
+        "order": 30,
+        "parentId": 30,
+        "scrollX": 944,
+        "scrollY": 1114
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "古代遺跡 エリア1",
+        "order": 37,
+        "parentId": 2,
+        "scrollX": 1088.5714285714284,
+        "scrollY": 1279.7142857142856
+    },
+    {
+        "id": 36,
+        "expanded": false,
+        "name": "古代遺跡 エリア2",
+        "order": 38,
+        "parentId": 35,
+        "scrollX": 1128,
+        "scrollY": 1017.3333333333334
+    },
+    {
+        "id": 37,
+        "expanded": false,
+        "name": "古代遺跡 エリア3",
+        "order": 39,
+        "parentId": 35,
+        "scrollX": 1128,
+        "scrollY": 1046.6666666666667
+    },
+    {
+        "id": 38,
+        "expanded": false,
+        "name": "古代遺跡 エリア4",
+        "order": 40,
+        "parentId": 35,
+        "scrollX": 1032,
+        "scrollY": 1046.6666666666667
+    },
+    {
+        "id": 39,
+        "expanded": false,
+        "name": "古代遺跡 エリア6",
+        "order": 42,
+        "parentId": 35,
+        "scrollX": 1120.8,
+        "scrollY": 1237.2
+    },
+    {
+        "id": 40,
+        "expanded": false,
+        "name": "氷の洞穴 エリア1",
+        "order": 31,
+        "parentId": 2,
+        "scrollX": 1088.5714285714284,
+        "scrollY": 693.4285714285713
+    },
+    {
+        "id": 41,
+        "expanded": false,
+        "name": "氷の洞穴 エリア2",
+        "order": 32,
+        "parentId": 40,
+        "scrollX": 1032,
+        "scrollY": 1113.3333333333333
+    },
+    {
+        "id": 42,
+        "expanded": false,
+        "name": "氷の洞穴 エリア3",
+        "order": 33,
+        "parentId": 40,
+        "scrollX": 1032,
+        "scrollY": 1092
+    },
+    {
+        "id": 43,
+        "expanded": false,
+        "name": "氷の洞穴 エリア4",
+        "order": 34,
+        "parentId": 40,
+        "scrollX": 888,
+        "scrollY": 758.6666666666666
+    },
+    {
+        "id": 44,
+        "expanded": false,
+        "name": "氷の洞穴 エリア5",
+        "order": 35,
+        "parentId": 40,
+        "scrollX": 1032,
+        "scrollY": 758.6666666666666
+    },
+    {
+        "id": 45,
+        "expanded": false,
+        "name": "氷の洞穴 エリア6",
+        "order": 36,
+        "parentId": 40,
+        "scrollX": 1131.4285714285713,
+        "scrollY": 1121.142857142857
+    },
+    {
+        "id": 46,
+        "expanded": false,
+        "name": "古代遺跡 エリア5",
+        "order": 41,
+        "parentId": 35,
+        "scrollX": 1128,
+        "scrollY": 1237.2
+    },
+    {
+        "id": 47,
+        "expanded": true,
+        "name": "予備　公園",
+        "order": 51,
+        "parentId": 9,
+        "scrollX": 584.5714285714286,
+        "scrollY": 501.4285714285714
+    },
+    {
+        "id": 48,
+        "expanded": false,
+        "name": "公園　小屋",
+        "order": 52,
+        "parentId": 9,
+        "scrollX": 1781.3333333333333,
+        "scrollY": 1242.6666666666667
+    },
+    {
+        "id": 49,
+        "expanded": true,
+        "name": "戦闘テスト用予備",
+        "order": 4,
+        "parentId": 3,
+        "scrollX": 726.8571428571428,
+        "scrollY": 801.4285714285713
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "MAP050",
+        "order": 5,
+        "parentId": 49,
+        "scrollX": 726.8571428571428,
+        "scrollY": 801.4285714285713
+    },
+    {
+        "id": 51,
+        "expanded": false,
+        "name": "MAP051",
+        "order": 6,
+        "parentId": 49,
+        "scrollX": 909.3333333333334,
+        "scrollY": 780
+    },
+    {
+        "id": 52,
+        "expanded": true,
+        "name": "タイトル読み込み",
+        "order": 8,
+        "parentId": 1,
+        "scrollX": 909.3333333333334,
+        "scrollY": 780
+    }
+]

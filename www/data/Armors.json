@@ -1,0 +1,5374 @@
+[
+    null,
+    {
+        "id": 1,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "----- 軽装防具 -----",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 2,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "*** 店売り ***",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 3,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 身体 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 4,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+3/魔防+3】\n布で作られた一般的な人達の普段着",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "布の服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 90
+    },
+    {
+        "id": 5,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+7/魔防+6】\nなめし革で作られたベスト",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "レザーベスト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            7,
+            0,
+            6,
+            0,
+            0
+        ],
+        "price": 280
+    },
+    {
+        "id": 6,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+13/魔防+13】\n過酷な旅にも耐えられる丈夫な服",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "冒険者の服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            13,
+            0,
+            13,
+            0,
+            0
+        ],
+        "price": 850
+    },
+    {
+        "id": 7,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+21/魔防+21】\nにかわで固めた硬皮のベスト",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "ハードレザー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            21,
+            0,
+            21,
+            0,
+            0
+        ],
+        "price": 1900
+    },
+    {
+        "id": 8,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+30/魔防+30】\nチタン製の戦闘用ジャケット",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "バトルジャケット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            30,
+            0,
+            30,
+            0,
+            0
+        ],
+        "price": 4300
+    },
+    {
+        "id": 9,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+40/魔防+40】\n裏地に鋼板を入れて強度を高めた服",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "ブリガンダイン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            40,
+            0,
+            40,
+            0,
+            0
+        ],
+        "price": 9500
+    },
+    {
+        "id": 10,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+51/魔防+51】\nミスリル銀糸で編まれたベスト",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "ミスリルベスト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            51,
+            0,
+            51,
+            0,
+            0
+        ],
+        "price": 20000
+    },
+    {
+        "id": 11,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+64/魔防+64】\n裏地にドラゴンの鱗を貼り付けて強度を高めた服",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "ドラゴンスケイル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            64,
+            0,
+            64,
+            0,
+            0
+        ],
+        "price": 45000
+    },
+    {
+        "id": 12,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 頭 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 13,
+        "atypeId": 3,
+        "description": "【軽装防具(頭)/防+1】\n頭を守る布製のハチマキ",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 150,
+        "name": "バンダナ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 45
+    },
+    {
+        "id": 14,
+        "atypeId": 3,
+        "description": "【軽装防具(頭)/防+3/魔防+2】\nなめし革で作られた帽子",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 130,
+        "name": "革の帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 140
+    },
+    {
+        "id": 15,
+        "atypeId": 3,
+        "description": "【軽装防具(頭)/防+6/魔防+3】\n毛皮で作られた帽子",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 130,
+        "name": "毛皮の帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 430
+    },
+    {
+        "id": 16,
+        "atypeId": 3,
+        "description": "【軽装防具(頭)/防+10/魔防+5】\n金属の板で作られた頭部を保護する防具",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 150,
+        "name": "ヘッドバンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 950
+    },
+    {
+        "id": 17,
+        "atypeId": 3,
+        "description": "【軽装防具(頭)/防+15/魔防+7】\n重ねて巻きつけて頭を守る厚手の布",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 130,
+        "name": "ターバン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            15,
+            0,
+            7,
+            0,
+            0
+        ],
+        "price": 2200
+    },
+    {
+        "id": 18,
+        "atypeId": 3,
+        "description": "【軽装防具(頭)/防+20/魔防+10】\n極楽鳥の羽がついたオシャレな帽子",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 130,
+        "name": "羽根付き帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 4700
+    },
+    {
+        "id": 19,
+        "atypeId": 3,
+        "description": "【軽装防具(頭)/防+25/魔防+12】\nミスリル銀糸で編まれた帽子",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 131,
+        "name": "ミスリルキャップ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            25,
+            0,
+            12,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 20,
+        "atypeId": 3,
+        "description": "【軽装防具(頭)/防+32/魔防+16】\nドラゴンの皮から作られた帽子",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 131,
+        "name": "ドラゴンスキン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            32,
+            0,
+            16,
+            0,
+            0
+        ],
+        "price": 27500
+    },
+    {
+        "id": 21,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "*** レア ***",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 22,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 身体 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 23,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+10/魔防+10/攻+3】\n格闘家などが日常装備している服",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "拳法着",
+        "note": "",
+        "params": [
+            0,
+            0,
+            3,
+            10,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 780
+    },
+    {
+        "id": 24,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+17/魔防+17/敏+5/回避+10%】\n動きやすい素材で作られた服",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 135,
+        "name": "ミスティクロース",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            17,
+            0,
+            17,
+            5,
+            0
+        ],
+        "price": 1800
+    },
+    {
+        "id": 25,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+26/魔防+26/水属性軽減】\nとある海賊のキャプテンが着ていたというコート",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 153,
+        "name": "海賊のコート",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            26,
+            0,
+            26,
+            0,
+            0
+        ],
+        "price": 3600
+    },
+    {
+        "id": 26,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+36/魔防+36/魔力+15/回復効果+20%】\n回復系スキルの効果を上げる知識が身に付く、不思議な白衣",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 2,
+                "value": 1.2
+            }
+        ],
+        "iconIndex": 152,
+        "name": "医術士の白衣",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            36,
+            15,
+            36,
+            0,
+            0
+        ],
+        "price": 7200
+    },
+    {
+        "id": 27,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+37/魔防+67/魔法回避+15%】\n魔法防御効果に特化して作られた服",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 0.15
+            }
+        ],
+        "iconIndex": 135,
+        "name": "レジストスーツ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            37,
+            0,
+            67,
+            0,
+            0
+        ],
+        "price": 14400
+    },
+    {
+        "id": 28,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+59/魔防+59/敏+10/回避+10%/被狙-25%】\n闇に溶け込めるよう、特殊な素材で作られている黒い服",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 0,
+                "value": 0.75
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 135,
+        "name": "黒装束",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            59,
+            0,
+            59,
+            10,
+            0
+        ],
+        "price": 28800
+    },
+    {
+        "id": 29,
+        "atypeId": 3,
+        "description": "【軽装防具(身体)/防+75/魔防+75/被物理ダメージ-25%】\n白虎の毛皮で作られたと言われている外套",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 6,
+                "value": 0.75
+            }
+        ],
+        "iconIndex": 138,
+        "name": "白虎の外套",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            75,
+            0,
+            75,
+            0,
+            0
+        ],
+        "price": 57600
+    },
+    {
+        "id": 30,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 頭 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 31,
+        "atypeId": 3,
+        "description": "【軽装防具(頭)/防+11/魔防+6/攻+4】\n堅い布をねじって作られた、気合の入るハチマキ",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 150,
+        "name": "ねじりハチマキ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            4,
+            11,
+            0,
+            6,
+            0,
+            0
+        ],
+        "price": 1800
+    },
+    {
+        "id": 32,
+        "atypeId": 3,
+        "description": "【軽装防具(頭)/防+18/魔防+9/回避+3%】\n獲物に見つかりづらいよう、迷彩柄になっている帽子",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.03
+            }
+        ],
+        "iconIndex": 130,
+        "name": "狩人の帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            18,
+            0,
+            9,
+            0,
+            0
+        ],
+        "price": 3600
+    },
+    {
+        "id": 33,
+        "atypeId": 3,
+        "description": "【軽装防具(頭)/防+37/魔防+18/敏+7/風属性軽減】\n青龍の鱗を貼り付けて作られたと言われている帽子",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 131,
+        "name": "青龍の帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            37,
+            0,
+            18,
+            7,
+            0
+        ],
+        "price": 28800
+    },
+    {
+        "id": 34,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "----- 重装防具 -----",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 35,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "*** 店売り ***",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 36,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 身体 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 37,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+5/魔防+1】\nなめし革で作られた鎧",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 137,
+        "name": "レザーアーマー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 38,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+10/魔防+3】\n革の鎧に金属片を鱗状に貼り付けて強化した鎧",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "スケイルアーマー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 39,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+20/魔防+6】\n厚い青銅の板で作られた鎧",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -2
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ブロンズアーマー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            6,
+            0,
+            0
+        ],
+        "price": 900
+    },
+    {
+        "id": 40,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+32/魔防+10/回避-2%】\n頑丈な鉄板を加工して作られた鎧",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -4
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.02
+            }
+        ],
+        "iconIndex": 137,
+        "name": "アイアンアーマー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            32,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 2000
+    },
+    {
+        "id": 41,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+46/魔防+14/回避-5%】\n鉄合金でより防御性を増した鎧",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -7
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.05
+            }
+        ],
+        "iconIndex": 137,
+        "name": "スチールアーマー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            46,
+            0,
+            14,
+            0,
+            0
+        ],
+        "price": 4500
+    },
+    {
+        "id": 42,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+62/魔防+18/回避-10%】\n黒曜石を加工して作られた黒く輝く鎧",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -10
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.1
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ブラックメイル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            62,
+            0,
+            18,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 43,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+79/魔防+28】\n魔法の金属ミスリルで作られた鎧。丈夫な上に軽い",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -4
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ミスリルアーマー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            79,
+            0,
+            28,
+            0,
+            0
+        ],
+        "price": 21000
+    },
+    {
+        "id": 44,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+99/魔防+29/回避-1%】\nドラゴンの鱗を貼り付けて作られた鎧",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -6
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.01
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ドラゴンメイル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            99,
+            0,
+            29,
+            0,
+            0
+        ],
+        "price": 50000
+    },
+    {
+        "id": 45,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 頭 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 46,
+        "atypeId": 4,
+        "description": "【重装防具(頭)/防+3】\n堅木をくりぬいて作られた兜",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 132,
+        "name": "ウッドヘルム",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 50
+    },
+    {
+        "id": 47,
+        "atypeId": 4,
+        "description": "【重装防具(頭)/防+5/魔防+1】\nブリキのバケツを加工して作られた兜",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 132,
+        "name": "バケツヘルム",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1,
+            0,
+            0
+        ],
+        "price": 150
+    },
+    {
+        "id": 48,
+        "atypeId": 4,
+        "description": "【重装防具(頭)/防+9/魔防+3】\n厚い青銅の板で作られた兜",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -1
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ブロンズヘルム",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            9,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 450
+    },
+    {
+        "id": 49,
+        "atypeId": 4,
+        "description": "【重装防具(頭)/防+15/魔防+5】\n頑丈な鉄板を加工して作られた兜",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -2
+            }
+        ],
+        "iconIndex": 132,
+        "name": "アイアンヘルム",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            15,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 50,
+        "atypeId": 4,
+        "description": "【重装防具(頭)/防+20/魔防+7】\n騎士が身に着ける装飾された兜",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -4
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ナイトヘルム",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            7,
+            0,
+            0
+        ],
+        "price": 2200
+    },
+    {
+        "id": 51,
+        "atypeId": 4,
+        "description": "【重装防具(頭)/防+30/魔防+9】\n黒曜石を加工して作られた角付きの黒い兜",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -6
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ブラックヘルム",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            30,
+            0,
+            9,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 52,
+        "atypeId": 4,
+        "description": "【重装防具(頭)/防+39/魔防+12】\n魔法の金属ミスリルで作られた兜。丈夫な上に軽い",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 132,
+        "name": "ミスリルヘルム",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            39,
+            0,
+            12,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 53,
+        "atypeId": 4,
+        "description": "【重装防具(頭)/防+48/魔防+15】\nドラゴンの鱗と角を加工して作られた兜",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 132,
+        "name": "ドラゴンヘルム",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            48,
+            0,
+            15,
+            0,
+            0
+        ],
+        "price": 21000
+    },
+    {
+        "id": 54,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "*** レア ***",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 55,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 身体 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 56,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+18/魔防+3/敏-3/土属性軽減】\n岩石で作られた鎧。土の精霊の力が宿っている",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -3
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 137,
+        "name": "大地の鎧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            18,
+            0,
+            3,
+            -3,
+            0
+        ],
+        "price": 750
+    },
+    {
+        "id": 57,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+27/魔防+7/敏-3/炎属性軽減】\n溶岩石で作られた赤い鎧。炎の精霊の力が宿っている",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -3
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 137,
+        "name": "炎の鎧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            27,
+            0,
+            7,
+            -3,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 58,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+40/魔防+12/魔法反射+50%】\n魔法を反射する鏡が備え付けられた鎧",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            },
+            {
+                "code": 22,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ミラーアーマー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            40,
+            0,
+            12,
+            0,
+            0
+        ],
+        "price": 3800
+    },
+    {
+        "id": 59,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+55/魔防+17/毎ターンHP5%回復】\n傷ついた身体を徐々に癒してくれる鎧",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.05
+            }
+        ],
+        "iconIndex": 137,
+        "name": "リジェネメイル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            55,
+            0,
+            17,
+            0,
+            0
+        ],
+        "price": 8200
+    },
+    {
+        "id": 60,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+73/魔防+21/攻+10】\n東洋の力ある戦士が着用している赤備えの甲冑",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -10
+            }
+        ],
+        "iconIndex": 137,
+        "name": "武士の甲冑",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            73,
+            0,
+            21,
+            0,
+            0
+        ],
+        "price": 20000
+    },
+    {
+        "id": 61,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+58/魔防+60/被魔法ダメージ-20%】\n魔法によるダメージを弱める力を秘めた鎧",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -8
+            }
+        ],
+        "iconIndex": 137,
+        "name": "バリアアーマー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            58,
+            0,
+            60,
+            0,
+            0
+        ],
+        "price": 30000
+    },
+    {
+        "id": 62,
+        "atypeId": 4,
+        "description": "【重装防具(身体)/防+117/魔防+33/敏-500/水属性軽減】\n玄武の甲羅で作られたと言われる鎧。ただしすごく重い",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -999
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 137,
+        "name": "玄武の鎧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            117,
+            0,
+            33,
+            -500,
+            0
+        ],
+        "price": 60000
+    },
+    {
+        "id": 63,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 頭 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 64,
+        "atypeId": 4,
+        "description": "【重装防具(頭)/防+20/魔防+6/魔力+12】\n魔法の力が込められている兜",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -1
+            }
+        ],
+        "iconIndex": 132,
+        "name": "マジックヘルム",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            12,
+            6,
+            0,
+            0
+        ],
+        "price": 1900
+    },
+    {
+        "id": 65,
+        "atypeId": 4,
+        "description": "【重装防具(頭)/防+35/魔防+10/攻+5】\n東洋の力ある戦士が着用している、装飾が施された兜",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            }
+        ],
+        "iconIndex": 132,
+        "name": "武士の兜",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            35,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 66,
+        "atypeId": 4,
+        "description": "【重装防具(頭)/防+57/魔防+17/水属性軽減】\n海王と呼ばれた者が身に着けていたとされる美しい兜",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -2
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 132,
+        "name": "海王の兜",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            57,
+            0,
+            17,
+            0,
+            0
+        ],
+        "price": 30000
+    },
+    {
+        "id": 67,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "----- 魔法防具 -----",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 68,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "*** 店売り ***",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 69,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 身体 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 70,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+2/魔防+4】\n木綿で作られた厚手のローブ",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "木綿のローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            4,
+            0,
+            0
+        ],
+        "price": 80
+    },
+    {
+        "id": 71,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+4/魔防+9】\n絹で作られた上質なマント",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "絹のマント",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            4,
+            0,
+            9,
+            0,
+            0
+        ],
+        "price": 240
+    },
+    {
+        "id": 72,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+9/魔防+17】\n頑丈な布で作られたローブ",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "フェルトローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            9,
+            0,
+            17,
+            0,
+            0
+        ],
+        "price": 800
+    },
+    {
+        "id": 73,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+16/魔防+26】\n聖地を巡礼する旅人達のために作られた法衣",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "旅人の法衣",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            16,
+            0,
+            26,
+            0,
+            0
+        ],
+        "price": 1800
+    },
+    {
+        "id": 74,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+23/魔防+37/魔力+4】\n裏地にルーン文字が刻まれたローブ",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "術士のローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            23,
+            4,
+            37,
+            0,
+            0
+        ],
+        "price": 4000
+    },
+    {
+        "id": 75,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+31/魔防+49/魔力+8】\n熟練した魔法使いが身に着けているマント",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "マジシャンマント",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            31,
+            8,
+            49,
+            0,
+            0
+        ],
+        "price": 9000
+    },
+    {
+        "id": 76,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+40/魔防+62/魔力+12】\n位の高い聖職者のために作られたガウン",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "クリリカルガウン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            40,
+            12,
+            62,
+            0,
+            0
+        ],
+        "price": 19000
+    },
+    {
+        "id": 77,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+51/魔防+77/魔力+16】\n襟元に竜の顔を模した飾りがついているローブ",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "ドラゴンローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            51,
+            16,
+            77,
+            0,
+            0
+        ],
+        "price": 40000
+    },
+    {
+        "id": 78,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 頭 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 79,
+        "atypeId": 2,
+        "description": "【魔法防具(頭)/防+1/魔防+2】\n木綿で作られた魔法使いの帽子",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "木綿の帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 40
+    },
+    {
+        "id": 80,
+        "atypeId": 2,
+        "description": "【魔法防具(頭)/防+2/魔防+5】\n魔法使いを象徴する帽子",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "とんがり帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 120
+    },
+    {
+        "id": 81,
+        "atypeId": 2,
+        "description": "【魔法防具(頭)/防+5/魔防+8】\n学者等がかぶっている帽子。これをかぶると知的に見える",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "インテリハット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            8,
+            0,
+            0
+        ],
+        "price": 400
+    },
+    {
+        "id": 82,
+        "atypeId": 2,
+        "description": "【魔法防具(頭)/防+8/魔防+13】\n教会のシンボルがついた細長い帽子",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "司祭の帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            8,
+            0,
+            13,
+            0,
+            0
+        ],
+        "price": 900
+    },
+    {
+        "id": 83,
+        "atypeId": 2,
+        "description": "【魔法防具(頭)/防+11/魔防+19/魔力+2】\n鉄で作られたリング状の額飾り",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 134,
+        "name": "サークレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            11,
+            2,
+            19,
+            0,
+            0
+        ],
+        "price": 2000
+    },
+    {
+        "id": 84,
+        "atypeId": 2,
+        "description": "【魔法防具(頭)/防+15/魔防+25/魔力+4】\n銀で作られたサークレット",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 134,
+        "name": "シルバークレスト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            15,
+            4,
+            25,
+            0,
+            0
+        ],
+        "price": 4500
+    },
+    {
+        "id": 85,
+        "atypeId": 2,
+        "description": "【魔法防具(頭)/防+20/魔防+31/魔力+6】\n魔法の金属ミスリルで作られたサークレット",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 134,
+        "name": "ミスリルクレスト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            6,
+            31,
+            0,
+            0
+        ],
+        "price": 9500
+    },
+    {
+        "id": 86,
+        "atypeId": 2,
+        "description": "【魔法防具(頭)/防+25/魔防+39/魔力+8】\n竜の顔を模した飾りがついているサークレット",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 134,
+        "name": "竜のサークレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            25,
+            8,
+            39,
+            0,
+            0
+        ],
+        "price": 20000
+    },
+    {
+        "id": 87,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "*** レア ***",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 88,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 身体 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 89,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+7/魔防+11/回避+10%/魔法回避+10%】\nどんな場所でも保護色になる魔法のローブ",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            },
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 139,
+        "name": "カメレオンローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            7,
+            0,
+            11,
+            0,
+            0
+        ],
+        "price": 700
+    },
+    {
+        "id": 90,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+12/魔防+22/毎ターンHP5%回復】\n傷を癒す力を秘めたローブ",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.05
+            }
+        ],
+        "iconIndex": 139,
+        "name": "癒しのローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            12,
+            0,
+            22,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 91,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+21/魔防+31/敏+5/風属性軽減】\n風の精霊の力が宿っているマント",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 139,
+        "name": "風のマント",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            21,
+            0,
+            31,
+            5,
+            0
+        ],
+        "price": 3800
+    },
+    {
+        "id": 92,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+30/魔防+42/魔力+12/闇属性軽減】\n闇の魔力が込められた漆黒のローブ",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 139,
+        "name": "ダークローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            30,
+            12,
+            42,
+            0,
+            0
+        ],
+        "price": 8500
+    },
+    {
+        "id": 93,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+37/魔防+57/魔力+16/回復効果+30%】\n天使の加護を受けた白いローブ",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 2,
+                "value": 1.3
+            }
+        ],
+        "iconIndex": 139,
+        "name": "天使のローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            37,
+            16,
+            57,
+            0,
+            0
+        ],
+        "price": 17500
+    },
+    {
+        "id": 94,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+46/魔防+72/魔力+20/炎氷雷属性軽減】\n賢者と呼ばれる者達が身に着けているローブ",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.8
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.8
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 139,
+        "name": "ハーミットローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            46,
+            20,
+            72,
+            0,
+            0
+        ],
+        "price": 37000
+    },
+    {
+        "id": 95,
+        "atypeId": 2,
+        "description": "【魔法防具(身体)/防+58/魔防+91/魔力+24/全属性軽減】\n遥か昔、偉大なる賢王が身につけていたとされるローブ",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.8
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.8
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.8
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.8
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.8
+            },
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.8
+            },
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 0.8
+            },
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 139,
+        "name": "ローブオブロード",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            58,
+            24,
+            91,
+            0,
+            0
+        ],
+        "price": 55000
+    },
+    {
+        "id": 96,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 頭 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 97,
+        "atypeId": 2,
+        "description": "【魔法防具(頭)/防+6/魔防+11/魔力+3】\n魔力の込められた緑色のベレー帽",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "グリーンベレー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            6,
+            3,
+            11,
+            0,
+            0
+        ],
+        "price": 750
+    },
+    {
+        "id": 98,
+        "atypeId": 2,
+        "description": "【魔法防具(頭)/防+6/魔防+11/混乱、激昂、魅了軽減】\n精神攻撃を受けても理性を保ちやすくするサークレット",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 7,
+                "value": 0.75
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0.75
+            },
+            {
+                "code": 13,
+                "dataId": 9,
+                "value": 0.75
+            }
+        ],
+        "iconIndex": 134,
+        "name": "理性のサークレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            15,
+            0,
+            21,
+            0,
+            0
+        ],
+        "price": 4200
+    },
+    {
+        "id": 99,
+        "atypeId": 2,
+        "description": "【魔法防具(頭)/防+29/魔防+45/魔力+10/魔封じ軽減】\n遥か昔、偉大なる賢王が身につけていたとされる冠",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 6,
+                "value": 0.75
+            }
+        ],
+        "iconIndex": 134,
+        "name": "賢王の冠",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            29,
+            10,
+            45,
+            0,
+            0
+        ],
+        "price": 27500
+    },
+    {
+        "id": 100,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "-- SF軽装防具 -----",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 101,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 身体 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 102,
+        "atypeId": 8,
+        "description": "【SF軽装防具(身体)/防+3/魔防+3】\nただの私服。なぜか使い回せるのは気にしない方向で…",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "私服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 90
+    },
+    {
+        "id": 103,
+        "atypeId": 8,
+        "description": "【SF軽装防具(身体)/防+7/魔防+6】\n合皮で作られたジャケット",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 152,
+        "name": "レザージャケット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            7,
+            0,
+            6,
+            0,
+            0
+        ],
+        "price": 280
+    },
+    {
+        "id": 104,
+        "atypeId": 8,
+        "description": "【SF軽装防具(身体)/防+13/魔防+13/水属性軽減】\n水分を弾く素材を使用しているコート",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 153,
+        "name": "トレンチコート",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            13,
+            0,
+            13,
+            0,
+            0
+        ],
+        "price": 850
+    },
+    {
+        "id": 105,
+        "atypeId": 8,
+        "description": "【SF軽装防具(身体)/防+21/魔防+21/氷属性軽減】\n保温効果に優れているチタン製のベスト",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 135,
+        "name": "チタンベスト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            21,
+            0,
+            21,
+            0,
+            0
+        ],
+        "price": 1900
+    },
+    {
+        "id": 106,
+        "atypeId": 8,
+        "description": "【軽装防具(身体)/防+30/魔防+30】\nカーボン素材で作られた軽くて丈夫なベスト",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "カーボンベスト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            30,
+            0,
+            30,
+            0,
+            0
+        ],
+        "price": 4300
+    },
+    {
+        "id": 107,
+        "atypeId": 8,
+        "description": "【SF軽装防具(身体)/防+40/魔防+40】\n裏地を金属製の鎖で補強したベスト。ジャラジャラうるさい",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "チェインベスト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            40,
+            0,
+            40,
+            0,
+            0
+        ],
+        "price": 9500
+    },
+    {
+        "id": 108,
+        "atypeId": 8,
+        "description": "【SF軽装防具(身体)/防+51/魔防+51】\n軍隊でも採用されている機動性、耐久性のあるベスト",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "アーミーベスト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            51,
+            0,
+            51,
+            0,
+            0
+        ],
+        "price": 20000
+    },
+    {
+        "id": 109,
+        "atypeId": 8,
+        "description": "【軽装防具(身体)/防+64/魔防+64/毒軽減】\n過酷な環境でも生き残れるよう、耐久性がとても高いベスト",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0.75
+            }
+        ],
+        "iconIndex": 135,
+        "name": "サバイバルベスト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            64,
+            0,
+            64,
+            0,
+            0
+        ],
+        "price": 45000
+    },
+    {
+        "id": 110,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 頭 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 111,
+        "atypeId": 8,
+        "description": "【軽装防具(頭)/防+1】\n頭を守る布製のハチマキ",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 150,
+        "name": "バンダナ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 45
+    },
+    {
+        "id": 112,
+        "atypeId": 8,
+        "description": "【SF軽装防具(頭)/防+3/魔防+2】\n丈夫な布で作られたキャップ帽",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 130,
+        "name": "フェルトキャップ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 140
+    },
+    {
+        "id": 113,
+        "atypeId": 8,
+        "description": "【SF軽装防具(頭)/防+6/魔防+3】\n工事現場等で使われているプラスチック製の保護帽",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 131,
+        "name": "ヘルメット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 430
+    },
+    {
+        "id": 114,
+        "atypeId": 8,
+        "description": "【SF軽装防具(頭)/防+10/魔防+5】\n青銅で作られた保護帽",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 131,
+        "name": "ブロンズメット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 950
+    },
+    {
+        "id": 115,
+        "atypeId": 8,
+        "description": "【SF軽装防具(頭)/防+15/魔防+7】\n鉄で作られた保護帽",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 131,
+        "name": "アイアンメット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            15,
+            0,
+            7,
+            0,
+            0
+        ],
+        "price": 2200
+    },
+    {
+        "id": 116,
+        "atypeId": 8,
+        "description": "【SF軽装防具(頭)/防+20/魔防+10/炎属性軽減】\nステンレスで作られた保護帽",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 130,
+        "name": "ステンレスメット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 4700
+    },
+    {
+        "id": 117,
+        "atypeId": 8,
+        "description": "【SF軽装防具(頭)/防+25/魔防+12】\nカーボン素材で作られた保護帽",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 131,
+        "name": "カーボンメット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            25,
+            0,
+            12,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 118,
+        "atypeId": 8,
+        "description": "【SF軽装防具(頭)/防+32/魔防+16/敏-8】\n鉄合金で作られた耐久性の高いメット。ただし少々重い",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 131,
+        "name": "スチールメット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            32,
+            0,
+            16,
+            -8,
+            0
+        ],
+        "price": 27500
+    },
+    {
+        "id": 119,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "-- SF重装防具 -----",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 120,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 身体 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 121,
+        "atypeId": 9,
+        "description": "【SF重装防具(身体)/防+5/魔防+1】\n分厚い布で作られた胸当て",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 136,
+        "name": "リネンキュラッサ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            1,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 122,
+        "atypeId": 9,
+        "description": "【SF重装防具(身体)/防+10/魔防+3】\nなめし革で作られた胸当て",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 136,
+        "name": "レザープレート",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 123,
+        "atypeId": 9,
+        "description": "【SF重装防具(身体)/防+20/魔防+6】\n金属片を鱗状に貼り付けて作られた胸当て",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -1
+            }
+        ],
+        "iconIndex": 136,
+        "name": "スケイルプレート",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            6,
+            0,
+            0
+        ],
+        "price": 900
+    },
+    {
+        "id": 124,
+        "atypeId": 9,
+        "description": "【SF重装防具(身体)/防+32/魔防+10】\n厚い青銅の板を加工して作られた胸当て",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -2
+            }
+        ],
+        "iconIndex": 136,
+        "name": "ブロンズプレート",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            32,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 2000
+    },
+    {
+        "id": 125,
+        "atypeId": 9,
+        "description": "【重装防具(身体)/防+46/魔防+14/回避-2%/炎属性軽減】\n頑丈な鉄板を加工して作られた胸当て",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -4
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.02
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 137,
+        "name": "アイアンプレート",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            46,
+            0,
+            14,
+            0,
+            0
+        ],
+        "price": 4500
+    },
+    {
+        "id": 126,
+        "atypeId": 9,
+        "description": "【SF重装防具(身体)/防+62/魔防+18/】\nカーボン素材で作られた軽くて丈夫な胸当て",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 137,
+        "name": "カーボンプレート",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            62,
+            0,
+            18,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 127,
+        "atypeId": 9,
+        "description": "【SF重装防具(身体)/防+79/魔防+28】\n銀で作られた胸当て",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -4
+            }
+        ],
+        "iconIndex": 136,
+        "name": "シルバープレート",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            79,
+            0,
+            28,
+            0,
+            0
+        ],
+        "price": 21000
+    },
+    {
+        "id": 128,
+        "atypeId": 9,
+        "description": "【SF重装防具(身体)/防+99/魔防+29/回避-10%】\n黒曜石で作られた黒く輝く胸当て。少々重い",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -8
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.1
+            }
+        ],
+        "iconIndex": 136,
+        "name": "ブラックプレート",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            99,
+            0,
+            28,
+            0,
+            0
+        ],
+        "price": 50000
+    },
+    {
+        "id": 129,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "----- 盾 -----",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 130,
+        "atypeId": 5,
+        "description": "【盾(腕)/防+2】\n丈夫な木の板で作られた盾",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 128,
+        "name": "ウッドシールド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 70
+    },
+    {
+        "id": 131,
+        "atypeId": 5,
+        "description": "【盾(腕)/防+4】\n鱗状に金属片が貼り付けられた盾",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -1
+            }
+        ],
+        "iconIndex": 128,
+        "name": "スケイルシールド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 220
+    },
+    {
+        "id": 132,
+        "atypeId": 5,
+        "description": "【盾(腕)/防+7/魔防+1/回避-1%】\n厚い青銅の板で作られた盾",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.01
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -2
+            }
+        ],
+        "iconIndex": 128,
+        "name": "ブロンズシールド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            7,
+            0,
+            1,
+            0,
+            0
+        ],
+        "price": 600
+    },
+    {
+        "id": 133,
+        "atypeId": 5,
+        "description": "【盾(腕)/防+12/魔防+3/回避-2%】\n頑丈な鉄板を加工して作られた盾",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.02
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -4
+            }
+        ],
+        "iconIndex": 128,
+        "name": "アイアンシールド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            12,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 1200
+    },
+    {
+        "id": 134,
+        "atypeId": 5,
+        "description": "【盾(腕)/防+20/魔防+5/回避-2%】\nグリフォンの紋章が刻まれた鋼の盾",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.02
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -4
+            }
+        ],
+        "iconIndex": 128,
+        "name": "ナイトシールド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 135,
+        "atypeId": 5,
+        "description": "【盾(腕)/防+26/魔防+10/魔法回避+5%】\n魔法を受け流すこともできる盾",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 0.05
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -1
+            }
+        ],
+        "iconIndex": 128,
+        "name": "マジックシールド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            26,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 7500
+    },
+    {
+        "id": 136,
+        "atypeId": 5,
+        "description": "【盾(腕)/防+34/魔防+7】\n魔法の金属ミスリルで作られた盾",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -1
+            }
+        ],
+        "iconIndex": 128,
+        "name": "ミスリルシールド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            34,
+            0,
+            7,
+            0,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 137,
+        "atypeId": 5,
+        "description": "【盾(腕)/防+42/魔防+9】\nドラゴンの鱗を貼り付けて作られた盾",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -3
+            }
+        ],
+        "iconIndex": 128,
+        "name": "ドラゴンシールド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            42,
+            0,
+            9,
+            0,
+            0
+        ],
+        "price": 30000
+    },
+    {
+        "id": 138,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "----- 腕輪 -----",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 139,
+        "atypeId": 6,
+        "description": "【腕輪(腕)/防+1/魔防+1】\n青銅で作られた腕輪",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 144,
+        "name": "ブロンズバングル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "price": 60
+    },
+    {
+        "id": 140,
+        "atypeId": 6,
+        "description": "【腕輪(腕)/防+3/魔防+3】\n鉄で作られた腕輪",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 144,
+        "name": "アイアンバングル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 180
+    },
+    {
+        "id": 141,
+        "atypeId": 6,
+        "description": "【腕輪(腕)/防+5/魔防+6】\nチタニウム合金で作られた腕輪",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 144,
+        "name": "チタニウムバングル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            6,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 142,
+        "atypeId": 6,
+        "description": "【腕輪(腕)/防+9/魔防+10】\nカーボン素材で作られた腕輪",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 144,
+        "name": "カーボンバングル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            9,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 143,
+        "atypeId": 6,
+        "description": "【腕輪(腕)/防+13/魔防+15】\n銀で作られた腕輪",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 144,
+        "name": "シルバーバングル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            13,
+            0,
+            15,
+            0,
+            0
+        ],
+        "price": 2500
+    },
+    {
+        "id": 144,
+        "atypeId": 6,
+        "description": "【腕輪(腕)/防+17/魔防+20】\n白金で作られた腕輪",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 144,
+        "name": "プラチナバングル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            17,
+            0,
+            20,
+            0,
+            0
+        ],
+        "price": 6200
+    },
+    {
+        "id": 145,
+        "atypeId": 6,
+        "description": "【腕輪(腕)/防+24/魔防+27/氷属性軽減】\n水晶で作られた腕輪",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 144,
+        "name": "クリスタルバングル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            24,
+            0,
+            27,
+            0,
+            0
+        ],
+        "price": 12000
+    },
+    {
+        "id": 146,
+        "atypeId": 6,
+        "description": "【腕輪(腕)/防+30/魔防+25/攻+10】\n守りの力だけでなく、力も湧いてくる腕輪",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 144,
+        "name": "ハイパーリスト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            30,
+            0,
+            25,
+            0,
+            0
+        ],
+        "price": 28000
+    },
+    {
+        "id": 147,
+        "atypeId": 6,
+        "description": "【腕輪(腕)/防+25/魔防+30/魔力+15】\n表面にルーン文字が刻まれている腕輪",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 144,
+        "name": "ルーンの腕輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            25,
+            15,
+            30,
+            0,
+            0
+        ],
+        "price": 28000
+    },
+    {
+        "id": 148,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "----- メイド -----",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 149,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 身体 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 150,
+        "atypeId": 7,
+        "description": "【メイド(身体)/防+16/魔防+16/経験値獲得率1.5倍】\nメイドさんが着ている服。男性も着れるデザインらしい",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 9,
+                "value": 1.5
+            }
+        ],
+        "iconIndex": 154,
+        "name": "メイド服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            16,
+            0,
+            16,
+            0,
+            0
+        ],
+        "price": 20000
+    },
+    {
+        "id": 151,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 腕 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 152,
+        "atypeId": 7,
+        "description": "【メイド(腕)/防+3/魔防+3/運+15/回避+20%/魔法回避+20%】\n銀でできたお盆。メイドやバニーガールが持っている",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.2
+            },
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 0.2
+            }
+        ],
+        "iconIndex": 129,
+        "name": "シルバートレイ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            3,
+            0,
+            15
+        ],
+        "price": 15000
+    },
+    {
+        "id": 153,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 頭 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 154,
+        "atypeId": 7,
+        "description": "【一般防具(頭)/防+3/魔防+3/獲得金額2倍】\nメイドさんが身に着けている頭飾り。男性も装備可能",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 64,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "iconIndex": 134,
+        "name": "ヘッドドレス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 155,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "_/_/_/ 装飾品 _/_/_/",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 156,
+        "atypeId": 7,
+        "description": "【メイド(装飾品)/アイテム入手率2倍】\n絶対領域を生み出す靴下。たとえ男性であっても…",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 64,
+                "dataId": 5,
+                "value": 1
+            }
+        ],
+        "iconIndex": 140,
+        "name": "ニーソックス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 157,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "----- 装飾品 -----",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 158,
+        "atypeId": 1,
+        "description": "【装飾品/毒無効】\nあらゆる毒から身を守ってくれるお守り",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0
+            }
+        ],
+        "iconIndex": 148,
+        "name": "ポイズンガード",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 159,
+        "atypeId": 1,
+        "description": "【装飾品/命中+5%/幻惑無効】\n視界が悪い中でも相手を的確に狙えるゴーグル",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.05
+            }
+        ],
+        "iconIndex": 151,
+        "name": "スナイパーズアイ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 160,
+        "atypeId": 1,
+        "description": "【装飾品/毒無効】\n睡魔から身を守ってくれる指輪",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 10,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "目覚めの指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 161,
+        "atypeId": 1,
+        "description": "【装飾品/攻+15%】\n指にはめると不思議と力が湧いてくる指輪",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 145,
+        "name": "パワーリング",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 450
+    },
+    {
+        "id": 162,
+        "atypeId": 1,
+        "description": "【装飾品/防+15%/会心回避+100%/即死無効】\n致命傷となりえる攻撃から身を守ってくれるお守り",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.15
+            },
+            {
+                "code": 13,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 146,
+        "name": "守りのペンダント",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 450
+    },
+    {
+        "id": 163,
+        "atypeId": 1,
+        "description": "【装飾品/魔力+15%/魔封じ無効】\n魔力の秘められた指輪。その魔力は魔封じをも打ち消す",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 4,
+                "value": 1.15
+            },
+            {
+                "code": 13,
+                "dataId": 6,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "マジックリング",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 450
+    },
+    {
+        "id": 164,
+        "atypeId": 1,
+        "description": "【装飾品/魔防+15%/激昂、混乱、魅了無効】\nあらゆる精神攻撃から身を守ってくれるお守り",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.15
+            },
+            {
+                "code": 13,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 9,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "マインドガード",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 450
+    },
+    {
+        "id": 165,
+        "atypeId": 1,
+        "description": "【装飾品/敏+15%/スタン無効】\n羽のように軽く、よろけにくくなる靴",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.15
+            },
+            {
+                "code": 13,
+                "dataId": 12,
+                "value": 0
+            }
+        ],
+        "iconIndex": 140,
+        "name": "ウィングブーツ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 450
+    },
+    {
+        "id": 166,
+        "atypeId": 1,
+        "description": "【装飾品/運+15%/回避+3%/魔法回避+3%】\n身に着けた者へ幸運をもたらす護符",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 7,
+                "value": 1.15
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.03
+            },
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 0.03
+            }
+        ],
+        "iconIndex": 147,
+        "name": "幸運のアミュレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 167,
+        "atypeId": 1,
+        "description": "【装飾品/魔防+15%/炎属性半減/火傷無効】\n炎の攻撃から身を守ってくれる護符",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 13,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 147,
+        "name": "炎のアミュレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 168,
+        "atypeId": 1,
+        "description": "【装飾品/魔防+15%/氷属性半減】\n氷の攻撃から身を守ってくれる護符",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 147,
+        "name": "氷のアミュレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 169,
+        "atypeId": 1,
+        "description": "【装飾品/魔防+15%/雷属性半減/麻痺無効】\n雷の攻撃から身を守ってくれる護符",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 11,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 147,
+        "name": "雷のアミュレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 170,
+        "atypeId": 1,
+        "description": "【装飾品/魔防+15%/水属性半減】\n水の攻撃から身を守ってくれる護符",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 147,
+        "name": "水のアミュレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 171,
+        "atypeId": 1,
+        "description": "【装飾品/魔防+15%/土属性半減】\n土の攻撃から身を守ってくれる護符",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.5
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 147,
+        "name": "大地のアミュレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 172,
+        "atypeId": 1,
+        "description": "【装飾品/魔防+15%/風属性半減】\n風の攻撃から身を守ってくれる護符",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.5
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 147,
+        "name": "風のアミュレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 173,
+        "atypeId": 1,
+        "description": "【装飾品/魔防+15%/光属性半減】\n光の攻撃から身を守ってくれる護符",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 0.5
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 147,
+        "name": "光のアミュレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 174,
+        "atypeId": 1,
+        "description": "【装飾品/魔防+15%/闇属性半減】\n闇の攻撃から身を守ってくれる護符",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0.5
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 147,
+        "name": "闇のアミュレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 175,
+        "atypeId": 1,
+        "description": "【装飾品/魔防+15%/グラビティ系無効】\n重力の攻撃を完全にシャットアウトしてくれる護符",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 26,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 147,
+        "name": "重力のアミュレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 176,
+        "atypeId": 1,
+        "description": "【装飾品/運-100%/被狙+100%】\nなぜか身に着けていると敵に狙われやすくなる不吉な指輪",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 0,
+                "value": 2
+            },
+            {
+                "code": 21,
+                "dataId": 7,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "呪いの指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 444
+    },
+    {
+        "id": 177,
+        "atypeId": 1,
+        "description": "【装飾品/エンカウント率半減】\n敵と遭遇する確率を減らすことができる指輪",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 64,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "iconIndex": 145,
+        "name": "魔除けの指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 178,
+        "atypeId": 1,
+        "description": "【装飾品/TPチャージ率1.5倍】\nTPが溜まりやすくなるペンダント",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 1.5
+            }
+        ],
+        "iconIndex": 146,
+        "name": "チャージペンダント",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 179,
+        "atypeId": 1,
+        "description": "【装飾品/回復アイテム効果1.5倍】\n薬師の膨大な知識が秘められた指輪",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 3,
+                "value": 1.5
+            }
+        ],
+        "iconIndex": 145,
+        "name": "薬師の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 180,
+        "atypeId": 1,
+        "description": "【装飾品/魔防+15％/全属性半減】\n全ての属性の攻撃から守ってくれる指輪",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.15
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 0.5
+            },
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 145,
+        "name": "エレメントリング",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 181,
+        "atypeId": 1,
+        "description": "【装飾品/全ての状態異常無効】\nあらゆる状態異常を防いでくれるお守り",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 11,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 12,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 13,
+                "value": 0
+            }
+        ],
+        "iconIndex": 148,
+        "name": "セーフティガード",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 182,
+        "atypeId": 1,
+        "description": "【装飾品/消費MP半減】\nスキルに必要な力を半分肩代わりしてくれるペンダント",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 4,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 146,
+        "name": "スキルペンダント",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 183,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "----以下追加用------",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 184,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 185,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 186,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 187,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 188,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 189,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 190,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 191,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 192,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 193,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 194,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 195,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 196,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 197,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 198,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 199,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 200,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    }
+]
