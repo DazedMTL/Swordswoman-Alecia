@@ -491,7 +491,7 @@
         "maxLevel": 99,
         "name": "Alecia",
         "nickname": "",
-        "note": "<LevelUpCommonEvent: 2>\n<Speech/Start:私が片付けてやろう, 足を引っ張るなよ>\n<Speech/Turn:いくぞ！, どうするか>\n<Speech/Dying:諦めるものか……！>\n<Speech/Skill:はぁっ！, せいっ！, くらえ！>\n<Speech/Skill[401]:はぁぁ……！>\n<Speech/Skill[402]:はぁぁ……！>\n<Speech/Skill[403]:はぁぁ……！>\n<Speech/Skill[404]:はぁぁ……！>\n<Speech/Skill[405]:はぁぁ……！>\n<Speech/Skill[406]:はぁぁ……！>\n<Speech/Skill[407]:はぁぁ……！>\n<Speech/Skill[408]:はぁぁ……！>\n<Speech/Item:\\1 を使う！>\n<Speech/Victory:たわいもない, 造作もないことだ>\n<Speech/Damage:くっ！, うっ！>\n<Speech/Recovery[23]:助かる、\\1>\n<Speech/Miss:どこを狙っている？>\n<Speech/Evasion:食らうものか！>\n<Speech/Dead:こんな…ところで…>",
+        "note": "<LevelUpCommonEvent: 2>\n<Speech/Start:I'll clean up, don't drag your feet>\n<Speech/Turn:Let's go! What will you do?>\n<Speech/Dying:I won't give up...!>\n<Speech/Skill:Ha! Sei! Take this!>\n<Speech/Skill[401]:Haaah...!>\n<Speech/Skill[402]:Haaah...!>\n<Speech/Skill[403]:Haaah...!>\n<Speech/Skill[404]:Haaah...!>\n<Speech/Skill[405]:Haaah...!>\n<Speech/Skill[406]:Haaah...!>\n<Speech/Skill[407]:Haaah...!>\n<Speech/Skill[408]:Haaah...!>\n<Speech/Item:Using \\1!>\n<Speech/Victory:It's trivial, no trouble at all>\n<Speech/Damage:Ugh!, Oof!>\n<Speech/Recovery[23]:That helps, \\1>\n<Speech/Miss:Where are you aiming at?>\n<Speech/Evasion:I won't let it hit me!>\n<Speech/Dead:To fall... in a place like this...>",
         "profile": ""
     },
     {
@@ -548,7 +548,7 @@
         "maxLevel": 99,
         "name": "Edgar",
         "nickname": "",
-        "note": "<LevelUpCommonEvent: 2>\n<Speech/Dying:これはやべえ……>\n<Speech/Skill:ほらよ, くらっとけ, オラッ！>\n<Speech/Skill[25]:・・・>\n<Speech/Skill[413]:これを使うぜ>\n<Speech/Skill[414]:これを使うぜ>\n<Speech/Item:\\1 を使うぜ>\n<Speech/Damage:ぐっ！, げっ！, ぐえっ！>\n<Speech/Recovery[21]:助かるっすわ>\n<Speech/Miss:おおっと>\n<Speech/Evasion:くらうかよ>\n<Speech/Dead:くそったれが…>",
+        "note": "<LevelUpCommonEvent: 2>\n<Speech/Dying:This is bad...>\n<Speech/Skill:ORA!>\n<Speech/Skill[25]:...>\n<Speech/Skill[413]:I'll use this>\n<Speech/Skill[414]:I'll use this>\n<Speech/Item:Using \\1>\n<Speech/Damage:Guh!, Geh!, Gueh!>\n<Speech/Recovery[21]:That's a lifesaver>\n<Speech/Miss:Whoops>\n<Speech/Evasion:Like I'd get hit>\n<Speech/Dead:Damn it all...>",
         "profile": ""
     },
     {
