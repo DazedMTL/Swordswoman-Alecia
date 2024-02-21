@@ -5985,7 +5985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ"
+                                "Ah"
                             ]
                         },
                         {
@@ -6131,7 +6131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ"
+                                "Ah"
                             ]
                         },
                         {
@@ -6777,8 +6777,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "スキル選択",
-                                    "アイテム選択"
+                                    "Skill Selection",
+                                    "Item Selection"
                                 ],
                                 1,
                                 0,
@@ -6799,10 +6799,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スキルショートカット1",
-                                    "スキルショートカット2",
-                                    "スキルショートカット3",
-                                    "スキルショートカット4"
+                                    "Skill Shortcut 1",
+                                    "Skill Shortcut 2",
+                                    "Skill Shortcut 3",
+                                    "Skill Shortcut 4"
                                 ],
                                 -2,
                                 0,
@@ -6823,12 +6823,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "スキル1",
-                                    "スキル2",
-                                    "スキル3",
-                                    "スキル4",
-                                    "スキル5",
-                                    "スキル6"
+                                    "Skill 1",
+                                    "Skill 2",
+                                    "Skill 3",
+                                    "Skill 4",
+                                    "Skill 5",
+                                    "Skill 6"
                                 ],
                                 -2,
                                 0,
@@ -7423,8 +7423,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "スキル7",
-                                    "スキル8"
+                                    "Skill 7",
+                                    "Skill 8"
                                 ],
                                 -2,
                                 0,
@@ -7656,12 +7656,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "スキル1",
-                                    "スキル2",
-                                    "スキル3",
-                                    "スキル4",
-                                    "スキル5",
-                                    "スキル6"
+                                    "Skill 1",
+                                    "Skill 2",
+                                    "Skill 3",
+                                    "Skill 4",
+                                    "Skill 5",
+                                    "Skill 6"
                                 ],
                                 -2,
                                 0,
@@ -8256,8 +8256,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "スキル7",
-                                    "スキル8"
+                                    "Skill 7",
+                                    "Skill 8"
                                 ],
                                 -2,
                                 0,
@@ -8489,12 +8489,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "スキル1",
-                                    "スキル2",
-                                    "スキル3",
-                                    "スキル4",
-                                    "スキル5",
-                                    "スキル6"
+                                    "Skill 1",
+                                    "Skill 2",
+                                    "Skill 3",
+                                    "Skill 4",
+                                    "Skill 5",
+                                    "Skill 6"
                                 ],
                                 -2,
                                 0,
@@ -8603,8 +8603,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "スキル7",
-                                    "スキル8"
+                                    "Skill 7",
+                                    "Skill 8"
                                 ],
                                 -2,
                                 0,
@@ -8674,12 +8674,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "スキル1",
-                                    "スキル2",
-                                    "スキル3",
-                                    "スキル4",
-                                    "スキル5",
-                                    "スキル6"
+                                    "Skill 1",
+                                    "Skill 2",
+                                    "Skill 3",
+                                    "Skill 4",
+                                    "Skill 5",
+                                    "Skill 6"
                                 ],
                                 -2,
                                 0,
@@ -8788,8 +8788,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "スキル7",
-                                    "スキル8"
+                                    "Skill 7",
+                                    "Skill 8"
                                 ],
                                 -2,
                                 0,
@@ -8882,10 +8882,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ショートカット1",
-                                    "ショートカット2",
-                                    "ショートカット3",
-                                    "ショートカット4"
+                                    "Shortcut 1",
+                                    "Shortcut 2",
+                                    "Shortcut 3",
+                                    "Shortcut 4"
                                 ],
                                 -2,
                                 0,
@@ -8906,10 +8906,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "道具1",
-                                    "道具2",
-                                    "道具3",
-                                    "道具4"
+                                    "Item 1",
+                                    "Item 2",
+                                    "Item 3",
+                                    "Item 4"
                                 ],
                                 -2,
                                 0,

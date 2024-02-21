@@ -49,7 +49,7 @@
             }
         ],
         "gold": 0,
-        "name": "--- 耐性テンプレ ---",
+        "name": "--- Resistance Template ---",
         "note": "",
         "params": [
             100,
@@ -126,7 +126,7 @@
             }
         ],
         "gold": 0,
-        "name": "獣系",
+        "name": "Beast Type",
         "note": "",
         "params": [
             100,
@@ -203,7 +203,7 @@
             }
         ],
         "gold": 0,
-        "name": "爬虫類系",
+        "name": "Reptilian Type",
         "note": "",
         "params": [
             100,
@@ -270,7 +270,7 @@
             }
         ],
         "gold": 0,
-        "name": "飛行系",
+        "name": "Flying Type",
         "note": "",
         "params": [
             100,
@@ -362,7 +362,7 @@
             }
         ],
         "gold": 0,
-        "name": "植物系",
+        "name": "Plant Type",
         "note": "",
         "params": [
             100,
@@ -439,7 +439,7 @@
             }
         ],
         "gold": 0,
-        "name": "虫系",
+        "name": "Insect Type",
         "note": "",
         "params": [
             100,
@@ -536,7 +536,7 @@
             }
         ],
         "gold": 0,
-        "name": "水棲系",
+        "name": "Aquatic Type",
         "note": "",
         "params": [
             100,
@@ -658,7 +658,7 @@
             }
         ],
         "gold": 0,
-        "name": "物質系",
+        "name": "Material Type",
         "note": "",
         "params": [
             100,
@@ -780,7 +780,7 @@
             }
         ],
         "gold": 0,
-        "name": "不死系",
+        "name": "Undead Type",
         "note": "",
         "params": [
             100,
@@ -852,7 +852,7 @@
             }
         ],
         "gold": 0,
-        "name": "鬼系",
+        "name": "Ogre Type",
         "note": "",
         "params": [
             100,
@@ -954,7 +954,7 @@
             }
         ],
         "gold": 0,
-        "name": "不定形系",
+        "name": "Amorphous Type",
         "note": "",
         "params": [
             100,
@@ -1076,7 +1076,7 @@
             }
         ],
         "gold": 0,
-        "name": "竜系",
+        "name": "Dragon Type",
         "note": "",
         "params": [
             100,
@@ -1183,7 +1183,7 @@
             }
         ],
         "gold": 0,
-        "name": "悪魔系",
+        "name": "Demon Type",
         "note": "",
         "params": [
             100,
@@ -1285,7 +1285,7 @@
             }
         ],
         "gold": 0,
-        "name": "機械系",
+        "name": "Mechanical Type",
         "note": "",
         "params": [
             100,
@@ -1382,7 +1382,7 @@
             }
         ],
         "gold": 0,
-        "name": "精霊系",
+        "name": "Spirit Type",
         "note": "",
         "params": [
             100,
@@ -1439,7 +1439,7 @@
             }
         ],
         "gold": 0,
-        "name": "人間系",
+        "name": "Human Type",
         "note": "",
         "params": [
             100,
@@ -1501,7 +1501,7 @@
             }
         ],
         "gold": 0,
-        "name": "炎属性",
+        "name": "Fire Attribute",
         "note": "",
         "params": [
             100,
@@ -1568,7 +1568,7 @@
             }
         ],
         "gold": 0,
-        "name": "氷属性",
+        "name": "Ice Attribute",
         "note": "",
         "params": [
             100,
@@ -1635,7 +1635,7 @@
             }
         ],
         "gold": 0,
-        "name": "雷属性",
+        "name": "Thunder Attribute",
         "note": "",
         "params": [
             100,
@@ -1707,7 +1707,7 @@
             }
         ],
         "gold": 0,
-        "name": "水属性",
+        "name": "Water Attribute",
         "note": "",
         "params": [
             100,
@@ -1779,7 +1779,7 @@
             }
         ],
         "gold": 0,
-        "name": "土属性",
+        "name": "Earth Attribute",
         "note": "",
         "params": [
             100,
@@ -1841,7 +1841,7 @@
             }
         ],
         "gold": 0,
-        "name": "風属性",
+        "name": "Wind Attribute",
         "note": "",
         "params": [
             100,
@@ -1898,7 +1898,7 @@
             }
         ],
         "gold": 0,
-        "name": "光属性",
+        "name": "Light Attribute",
         "note": "",
         "params": [
             100,
@@ -1955,7 +1955,7 @@
             }
         ],
         "gold": 0,
-        "name": "闇属性",
+        "name": "Dark Attribute",
         "note": "",
         "params": [
             100,
@@ -2027,7 +2027,7 @@
             }
         ],
         "gold": 0,
-        "name": "ボス用",
+        "name": "Boss Type",
         "note": "",
         "params": [
             100,
@@ -2213,7 +2213,7 @@
             }
         ],
         "gold": 5,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             114,
@@ -2302,7 +2302,7 @@
             }
         ],
         "gold": 10,
-        "name": "こうもり",
+        "name": "Bat",
         "note": "",
         "params": [
             120,
@@ -2399,7 +2399,7 @@
             }
         ],
         "gold": 15,
-        "name": "大ネズミ",
+        "name": "Giant Rat",
         "note": "",
         "params": [
             123,
@@ -2523,7 +2523,7 @@
             }
         ],
         "gold": 164,
-        "name": "オーク",
+        "name": "Orc",
         "note": "",
         "params": [
             2560,
@@ -2691,7 +2691,7 @@
             }
         ],
         "gold": 35,
-        "name": "ホーネット",
+        "name": "Hornet",
         "note": "",
         "params": [
             187,
@@ -2790,7 +2790,7 @@
             }
         ],
         "gold": 50,
-        "name": "スパイダー",
+        "name": "Spider",
         "note": "",
         "params": [
             204,
@@ -2904,7 +2904,7 @@
             }
         ],
         "gold": 65,
-        "name": "マッドフラワー",
+        "name": "Mud Flower",
         "note": "",
         "params": [
             215,
@@ -3035,7 +3035,7 @@
             }
         ],
         "gold": 555,
-        "name": "オーガ",
+        "name": "Ogre",
         "note": "",
         "params": [
             3264,
@@ -3238,7 +3238,7 @@
             }
         ],
         "gold": 100,
-        "name": "ウィル・オ・ウィスプ",
+        "name": "Will-o'-the-Wisp",
         "note": "",
         "params": [
             290,
@@ -3388,7 +3388,7 @@
             }
         ],
         "gold": 120,
-        "name": "インプ",
+        "name": "Imp",
         "note": "",
         "params": [
             325,
@@ -3519,7 +3519,7 @@
             }
         ],
         "gold": 140,
-        "name": "ゲイザー",
+        "name": "Geyser",
         "note": "",
         "params": [
             352,
@@ -3706,7 +3706,7 @@
             }
         ],
         "gold": 1210,
-        "name": "デーモン",
+        "name": "Demon",
         "note": "",
         "params": [
             4960,
@@ -3926,7 +3926,7 @@
             }
         ],
         "gold": 200,
-        "name": "水の精霊",
+        "name": "Water Spirit",
         "note": "",
         "params": [
             481,
@@ -4064,7 +4064,7 @@
             }
         ],
         "gold": 225,
-        "name": "エレキクラゲ",
+        "name": "Electric Jellyfish",
         "note": "",
         "params": [
             544,
@@ -4197,7 +4197,7 @@
             }
         ],
         "gold": 250,
-        "name": "サハギン",
+        "name": "Sahuagin",
         "note": "",
         "params": [
             597,
@@ -4356,7 +4356,7 @@
             }
         ],
         "gold": 2055,
-        "name": "ラミア",
+        "name": "Lamia",
         "note": "",
         "params": [
             7544,
@@ -4576,7 +4576,7 @@
             }
         ],
         "gold": 330,
-        "name": "土の精霊",
+        "name": "Earth Spirit",
         "note": "",
         "params": [
             695,
@@ -4687,7 +4687,7 @@
             }
         ],
         "gold": 360,
-        "name": "大サソリ",
+        "name": "Giant Scorpion",
         "note": "",
         "params": [
             640,
@@ -4798,7 +4798,7 @@
             }
         ],
         "gold": 390,
-        "name": "スネーク",
+        "name": "Snake",
         "note": "",
         "params": [
             739,
@@ -4975,7 +4975,7 @@
             }
         ],
         "gold": 3131,
-        "name": "ベヒーモス",
+        "name": "Behemoth",
         "note": "",
         "params": [
             7904,
@@ -5195,7 +5195,7 @@
             }
         ],
         "gold": 470,
-        "name": "ゴースト",
+        "name": "Ghost",
         "note": "",
         "params": [
             979,
@@ -5353,7 +5353,7 @@
             }
         ],
         "gold": 510,
-        "name": "スケルトン",
+        "name": "Skeleton",
         "note": "",
         "params": [
             1070,
@@ -5516,7 +5516,7 @@
             }
         ],
         "gold": 550,
-        "name": "ゾンビ",
+        "name": "Zombie",
         "note": "",
         "params": [
             1148,
@@ -5722,7 +5722,7 @@
             }
         ],
         "gold": 4347,
-        "name": "死神",
+        "name": "Reaper",
         "note": "",
         "params": [
             12152,
@@ -5942,7 +5942,7 @@
             }
         ],
         "gold": 640,
-        "name": "デビルパペット",
+        "name": "Devil Puppet",
         "note": "",
         "params": [
             1484,
@@ -6107,7 +6107,7 @@
             }
         ],
         "gold": 690,
-        "name": "リビングアーマー",
+        "name": "Living Armor",
         "note": "",
         "params": [
             1625,
@@ -6277,7 +6277,7 @@
             }
         ],
         "gold": 740,
-        "name": "ミミック",
+        "name": "Mimic",
         "note": "",
         "params": [
             1750,
@@ -6459,7 +6459,7 @@
             }
         ],
         "gold": 5690,
-        "name": "ゴーレム",
+        "name": "Golem",
         "note": "",
         "params": [
             17856,
@@ -6662,7 +6662,7 @@
             }
         ],
         "gold": 820,
-        "name": "風の精霊",
+        "name": "Wind Spirit",
         "note": "",
         "params": [
             1854,
@@ -6770,7 +6770,7 @@
             }
         ],
         "gold": 880,
-        "name": "コカトリス",
+        "name": "Cockatrice",
         "note": "",
         "params": [
             1984,
@@ -6888,7 +6888,7 @@
             }
         ],
         "gold": 940,
-        "name": "ワーウルフ",
+        "name": "Werewolf",
         "note": "",
         "params": [
             2094,
@@ -7084,7 +7084,7 @@
             }
         ],
         "gold": 7125,
-        "name": "ガルーダ",
+        "name": "Garuda",
         "note": "",
         "params": [
             19352,
@@ -7294,7 +7294,7 @@
             }
         ],
         "gold": 1100,
-        "name": "炎の精霊",
+        "name": "Fire Spirit",
         "note": "",
         "params": [
             2888,
@@ -7436,7 +7436,7 @@
             }
         ],
         "gold": 1170,
-        "name": "ケルベロス",
+        "name": "Cerberus",
         "note": "",
         "params": [
             3080,
@@ -7563,7 +7563,7 @@
             }
         ],
         "gold": 1860,
-        "name": "キマイラ",
+        "name": "Chimera",
         "note": "",
         "params": [
             4768,
@@ -7772,7 +7772,7 @@
             }
         ],
         "gold": 8616,
-        "name": "ドラゴン",
+        "name": "Dragon",
         "note": "",
         "params": [
             26048,
@@ -7991,7 +7991,7 @@
             }
         ],
         "gold": 1300,
-        "name": "サキュバス",
+        "name": "Succubus",
         "note": "",
         "params": [
             4268,
@@ -8134,7 +8134,7 @@
             }
         ],
         "gold": 1380,
-        "name": "ヴァンパイア",
+        "name": "Vampire",
         "note": "",
         "params": [
             4501,
@@ -8306,7 +8306,7 @@
             }
         ],
         "gold": 2190,
-        "name": "ガーゴイル",
+        "name": "Gargoyle",
         "note": "",
         "params": [
             6878,
@@ -8518,7 +8518,7 @@
             }
         ],
         "gold": 0,
-        "name": "ダークドルイド",
+        "name": "Dark Druid",
         "note": "",
         "params": [
             33840,
@@ -8806,7 +8806,7 @@
             }
         ],
         "gold": 0,
-        "name": "ダークウィザード",
+        "name": "Dark Wizard",
         "note": "",
         "params": [
             34888,
@@ -9021,7 +9021,7 @@
             }
         ],
         "gold": 0,
-        "name": "ダークナイト",
+        "name": "Dark Knight",
         "note": "",
         "params": [
             36108,
@@ -9233,7 +9233,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔王",
+        "name": "Demon Lord",
         "note": "",
         "params": [
             32900,
@@ -9443,7 +9443,7 @@
             }
         ],
         "gold": 0,
-        "name": "真・魔王",
+        "name": "True Demon Lord",
         "note": "",
         "params": [
             38976,
@@ -9698,7 +9698,7 @@
             }
         ],
         "gold": 0,
-        "name": "女神",
+        "name": "Goddess",
         "note": "",
         "params": [
             46000,
@@ -9899,7 +9899,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔神",
+        "name": "Demon God",
         "note": "",
         "params": [
             50380,
@@ -10169,7 +10169,7 @@
             }
         ],
         "gold": 0,
-        "name": "創世神",
+        "name": "Creator God",
         "note": "",
         "params": [
             54480,
@@ -10504,7 +10504,7 @@
             }
         ],
         "gold": 0,
-        "name": "クリエイターズソウル",
+        "name": "Creator's Soul",
         "note": "",
         "params": [
             65536,
@@ -10566,7 +10566,7 @@
             }
         ],
         "gold": 0,
-        "name": "--- 以下追加用 ---",
+        "name": "--- Additional Entries Below ---",
         "note": "",
         "params": [
             114,
@@ -10737,7 +10737,7 @@
             }
         ],
         "gold": 5,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             1000,
@@ -10875,7 +10875,7 @@
             }
         ],
         "gold": 1000,
-        "name": "コカトリス",
+        "name": "Cockatrice",
         "note": "",
         "params": [
             800,
@@ -10951,7 +10951,7 @@
             }
         ],
         "gold": 3000,
-        "name": "ポイズンスネーク",
+        "name": "Poison Snake",
         "note": "",
         "params": [
             1500,
@@ -11027,7 +11027,7 @@
             }
         ],
         "gold": 3000,
-        "name": "メルトプラント",
+        "name": "Melt Plant",
         "note": "",
         "params": [
             1200,
@@ -11110,7 +11110,7 @@
             }
         ],
         "gold": 8000,
-        "name": "ブルーオーガ",
+        "name": "Blue Ogre",
         "note": "",
         "params": [
             5000,
@@ -11193,7 +11193,7 @@
             }
         ],
         "gold": 12000,
-        "name": "デザートラミア",
+        "name": "Desert Lamia",
         "note": "",
         "params": [
             8000,
@@ -11283,7 +11283,7 @@
             }
         ],
         "gold": 8000,
-        "name": "ヘルケルベロス",
+        "name": "Hell Cerberus",
         "note": "",
         "params": [
             5000,
@@ -11385,7 +11385,7 @@
             }
         ],
         "gold": 20000,
-        "name": "アイアンジャイアント",
+        "name": "Iron Giant",
         "note": "",
         "params": [
             15000,

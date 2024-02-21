@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "古代遺跡 エリア3",
+    "displayName": "Ancient Ruins Area 3",
     "encounterList": [],
     "encounterStep": 30,
     "height": 43,
@@ -13022,7 +13022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>ぐっ！\\<\\.\\^"
+                                "Ugh!"
                             ]
                         },
                         {
@@ -13383,7 +13383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>3000Gを入手したぞ\\<\\|\\^"
+                                "Gained 3000G!"
                             ]
                         },
                         {

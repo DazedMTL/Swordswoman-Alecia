@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "氷の洞穴 エリア2",
+    "displayName": "Ice Cave Area 2",
     "encounterList": [],
     "encounterStep": 30,
     "height": 42,
@@ -11962,7 +11962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>滑るっ！\\<\\.\\^"
+                                "It's slippery!"
                             ]
                         },
                         {
@@ -12394,7 +12394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>3000Gを入手したぞ\\<\\|\\^"
+                                "Gained 3000G!"
                             ]
                         },
                         {

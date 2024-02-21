@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "洞窟 エリア1",
+    "displayName": "Cave Area 1",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -8918,7 +8918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>危ないっ！\\<\\.\\^"
+                                "Watch out!"
                             ]
                         },
                         {
@@ -9020,7 +9020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>うっ！\\<\\.\\^"
+                                "Ugh!"
                             ]
                         },
                         {

@@ -3,7 +3,7 @@
     {
         "id": 1,
         "expanded": true,
-        "name": "スタート",
+        "name": "Start",
         "order": 1,
         "parentId": 0,
         "scrollX": 584.5714285714286,
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "expanded": true,
-        "name": "ダンジョン",
+        "name": "Dungeon",
         "order": 9,
         "parentId": 0,
         "scrollX": 708,
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "expanded": true,
-        "name": "戦闘テスト用",
+        "name": "Battle Test Area",
         "order": 3,
         "parentId": 1,
         "scrollX": 570.8571428571428,
@@ -30,7 +30,7 @@
     {
         "id": 4,
         "expanded": true,
-        "name": "ミデルズベリー",
+        "name": "Middlesbury",
         "order": 43,
         "parentId": 0,
         "scrollX": 824.5714285714286,
@@ -39,7 +39,7 @@
     {
         "id": 5,
         "expanded": true,
-        "name": "アレシアとロイの家",
+        "name": "Alecia and Roy's House",
         "order": 44,
         "parentId": 4,
         "scrollX": 1023,
@@ -48,7 +48,7 @@
     {
         "id": 6,
         "expanded": false,
-        "name": "エドガーの家",
+        "name": "Edgar's House",
         "order": 45,
         "parentId": 5,
         "scrollX": 584.5714285714286,
@@ -57,7 +57,7 @@
     {
         "id": 7,
         "expanded": false,
-        "name": "デレクの家",
+        "name": "Derek's House",
         "order": 46,
         "parentId": 5,
         "scrollX": 584.5714285714286,
@@ -66,7 +66,7 @@
     {
         "id": 8,
         "expanded": false,
-        "name": "グレッグの家",
+        "name": "Greg's House",
         "order": 47,
         "parentId": 5,
         "scrollX": 584.5714285714286,
@@ -75,7 +75,7 @@
     {
         "id": 9,
         "expanded": true,
-        "name": "公園",
+        "name": "Park",
         "order": 50,
         "parentId": 4,
         "scrollX": 584.5714285714286,
@@ -84,7 +84,7 @@
     {
         "id": 10,
         "expanded": false,
-        "name": "ドビーの家",
+        "name": "Dobby's House",
         "order": 48,
         "parentId": 5,
         "scrollX": 584.5714285714286,
@@ -93,7 +93,7 @@
     {
         "id": 11,
         "expanded": true,
-        "name": "エドマンの家",
+        "name": "Edman's House",
         "order": 49,
         "parentId": 5,
         "scrollX": 584.5714285714286,
@@ -102,7 +102,7 @@
     {
         "id": 12,
         "expanded": false,
-        "name": "草原 エリア1",
+        "name": "Grassland Area 1",
         "order": 14,
         "parentId": 2,
         "scrollX": 816,
@@ -111,7 +111,7 @@
     {
         "id": 13,
         "expanded": true,
-        "name": "町　予備",
+        "name": "Town Reserve",
         "order": 7,
         "parentId": 1,
         "scrollX": 584.5714285714286,
@@ -120,7 +120,7 @@
     {
         "id": 14,
         "expanded": true,
-        "name": "森 エリア1",
+        "name": "Forest Area 1",
         "order": 10,
         "parentId": 2,
         "scrollX": 824.5714285714286,
@@ -129,7 +129,7 @@
     {
         "id": 15,
         "expanded": true,
-        "name": "森 エリア2",
+        "name": "Forest Area 2",
         "order": 11,
         "parentId": 14,
         "scrollX": 816,
@@ -138,7 +138,7 @@
     {
         "id": 16,
         "expanded": true,
-        "name": "森 エリア3",
+        "name": "Forest Area 3",
         "order": 12,
         "parentId": 15,
         "scrollX": 785.1428571428571,
@@ -147,7 +147,7 @@
     {
         "id": 17,
         "expanded": false,
-        "name": "回想部屋",
+        "name": "Recollection Room",
         "order": 2,
         "parentId": 1,
         "scrollX": 584.5714285714286,
@@ -156,7 +156,7 @@
     {
         "id": 18,
         "expanded": false,
-        "name": "森 エリア4",
+        "name": "Forest Area 4",
         "order": 13,
         "parentId": 16,
         "scrollX": 816,
@@ -165,7 +165,7 @@
     {
         "id": 19,
         "expanded": false,
-        "name": "草原 エリア2",
+        "name": "Grassland Area 2",
         "order": 15,
         "parentId": 12,
         "scrollX": 816,
@@ -174,7 +174,7 @@
     {
         "id": 20,
         "expanded": false,
-        "name": "草原 エリア3",
+        "name": "Grassland Area 3",
         "order": 16,
         "parentId": 12,
         "scrollX": 816,
@@ -183,7 +183,7 @@
     {
         "id": 21,
         "expanded": false,
-        "name": "草原 エリア4",
+        "name": "Grassland Area 4",
         "order": 17,
         "parentId": 12,
         "scrollX": 816,
@@ -192,7 +192,7 @@
     {
         "id": 22,
         "expanded": false,
-        "name": "沼地 エリア1",
+        "name": "Swamp Area 1",
         "order": 18,
         "parentId": 2,
         "scrollX": 869.1428571428571,
@@ -201,7 +201,7 @@
     {
         "id": 23,
         "expanded": false,
-        "name": "沼地 エリア2",
+        "name": "Swamp Area 2",
         "order": 19,
         "parentId": 22,
         "scrollX": 726.5454545454546,
@@ -210,7 +210,7 @@
     {
         "id": 24,
         "expanded": false,
-        "name": "沼地 エリア3",
+        "name": "Swamp Area 3",
         "order": 20,
         "parentId": 22,
         "scrollX": 799.1999999999999,
@@ -219,7 +219,7 @@
     {
         "id": 25,
         "expanded": false,
-        "name": "沼地 エリア4",
+        "name": "Swamp Area 4",
         "order": 21,
         "parentId": 22,
         "scrollX": 1145.142857142857,
@@ -228,7 +228,7 @@
     {
         "id": 26,
         "expanded": true,
-        "name": "洞窟 エリア1",
+        "name": "Cave Area 1",
         "order": 22,
         "parentId": 2,
         "scrollX": 848.5714285714286,
@@ -237,7 +237,7 @@
     {
         "id": 27,
         "expanded": false,
-        "name": "洞窟 エリア2",
+        "name": "Cave Area 2",
         "order": 23,
         "parentId": 26,
         "scrollX": 880.8,
@@ -246,7 +246,7 @@
     {
         "id": 28,
         "expanded": false,
-        "name": "洞窟 エリア3",
+        "name": "Cave Area 3",
         "order": 24,
         "parentId": 26,
         "scrollX": 880.8,
@@ -255,7 +255,7 @@
     {
         "id": 29,
         "expanded": false,
-        "name": "洞窟 エリア4",
+        "name": "Cave Area 4",
         "order": 25,
         "parentId": 26,
         "scrollX": 1109.142857142857,
@@ -264,7 +264,7 @@
     {
         "id": 30,
         "expanded": false,
-        "name": "砂漠 エリア1",
+        "name": "Desert Area 1",
         "order": 26,
         "parentId": 2,
         "scrollX": 944.5714285714286,
@@ -273,7 +273,7 @@
     {
         "id": 31,
         "expanded": false,
-        "name": "砂漠 エリア2",
+        "name": "Desert Area 2",
         "order": 27,
         "parentId": 30,
         "scrollX": 888,
@@ -282,7 +282,7 @@
     {
         "id": 32,
         "expanded": false,
-        "name": "砂漠 エリア3",
+        "name": "Desert Area 3",
         "order": 28,
         "parentId": 30,
         "scrollX": 888,
@@ -291,7 +291,7 @@
     {
         "id": 33,
         "expanded": false,
-        "name": "砂漠 エリア4",
+        "name": "Desert Area 4",
         "order": 29,
         "parentId": 30,
         "scrollX": 880.8,
@@ -300,7 +300,7 @@
     {
         "id": 34,
         "expanded": false,
-        "name": "砂漠 エリア5",
+        "name": "Desert Area 5",
         "order": 30,
         "parentId": 30,
         "scrollX": 944,
@@ -309,7 +309,7 @@
     {
         "id": 35,
         "expanded": true,
-        "name": "古代遺跡 エリア1",
+        "name": "Ancient Ruins Area 1",
         "order": 37,
         "parentId": 2,
         "scrollX": 1088.5714285714284,
@@ -318,7 +318,7 @@
     {
         "id": 36,
         "expanded": false,
-        "name": "古代遺跡 エリア2",
+        "name": "Ancient Ruins Area 2",
         "order": 38,
         "parentId": 35,
         "scrollX": 1128,
@@ -327,7 +327,7 @@
     {
         "id": 37,
         "expanded": false,
-        "name": "古代遺跡 エリア3",
+        "name": "Ancient Ruins Area 3",
         "order": 39,
         "parentId": 35,
         "scrollX": 1128,
@@ -336,7 +336,7 @@
     {
         "id": 38,
         "expanded": false,
-        "name": "古代遺跡 エリア4",
+        "name": "Ancient Ruins Area 4",
         "order": 40,
         "parentId": 35,
         "scrollX": 1032,
@@ -345,7 +345,7 @@
     {
         "id": 39,
         "expanded": false,
-        "name": "古代遺跡 エリア6",
+        "name": "Ancient Ruins Area 6",
         "order": 42,
         "parentId": 35,
         "scrollX": 1120.8,
@@ -354,7 +354,7 @@
     {
         "id": 40,
         "expanded": false,
-        "name": "氷の洞穴 エリア1",
+        "name": "Ice Cave Area 1",
         "order": 31,
         "parentId": 2,
         "scrollX": 1088.5714285714284,
@@ -363,7 +363,7 @@
     {
         "id": 41,
         "expanded": false,
-        "name": "氷の洞穴 エリア2",
+        "name": "Ice Cave Area 2",
         "order": 32,
         "parentId": 40,
         "scrollX": 1032,
@@ -372,7 +372,7 @@
     {
         "id": 42,
         "expanded": false,
-        "name": "氷の洞穴 エリア3",
+        "name": "Ice Cave Area 3",
         "order": 33,
         "parentId": 40,
         "scrollX": 1032,
@@ -381,7 +381,7 @@
     {
         "id": 43,
         "expanded": false,
-        "name": "氷の洞穴 エリア4",
+        "name": "Ice Cave Area 4",
         "order": 34,
         "parentId": 40,
         "scrollX": 888,
@@ -390,7 +390,7 @@
     {
         "id": 44,
         "expanded": false,
-        "name": "氷の洞穴 エリア5",
+        "name": "Ice Cave Area 5",
         "order": 35,
         "parentId": 40,
         "scrollX": 1032,
@@ -399,7 +399,7 @@
     {
         "id": 45,
         "expanded": false,
-        "name": "氷の洞穴 エリア6",
+        "name": "Ice Cave Area 6",
         "order": 36,
         "parentId": 40,
         "scrollX": 1131.4285714285713,
@@ -408,7 +408,7 @@
     {
         "id": 46,
         "expanded": false,
-        "name": "古代遺跡 エリア5",
+        "name": "Ancient Ruins Area 5",
         "order": 41,
         "parentId": 35,
         "scrollX": 1128,
@@ -417,7 +417,7 @@
     {
         "id": 47,
         "expanded": true,
-        "name": "予備　公園",
+        "name": "Reserve Park",
         "order": 51,
         "parentId": 9,
         "scrollX": 584.5714285714286,
@@ -426,7 +426,7 @@
     {
         "id": 48,
         "expanded": false,
-        "name": "公園　小屋",
+        "name": "Park Cabin",
         "order": 52,
         "parentId": 9,
         "scrollX": 1781.3333333333333,
@@ -435,7 +435,7 @@
     {
         "id": 49,
         "expanded": true,
-        "name": "戦闘テスト用予備",
+        "name": "Combat Test Reserve",
         "order": 4,
         "parentId": 3,
         "scrollX": 726.8571428571428,
@@ -462,7 +462,7 @@
     {
         "id": 52,
         "expanded": true,
-        "name": "タイトル読み込み",
+        "name": "Title Load",
         "order": 8,
         "parentId": 1,
         "scrollX": 909.3333333333334,

@@ -18,7 +18,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ハロルド",
+        "name": "Harold",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -41,7 +41,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アレン",
+        "name": "Allen",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -64,7 +64,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "テレーゼ",
+        "name": "Therese",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -87,7 +87,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "リョウ",
+        "name": "Ryo",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -110,7 +110,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ヴァイス",
+        "name": "Weiss",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -133,7 +133,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "フレデリック",
+        "name": "Frederick",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -156,7 +156,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "エリザ",
+        "name": "Eliza",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -179,7 +179,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "セリーヌ",
+        "name": "Celine",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -202,7 +202,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "マーシャ",
+        "name": "Marsha",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -225,7 +225,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ルキウス",
+        "name": "Lucius",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -248,7 +248,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ウェンディ",
+        "name": "Wendy",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -271,7 +271,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ノエル",
+        "name": "Noel",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -294,7 +294,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "イリア",
+        "name": "Iria",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -317,7 +317,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ダグラス",
+        "name": "Douglas",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -340,7 +340,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アヤメ",
+        "name": "Ayame",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -363,7 +363,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "レオナ",
+        "name": "Leona",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -386,7 +386,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "オリバー",
+        "name": "Oliver",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -409,7 +409,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ピーター",
+        "name": "Peter",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -432,7 +432,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アニエス",
+        "name": "Agnes",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -489,7 +489,7 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アレシア",
+        "name": "Alecia",
         "nickname": "",
         "note": "<LevelUpCommonEvent: 2>\n<Speech/Start:私が片付けてやろう, 足を引っ張るなよ>\n<Speech/Turn:いくぞ！, どうするか>\n<Speech/Dying:諦めるものか……！>\n<Speech/Skill:はぁっ！, せいっ！, くらえ！>\n<Speech/Skill[401]:はぁぁ……！>\n<Speech/Skill[402]:はぁぁ……！>\n<Speech/Skill[403]:はぁぁ……！>\n<Speech/Skill[404]:はぁぁ……！>\n<Speech/Skill[405]:はぁぁ……！>\n<Speech/Skill[406]:はぁぁ……！>\n<Speech/Skill[407]:はぁぁ……！>\n<Speech/Skill[408]:はぁぁ……！>\n<Speech/Item:\\1 を使う！>\n<Speech/Victory:たわいもない, 造作もないことだ>\n<Speech/Damage:くっ！, うっ！>\n<Speech/Recovery[23]:助かる、\\1>\n<Speech/Miss:どこを狙っている？>\n<Speech/Evasion:食らうものか！>\n<Speech/Dead:こんな…ところで…>",
         "profile": ""
@@ -512,7 +512,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ロイ",
+        "name": "Roy",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -546,7 +546,7 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "エドガー",
+        "name": "Edgar",
         "nickname": "",
         "note": "<LevelUpCommonEvent: 2>\n<Speech/Dying:これはやべえ……>\n<Speech/Skill:ほらよ, くらっとけ, オラッ！>\n<Speech/Skill[25]:・・・>\n<Speech/Skill[413]:これを使うぜ>\n<Speech/Skill[414]:これを使うぜ>\n<Speech/Item:\\1 を使うぜ>\n<Speech/Damage:ぐっ！, げっ！, ぐえっ！>\n<Speech/Recovery[21]:助かるっすわ>\n<Speech/Miss:おおっと>\n<Speech/Evasion:くらうかよ>\n<Speech/Dead:くそったれが…>",
         "profile": ""
@@ -615,7 +615,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "デレク",
+        "name": "Derek",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -638,7 +638,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ドビー",
+        "name": "Dobby",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -661,7 +661,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "エドマン",
+        "name": "Edman",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -684,7 +684,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "グレッグ",
+        "name": "Greg",
         "nickname": "",
         "note": "",
         "profile": ""

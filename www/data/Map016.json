@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "森 エリア3",
+    "displayName": "Forest Area 3",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5702,21 +5702,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドガー\\c[0]"
+                                "\\c[3]Edgar\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぃ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "疲れたぁ～"
+                                "Phew... I'm beat..."
                             ]
                         },
                         {
@@ -5733,21 +5726,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドガー\\c[0]"
+                                "\\c[3]Edgar\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隊長さ～ん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと休んできましょうよぉ～"
+                                "Captain-san, let's take a little break, shall we?"
                             ]
                         },
                         {
@@ -5875,28 +5861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうヘタったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What? Are you already worn out?"
                             ]
                         },
                         {
@@ -5913,28 +5885,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物は私に任せているくせに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情けないやつだな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You leave the monsters to me and yet you're such a weakling."
                             ]
                         },
                         {
@@ -5951,28 +5909,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドガー\\c[0]"
+                                "\\c[3]Edgar\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやいや～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隊長さんがスタミナお化けっすよぉ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No, no~ It's just that you, Captain-san, are a stamina\nmonster."
                             ]
                         },
                         {
@@ -5989,21 +5933,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドガー\\c[0]"
+                                "\\c[3]Edgar\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジちょっと休憩"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あそこに休めそうなとこあるしぃ"
+                                "Seriously, let's take a break. There seems to be a good spot\nto rest over there."
                             ]
                         },
                         {
@@ -6072,7 +6009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドスッ"
+                                "[Thud]"
                             ]
                         },
                         {
@@ -6089,14 +6026,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドガー\\c[0]"
+                                "\\c[3]Edgar\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どっこいしょぉ"
+                                "And up we go..."
                             ]
                         },
                         {
@@ -6113,21 +6050,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドガー\\c[0]"
+                                "\\c[3]Edgar\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隊長さんもここ座って"
+                                "Come on, come on, Captain-san, sit down here too."
                             ]
                         },
                         {
@@ -6208,28 +6138,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まったく・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方のないやつだな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Honestly... You're such a handful."
                             ]
                         },
                         {
@@ -6246,28 +6162,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５分だけだぞ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ以上は待てん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Only five minutes, okay? I can't wait any longer than that."
                             ]
                         },
                         {
@@ -6284,28 +6186,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドガー\\c[0]"
+                                "\\c[3]Edgar\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へーい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ５分休みまーす"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes ma'am, then I'll take a five-minute break."
                             ]
                         },
                         {
@@ -6369,7 +6257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チラッ・・・"
+                                "[Glance]"
                             ]
                         },
                         {
@@ -6434,21 +6322,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（隊長さん久しぶりに見たけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相変わらずの美人だわぁ）"
+                                "(It's been a while since I've seen the Captain-san, but\nshe's as beautiful as ever.)"
                             ]
                         },
                         {
@@ -6465,21 +6346,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（スレンダーで引き締まってるのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっぱいはすげえでけえし\\I[12]）"
+                                "(She's slender yet toned, and her breasts are incredibly\nhuge...\\I[12])"
                             ]
                         },
                         {
@@ -6496,21 +6370,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（部隊の中でも男からの人気あったもんなぁ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレたら怒られっから裏での人気だけど）"
+                                "(She was popular among the men in the squad too... It was a\nsecret admiration though, since getting caught would mean\ntrouble.)"
                             ]
                         },
                         {
@@ -6527,21 +6394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（俺もこの体を想像しながら抜いたなぁ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ　やべっ　思い出したら勃ってきた\\I[12]）"
+                                "(I've jerked off imagining her body before... Ah crap, just\nremembering it is making me hard.\\I[12])"
                             ]
                         },
                         {
@@ -6558,21 +6418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（いやむしろちょうどいいか\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっちみちすんなり帰す気はねえしな\\I[12]）"
+                                "(No, this might actually be perfect...\\I[12] I wasn't\nplanning on letting her go back easily anyway.\\I[12])"
                             ]
                         },
                         {
@@ -6636,7 +6489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザッ・・・"
+                                "[Rustle]"
                             ]
                         },
                         {
@@ -6653,28 +6506,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドガー\\c[0]"
+                                "\\c[3]Edgar\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ugh..."
                             ]
                         },
                         {
@@ -6802,28 +6641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうかしたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hm? Something wrong?"
                             ]
                         },
                         {
@@ -6871,28 +6696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドガー\\c[0]"
+                                "\\c[3]Edgar\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやなんか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "虫に刺されてたみたいで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No, it's just... seems like I got bitten by an insect..."
                             ]
                         },
                         {
@@ -6909,28 +6720,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドガー\\c[0]"
+                                "\\c[3]Edgar\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジンジンするって言うか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと見てもらっていいっすか・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It's stinging... Could you take a look at it for me...?"
                             ]
                         },
                         {
@@ -6963,28 +6760,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面倒をかけさせる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Sigh... You're such a bother."
                             ]
                         },
                         {
@@ -7017,28 +6800,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見せてみろ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Where is it? Show me."
                             ]
                         },
                         {
@@ -7071,28 +6840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニヤッ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Grin]"
                             ]
                         },
                         {
@@ -7332,14 +7080,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ何かすることがある気がするな"
+                                "I feel like there's still something left to do..."
                             ]
                         },
                         {

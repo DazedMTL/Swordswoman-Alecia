@@ -839,14 +839,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここが貴様の部屋か"
+                                "Is this your room?"
                             ]
                         },
                         {
@@ -863,28 +863,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すみませんねぇ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah... I'm sorry..."
                             ]
                         },
                         {
@@ -901,21 +887,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな男の部屋に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "綺麗な女の人を・・・"
+                                "To have such a beautiful woman in a man's room like this..."
                             ]
                         },
                         {
@@ -948,14 +927,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気にする必要はない"
+                                "There's no need to worry about it"
                             ]
                         },
                         {
@@ -972,21 +951,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私も気にしないし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長居するつもりもないからな"
+                                "I don't mind, and I don't plan to stay long anyway"
                             ]
                         },
                         {
@@ -1019,28 +991,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法の練習だったな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに始めてくれ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It was magic practice, right? Let's get started immediately"
                             ]
                         },
                         {
@@ -1057,28 +1015,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はここに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立っていればいいか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Should I just stand here?"
                             ]
                         },
                         {
@@ -1095,28 +1039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はいぃ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとはこちらで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes... and from here on..."
                             ]
                         },
                         {
@@ -1133,28 +1063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕が練習した魔法を・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Then... the magic I've been practicing..."
                             ]
                         },
                         {
@@ -1171,28 +1087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リラックスしててくださいね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法を受け入れるつもりで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Please relax... and be ready to receive the magic..."
                             ]
                         },
                         {
@@ -1209,14 +1111,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あい分かった"
+                                "Understood"
                             ]
                         },
                         {
@@ -1249,28 +1151,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それじゃあ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いきまぁす・・・\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "So, then... here I go...\\I[12]"
                             ]
                         },
                         {
@@ -1324,14 +1212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むっ・・・？"
+                                "Hmm...?"
                             ]
                         },
                         {
@@ -1348,21 +1236,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気のせいか・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭に違和感が・・・"
+                                "Is it just my imagination...? There's a strange feeling in\nmy head..."
                             ]
                         },
                         {
@@ -1379,14 +1260,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁぁぁ・・・！"
+                                "Haaa...!"
                             ]
                         },
                         {
@@ -1403,14 +1284,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ・・・くっ・・・"
+                                "Ugh... gah..."
                             ]
                         },
                         {
@@ -1427,14 +1308,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ダメだ・・・意識が遠のく・・・）"
+                                "(No good... my consciousness is fading...)"
                             ]
                         },
                         {
@@ -1460,14 +1341,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶふーっ・・・ぶふーっ・・・"
+                                "Puff-uh... puff-uh..."
                             ]
                         },
                         {
@@ -1484,14 +1365,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ど、どうですかぁ・・・？"
+                                "How is it...?"
                             ]
                         },
                         {
@@ -1517,21 +1398,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはもしかして・・・？"
+                                "Oh...? Could this be...?"
                             ]
                         },
                         {
@@ -1548,21 +1422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アレシアさぁん・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞こえてないんですかぁ・・・？"
+                                "Alecia-san...? Can't you hear me...?"
                             ]
                         },
                         {
@@ -1588,14 +1455,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふっひ・・・！\\I[12]"
+                                "Fufuhi...!\\I[12]"
                             ]
                         },
                         {
@@ -1612,21 +1479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目は開いてるのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意識はない状態・・・"
+                                "Her eyes are open but... she's unconscious..."
                             ]
                         },
                         {
@@ -1643,21 +1503,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やった・・・やったぞ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法は成功だぁ・・・！\\I[12]"
+                                "I did it... I did it...! The magic was a success...!\\I[12]"
                             ]
                         },
                         {
@@ -1674,21 +1527,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕がひたすら練習した・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "催眠の魔法・・・！\\I[12]"
+                                "The hypnosis magic I've been tirelessly practicing...!\\I[12]"
                             ]
                         },
                         {
@@ -1705,21 +1551,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これでアレシアは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕の好きにできるぅ・・・！\\I[12]"
+                                "Now Alecia can be manipulated to my liking...!\\I[12]"
                             ]
                         },
                         {
@@ -2056,28 +1895,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アレシアさん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また来てくれたんですね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Alecia-san... you came to see me again..."
                             ]
                         },
                         {
@@ -2094,28 +1919,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "練習に付き合うと言ったからな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes, I said I would join you for practice."
                             ]
                         },
                         {
@@ -2148,28 +1959,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "というより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この間はすまなかったな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Rather, I should apologize for last time."
                             ]
                         },
                         {
@@ -2186,28 +1983,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、何がです・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wh-What for...?"
                             ]
                         },
                         {
@@ -2224,28 +2007,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんというか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "記憶がおぼろげでな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It's just that my memory is a bit hazy."
                             ]
                         },
                         {
@@ -2262,28 +2031,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恐らく失敗したのだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて覚えていられればよかったのだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I probably failed, didn't I? It would have been better if I\ncould at least remember it."
                             ]
                         },
                         {
@@ -2300,28 +2055,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、いやぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アレシアさんのせいじゃ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No, no... It's not Alecia-san's fault..."
                             ]
                         },
                         {
@@ -2338,28 +2079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たぶん僕の魔法が下手で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上手くいかなかったんだと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Maybe my magic was poor... and that's why it didn't go\nwell..."
                             ]
                         },
                         {
@@ -2376,28 +2103,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なので今日こそ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "成功できるようにしますね・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "So today... I'll make sure it succeeds, okay...?"
                             ]
                         },
                         {
@@ -2430,28 +2143,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分かった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "失敗を恐れず頑張るのだぞ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Understood. Don't be afraid of failure and do your best."
                             ]
                         },
                         {
@@ -2468,21 +2167,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、はぁい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃ・・・こっちで・・・"
+                                "Y-Yes... then over here..."
                             ]
                         },
                         {
@@ -2539,21 +2231,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じ、じゃあその・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いきますねぇ・・・？"
+                                "So, then... I'll start, okay...?"
                             ]
                         },
                         {
@@ -2570,21 +2255,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでもいいぞ"
+                                "Yes, anytime is fine."
                             ]
                         },
                         {
@@ -2631,14 +2309,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むっ・・・"
+                                "Mmm..."
                             ]
                         },
                         {
@@ -2655,14 +2333,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この感じは前も・・・）"
+                                "(This feeling is like before...)"
                             ]
                         },
                         {
@@ -2679,21 +2357,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（頭に何かが流れ込んでくるような・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それもこの前よりも強い・・・）"
+                                "(It's like something is flowing into my head... and it's\nstronger than last time...)"
                             ]
                         },
                         {
@@ -2710,14 +2381,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ダメだ・・・意識が遠のく・・・）"
+                                "(No good... my consciousness is fading...)"
                             ]
                         },
                         {
@@ -2743,7 +2414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カクッ・・・"
+                                "*collapse*"
                             ]
                         },
                         {
@@ -2760,21 +2431,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この反応は・・・\\I[12]"
+                                "Oh... this reaction is...\\I[12]"
                             ]
                         },
                         {
@@ -2791,21 +2455,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アレシアさーん・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕の声聞こえてますかー・・・？"
+                                "Alecia-san...? Can you hear my voice...?"
                             ]
                         },
                         {
@@ -2831,21 +2488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし・・・よし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また上手くいったぞ・・・\\I[12]"
+                                "Good... good... it worked again...\\I[12]"
                             ]
                         },
                         {
@@ -2862,21 +2512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コツを掴んだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕って天才かも・・・\\I[12]"
+                                "I've got the hang of it... I might be a genius...\\I[12]"
                             ]
                         },
                         {
@@ -2893,21 +2536,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この前より強くかけた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうちょっと無茶をできるはず・・・\\I[12]"
+                                "I cast it stronger than before... I should be able to push\nit a bit more...\\I[12]"
                             ]
                         },
                         {
@@ -2924,21 +2560,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何をシてもらうかなぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しみだぁ・・・\\I[12]"
+                                "What shall I have you do...? I'm looking forward to\nit...\\I[12]"
                             ]
                         },
                         {
@@ -3306,28 +2935,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅむ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうもおかしいな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm, something is definitely off."
                             ]
                         },
                         {
@@ -3344,28 +2959,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう３回目だというのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これまでの記憶がないのだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It's already the third time, yet I have no memory of what\nhappened before."
                             ]
                         },
                         {
@@ -3382,28 +2983,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふひっ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Heheh...!?"
                             ]
                         },
                         {
@@ -3420,28 +3007,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それはたぶん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法の影響で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Th-that's probably... because of the magic..."
                             ]
                         },
                         {
@@ -3458,28 +3031,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕が下手なせいです・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "申し訳ないですぅ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It's my fault for being clumsy... I'm so sorry..."
                             ]
                         },
                         {
@@ -3512,28 +3071,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ　いや"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "責めるつもりで言ったのではない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh no, I didn't mean to blame you."
                             ]
                         },
                         {
@@ -3550,28 +3095,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法の失敗のせいなのだな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Right, it must be because of the failed magic."
                             ]
                         },
                         {
@@ -3588,28 +3119,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気に病むことはない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次に成功すればよいのだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Don't worry about it, as long as you succeed next time."
                             ]
                         },
                         {
@@ -3626,28 +3143,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "優しいですねぇ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アレシアさんはぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You're so kind... Alecia-san..."
                             ]
                         },
                         {
@@ -3664,28 +3167,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ今日も・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お付き合い頂けますかぁ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "So, will you accompany me again today...?"
                             ]
                         },
                         {
@@ -3718,28 +3207,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんとこい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes, bring it on."
                             ]
                         },
                         {
@@ -3772,28 +3247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふひっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあお言葉に甘えて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Heheh... Then I'll take you up on that offer..."
                             ]
                         },
                         {
@@ -3850,21 +3311,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よぉし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いきますよぉ・・・"
+                                "Alright... here we go..."
                             ]
                         },
                         {
@@ -3902,14 +3356,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もうコツは掴んだぁ・・・）"
+                                "(I've got the hang of it now...)"
                             ]
                         },
                         {
@@ -3926,21 +3380,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（またこの魔法で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意識を飛ばしてやるぅ・・・）"
+                                "(With this magic again... I'll make her lose\nconsciousness...)"
                             ]
                         },
                         {
@@ -3957,21 +3404,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対にヤりたいことがあるんだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アレシアを僕のモノにしてやるぅ・・・！）"
+                                "(There's something I absolutely want to do... I'll make\nAlecia mine...!)"
                             ]
                         },
                         {
@@ -3997,14 +3437,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ・・・"
+                                "Gah..."
                             ]
                         },
                         {
@@ -4021,14 +3461,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（明らかに今までより強い・・・）"
+                                "(It's clearly stronger than before...)"
                             ]
                         },
                         {
@@ -4045,21 +3485,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（魔法が上達しているのか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上手くいっていないと言っていたのに・・・）"
+                                "(Has his magic improved? But he said it wasn't going\nwell...)"
                             ]
                         },
                         {
@@ -4076,21 +3509,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この魔法はダメな気がする・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしこのままでは意識が・・・）"
+                                "(I have a bad feeling about this magic... but at this rate,\nmy consciousness will...)"
                             ]
                         },
                         {
@@ -4107,14 +3533,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁぁぁ・・・！"
+                                "Haaaah...!"
                             ]
                         },
                         {
@@ -4131,14 +3557,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぅ・・・ぁ・・・"
+                                "Ugh... ah..."
                             ]
                         },
                         {
@@ -4155,14 +3581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（これは・・・まずい・・・）"
+                                "(This is... not good...)"
                             ]
                         },
                         {
@@ -4179,21 +3605,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（何かが壊れる気がする・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに止めなければ・・・）"
+                                "(I feel like something is breaking... I must stop it\nimmediately...)"
                             ]
                         },
                         {
@@ -4210,21 +3629,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（意識を・・・持っていかれる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうダメだ・・・とても抗えない・・・）"
+                                "(My consciousness is being taken away... it's no use... I\ncan't resist anymore...)"
                             ]
                         },
                         {
@@ -4250,27 +3662,6 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カクッ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
                             ]
                         },
@@ -4288,14 +3679,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ・・・はぁ・・・"
+                                "Haah... haah..."
                             ]
                         },
                         {
@@ -4312,21 +3703,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よ、よぉし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上手くいったぞぉ・・・"
+                                "Ye-yes... It worked perfectly..."
                             ]
                         },
                         {
@@ -4343,21 +3727,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今までの魔法を改良した・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "超強力な魔法だぁ・・・"
+                                "I've improved the magic from before... it's a super powerful\nspell now..."
                             ]
                         },
                         {
@@ -4374,21 +3751,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この状態にしてしまえば・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうなんでもできる・・・\\I[12]"
+                                "In this state, I can do anything...\\I[12]"
                             ]
                         },
                         {
@@ -4405,21 +3775,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶対にヤりたかったこと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "童貞卒業するんだぁ・・・\\I[12]"
+                                "The thing I absolutely wanted to do... I'm going to lose my\nvirginity...\\I[12]"
                             ]
                         },
                         {
@@ -4815,28 +4178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シャキンッ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "*Clash*"
                             ]
                         },
                         {
@@ -4853,28 +4195,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい　貴様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hey you!"
                             ]
                         },
                         {
@@ -4891,28 +4219,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "正直に言え"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私に何を隠している？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Tell me the truth, what are you hiding from me?"
                             ]
                         },
                         {
@@ -4929,28 +4243,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふひっ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Eek...!?"
                             ]
                         },
                         {
@@ -4967,28 +4267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隠してって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は何もぉ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hiding...? I'm not... anything..."
                             ]
                         },
                         {
@@ -5005,28 +4291,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウソをつくな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石におかしいだろう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Stop lying, something is obviously off."
                             ]
                         },
                         {
@@ -5043,21 +4315,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の記憶の喪失に加えて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近頃は体にも違和感があった"
+                                "On top of my memory loss, I've been feeling strange in my\nbody lately."
                             ]
                         },
                         {
@@ -5074,28 +4339,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法のせいで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Th-that's because of... the magic..."
                             ]
                         },
                         {
@@ -5112,28 +4363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気のせいですよぉ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は健全な魔法をぉ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It's all in your head... I only use wholesome magic..."
                             ]
                         },
                         {
@@ -5150,28 +4387,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ言うか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しらばっくれおって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Still going to deny it! You're shameless!"
                             ]
                         },
                         {
@@ -5188,28 +4411,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その気ならいいだろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力づくで吐かせてやる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "If that's how you want to play it, fine! I'll force the\ntruth out of you!"
                             ]
                         },
                         {
@@ -5226,28 +4435,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぃぃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Eeeeek!"
                             ]
                         },
                         {
@@ -5301,21 +4496,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様っ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またその魔法を・・・！"
+                                "You bastard...! Using that magic again...!"
                             ]
                         },
                         {
@@ -5332,21 +4520,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ・・・頭が・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やめろ・・・！今すぐ・・・！"
+                                "Ugh... my head...! Stop it...! Right now...!"
                             ]
                         },
                         {
@@ -5363,21 +4544,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バレてるんだろぉ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうするしかないぃ・・・！"
+                                "You've figured it out, huh...! I have no choice but to do\nthis...!"
                             ]
                         },
                         {
@@ -5394,21 +4568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この魔法で落とすぅ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "完全に僕の女にぃ・・・！"
+                                "I'll make you fall with this magic...! You'll be completely\nmine...!"
                             ]
                         },
                         {
@@ -5425,21 +4592,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法最大出力ぅ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落ちろ・・・！落ちろぉ・・・！"
+                                "Magic at full power...! Fall...! Fall for me...!"
                             ]
                         },
                         {
@@ -5465,14 +4625,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぁっ・・・"
+                                "Argh..."
                             ]
                         },
                         {
@@ -5489,21 +4649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "や、やめろと言っている・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭がぐちゃぐちゃにされる・・・"
+                                "Stop, I'm telling you... my head is getting messed up..."
                             ]
                         },
                         {
@@ -5520,21 +4673,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここ一時だけ耐える・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "耐えればもう術はない・・・"
+                                "Just endure this moment... If I can endure it, he'll have no\nmore tricks..."
                             ]
                         },
                         {
@@ -5551,21 +4697,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "落ちてたまるものか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰が貴様の思い通りになど・・・！"
+                                "I won't fall for this... Who would ever do as you wish...!"
                             ]
                         },
                         {
@@ -5582,14 +4721,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あああああ！"
+                                "Aaaaaah!"
                             ]
                         },
                         {
@@ -5606,14 +4745,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ・・・ぁ・・・"
+                                "Guh... ah..."
                             ]
                         },
                         {
@@ -5630,21 +4769,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんて・・・執拗な・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう・・・耐えられ・・・ない・・・"
+                                "How persistent... I can't... endure it anymore..."
                             ]
                         },
                         {
@@ -5670,28 +4802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガクッ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "*Thud*"
                             ]
                         },
                         {
@@ -5717,14 +4828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はーっ・・・はーっ・・・"
+                                "Ha-ah... Ha-ah..."
                             ]
                         },
                         {
@@ -5741,14 +4852,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "や、やったのか・・・？"
+                                "Did I do it...?"
                             ]
                         },
                         {
@@ -5765,21 +4876,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕の魔力もギリギリだった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと一秒耐えられてたら・・・"
+                                "My magical power was at its limit too... If she had endured\neven one more second..."
                             ]
                         },
                         {
@@ -5796,21 +4900,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、でも落とせたんだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう僕の言いなりなんだ・・・"
+                                "But, but I made her fall... Now she's under my control..."
                             ]
                         },
                         {
@@ -5827,21 +4924,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このチャンスは逃せない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次に魔法が解けたら殺られる・・・"
+                                "I can't miss this chance... If the spell breaks, she might\nkill me..."
                             ]
                         },
                         {
@@ -5858,21 +4948,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶対に体を堕としてやる・・・！\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕の女にシてやるぞぉ・・・！\\I[12]"
+                                "I will definitely corrupt her body...! \\I[12]I'll make her\nmy woman...!\\I[12]"
                             ]
                         },
                         {
@@ -6346,21 +5429,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アレシア\\I[12]セックス\\I[12]セックスしよ\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大好きな僕のチンポで可愛がってあげるよぉ\\I[12]"
+                                "Alecia\\I[12]let's have sex\\I[12]let's do it\\I[12]I'll\ncherish you with my beloved dick\\I[12]"
                             ]
                         },
                         {
@@ -6377,21 +5453,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法は使われていないというのに・・・\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の体はもう抗うことができないのだな・・・\\I[12]"
+                                "Even though no magic has been used...\\I[12]my body can no\nlonger resist...\\I[12]"
                             ]
                         },
                         {

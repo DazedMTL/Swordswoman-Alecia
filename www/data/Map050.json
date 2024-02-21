@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "森 エリア3",
+    "displayName": "Forest Area 3",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5704,21 +5704,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何を出して・・・！？"
+                                "You...!? What are you pulling out...!?"
                             ]
                         },
                         {
@@ -5751,21 +5744,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太さは二周り以上・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長さに至っては三倍はある・・・"
+                                "It's at least twice as thick... and as for the length, it's\nthree times as much..."
                             ]
                         },
                         {
@@ -5798,21 +5784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドガー\\c[0]"
+                                "\\c[3]Edgar\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隊長さんもこの機会にどうっすか？\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マジで後悔させないっすよ？\\I[12]"
+                                "How about you join in too, Captain-san?\\I[12] I seriously\nwon't let you regret it.\\I[12]"
                             ]
                         },
                         {
@@ -5845,21 +5824,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バ、バカモノが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は人妻だぞ！"
+                                "You, you beast! I'm a married woman!"
                             ]
                         },
                         {
@@ -5936,14 +5908,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]アレシア\\c[0]"
+                                "\\c[2]Alecia\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アレシア"
+                                "Alecia"
                             ]
                         },
                         {
@@ -5960,14 +5932,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドガー\\c[0]"
+                                "\\c[3]Edgar\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チャラ男"
+                                "Playboy"
                             ]
                         },
                         {
@@ -5984,14 +5956,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]デレク\\c[0]"
+                                "\\c[3]Derek\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キモデブ"
+                                "Creepy Fat Guy"
                             ]
                         },
                         {
@@ -6008,14 +5980,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]ドビー\\c[0]"
+                                "\\c[3]Dobby\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エロガキ"
+                                "Perverted Brat"
                             ]
                         },
                         {
@@ -6032,14 +6004,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]エドマン\\c[0]"
+                                "\\c[3]Edman\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "成金おっさん"
+                                "Nouveau Riche Old Man"
                             ]
                         },
                         {
@@ -6056,14 +6028,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]グレッグ\\c[0]"
+                                "\\c[3]Greg\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホームレス"
+                                "Homeless"
                             ]
                         },
                         {

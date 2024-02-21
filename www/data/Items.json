@@ -16,7 +16,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "---- 回復 ----------",
+        "name": "---- Recovery ----------",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -37,7 +37,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nHPを200ポイント回復する薬",
+        "description": "[Ally Single] Medicine that restores 200 HP points",
         "effects": [
             {
                 "code": 11,
@@ -49,7 +49,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ポーション",
+        "name": "Potion",
         "note": "",
         "occasion": 0,
         "price": 20,
@@ -70,7 +70,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nHPを1000ポイント回復する薬",
+        "description": "[Ally Single] Medicine that restores 1000 HP points",
         "effects": [
             {
                 "code": 11,
@@ -82,7 +82,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ミドルポーション",
+        "name": "Mid Potion",
         "note": "",
         "occasion": 0,
         "price": 100,
@@ -103,7 +103,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nHPを2000ポイント回復する薬",
+        "description": "[Ally Single] Medicine that restores 2000 HP points",
         "effects": [
             {
                 "code": 11,
@@ -115,7 +115,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ハイポーション",
+        "name": "High Potion",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -136,7 +136,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nMPを30ポイント回復する薬草",
+        "description": "[Ally Single] Herb that restores 30 MP points",
         "effects": [
             {
                 "code": 12,
@@ -148,7 +148,7 @@
         "hitType": 0,
         "iconIndex": 181,
         "itypeId": 1,
-        "name": "メンタルハーブ",
+        "name": "Mental Herb",
         "note": "",
         "occasion": 0,
         "price": 50,
@@ -169,7 +169,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nMPを100ポイント回復する水",
+        "description": "[Ally Single] Water that restores 100 MP points",
         "effects": [
             {
                 "code": 12,
@@ -181,7 +181,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "メンタルウォーター",
+        "name": "Mental Water",
         "note": "",
         "occasion": 0,
         "price": 150,
@@ -202,7 +202,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nMPを200ポイント回復する飴",
+        "description": "[Ally Single] Candy that restores 200 MP points",
         "effects": [
             {
                 "code": 12,
@@ -214,7 +214,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "メンタルドロップ",
+        "name": "Mental Drop",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -235,7 +235,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nHPとMPを完全回復する飴",
+        "description": "[Ally Single] Candy that fully restores HP and MP",
         "effects": [
             {
                 "code": 11,
@@ -253,7 +253,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ミラクルドロップ",
+        "name": "Miracle Drop",
         "note": "",
         "occasion": 0,
         "price": 1000,
@@ -274,7 +274,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方全体】\nHPとMPを完全回復する霊薬",
+        "description": "[All Allies] Elixir that fully restores HP and MP",
         "effects": [
             {
                 "code": 11,
@@ -292,7 +292,7 @@
         "hitType": 0,
         "iconIndex": 179,
         "itypeId": 1,
-        "name": "エリクサー",
+        "name": "Elixir",
         "note": "",
         "occasion": 0,
         "price": 5000,
@@ -313,7 +313,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方一人】\nTPを15％増加させるドリンク剤",
+        "description": "[Single Ally] Drink that increases TP by 15%",
         "effects": [
             {
                 "code": 13,
@@ -325,7 +325,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "チャージドリンク",
+        "name": "Charged Drink",
         "note": "",
         "occasion": 0,
         "price": 90,
@@ -346,7 +346,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\n毒状態を治療する薬",
+        "description": "[Ally Single] Medicine that cures poison status",
         "effects": [
             {
                 "code": 22,
@@ -358,7 +358,7 @@
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 1,
-        "name": "アンチポイズン",
+        "name": "Anti-Poison",
         "note": "",
         "occasion": 0,
         "price": 15,
@@ -379,7 +379,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\n幻惑状態を治療する薬",
+        "description": "[Ally Single] Medicine that cures bewitchment status",
         "effects": [
             {
                 "code": 22,
@@ -391,7 +391,7 @@
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 1,
-        "name": "アンチダズル",
+        "name": "Anti-Dazzle",
         "note": "",
         "occasion": 0,
         "price": 15,
@@ -412,7 +412,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\n魔封じ状態を治療する薬",
+        "description": "[Ally Single] Medicine that cures magic seal status",
         "effects": [
             {
                 "code": 22,
@@ -424,7 +424,7 @@
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 1,
-        "name": "アンチサイレンス",
+        "name": "Anti-Silence",
         "note": "",
         "occasion": 0,
         "price": 15,
@@ -445,7 +445,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\n激昂、混乱、魅了状態を治療する薬",
+        "description": "[Ally Single] Medicine that cures rage, confusion, and charm status",
         "effects": [
             {
                 "code": 22,
@@ -469,7 +469,7 @@
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 1,
-        "name": "アンチマインド",
+        "name": "Anti-Mind",
         "note": "",
         "occasion": 0,
         "price": 15,
@@ -490,7 +490,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\n睡眠状態を治療する薬",
+        "description": "[Ally Single] Medicine that cures sleep status",
         "effects": [
             {
                 "code": 22,
@@ -502,7 +502,7 @@
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 1,
-        "name": "アンチスリープ",
+        "name": "Anti-Sleep",
         "note": "",
         "occasion": 0,
         "price": 15,
@@ -523,7 +523,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\n麻痺状態を治療する薬",
+        "description": "[Ally Single] Medicine that cures paralysis status",
         "effects": [
             {
                 "code": 22,
@@ -535,7 +535,7 @@
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 1,
-        "name": "アンチパラライズ",
+        "name": "Anti-Paralyze",
         "note": "",
         "occasion": 0,
         "price": 15,
@@ -556,7 +556,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\n火傷状態を治療する薬",
+        "description": "[Ally Single] Medicine that cures burn status",
         "effects": [
             {
                 "code": 22,
@@ -568,7 +568,7 @@
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 1,
-        "name": "アンチヒート",
+        "name": "Anti-Heat",
         "note": "",
         "occasion": 0,
         "price": 15,
@@ -589,7 +589,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\n戦闘不能以外の状態異常を治療する薬草",
+        "description": "[Ally Single] Herb that cures all status abnormalities except for incapacitation",
         "effects": [
             {
                 "code": 22,
@@ -649,7 +649,7 @@
         "hitType": 0,
         "iconIndex": 183,
         "itypeId": 1,
-        "name": "ディスペルハーブ",
+        "name": "Dispel Herb",
         "note": "",
         "occasion": 0,
         "price": 90,
@@ -670,7 +670,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "【味方単体】\n戦闘不能から最大HPの1/10で復活させる気付け薬",
+        "description": "[Ally Single] Stimulant that revives from incapacitation with 1/10 of max HP",
         "effects": [
             {
                 "code": 22,
@@ -682,7 +682,7 @@
         "hitType": 0,
         "iconIndex": 178,
         "itypeId": 1,
-        "name": "スティミュラント",
+        "name": "Stimulant",
         "note": "",
         "occasion": 0,
         "price": 150,
@@ -703,7 +703,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "【味方単体】\n戦闘不能から最大HPの1/2で復活させる気付け薬",
+        "description": "[Ally Single] Stimulant that revives from incapacitation with half of max HP",
         "effects": [
             {
                 "code": 22,
@@ -715,7 +715,7 @@
         "hitType": 0,
         "iconIndex": 225,
         "itypeId": 1,
-        "name": "不死鳥の羽根",
+        "name": "Phoenix Feather",
         "note": "",
         "occasion": 0,
         "price": 750,
@@ -741,7 +741,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "---- 能力成長 -------",
+        "name": "---- Ability Growth -------",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -762,7 +762,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n最大HPを50ポイント上げる",
+        "description": "[Growth] Increases max HP by 50 points",
         "effects": [
             {
                 "code": 42,
@@ -774,7 +774,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "バイタルアップ",
+        "name": "Vital Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -795,7 +795,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n最大MPを10ポイント上げる",
+        "description": "[Growth] Increases max MP by 10 points",
         "effects": [
             {
                 "code": 42,
@@ -807,7 +807,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "メンタルアップ",
+        "name": "Mental Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -828,7 +828,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n攻撃力を3ポイント上げる",
+        "description": "[Growth] Increases attack power by 3 points",
         "effects": [
             {
                 "code": 42,
@@ -840,7 +840,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "パワーアップ",
+        "name": "Power Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -861,7 +861,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n防御力を3ポイント上げる",
+        "description": "[Growth] Increases defense power by 3 points",
         "effects": [
             {
                 "code": 42,
@@ -873,7 +873,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ガードアップ",
+        "name": "Guard Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -894,7 +894,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n魔法力を3ポイント上げる",
+        "description": "[Growth] Increases magic power by 3 points",
         "effects": [
             {
                 "code": 42,
@@ -906,7 +906,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "マジックアップ",
+        "name": "Magic Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -927,7 +927,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n魔法防御を3ポイント上げる",
+        "description": "[Growth] Increases magic defense by 3 points",
         "effects": [
             {
                 "code": 42,
@@ -939,7 +939,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "レジストアップ",
+        "name": "Resist Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -960,7 +960,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n敏捷性を3ポイント上げる",
+        "description": "[Growth] Increases agility by 3 points",
         "effects": [
             {
                 "code": 42,
@@ -972,7 +972,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "スピードアップ",
+        "name": "Speed Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -993,7 +993,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n運を3ポイント上げる",
+        "description": "[Growth] Increases luck by 3 points",
         "effects": [
             {
                 "code": 42,
@@ -1005,7 +1005,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ラックアップ",
+        "name": "Luck Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -1026,7 +1026,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n全能力値を上げる",
+        "description": "[Growth] Increases all ability values",
         "effects": [
             {
                 "code": 42,
@@ -1080,7 +1080,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ミラクルアップ",
+        "name": "Miracle Up",
         "note": "",
         "occasion": 2,
         "price": 10000,
@@ -1106,7 +1106,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "---- 移動用 -------",
+        "name": "---- Movement -------",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1127,7 +1127,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【移動中のみ使用可】\n100歩の間、エンカウント率を半減するランプ",
+        "description": "[Usable Only While Moving] Lamp that halves encounter rate for 100 steps",
         "effects": [
             {
                 "code": 21,
@@ -1139,7 +1139,7 @@
         "hitType": 0,
         "iconIndex": 212,
         "itypeId": 1,
-        "name": "魔除けのランプ",
+        "name": "Demon Ward Lamp",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -1160,7 +1160,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方全体/移動中のみ使用可】\nHPとMPを50%回復し、全ての状態異常を治療するシェルター",
+        "description": "[All Allies/Usable Only While Moving] Shelter that restores 50% of HP and MP and\ncures all status abnormalities",
         "effects": [
             {
                 "code": 11,
@@ -1238,7 +1238,7 @@
         "hitType": 0,
         "iconIndex": 209,
         "itypeId": 1,
-        "name": "ポケットシェルター",
+        "name": "Pocket Shelter",
         "note": "",
         "occasion": 2,
         "price": 800,
@@ -1264,7 +1264,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "--- スキル習得 ----",
+        "name": "--- Skill Acquisition ----",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1290,7 +1290,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "*** 魔銃弾 ***",
+        "name": "*** Magic Bullets ***",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1311,7 +1311,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「リミットグローヴ」を習得する",
+        "description": "[Skill Acquisition] Learn the magic bullet 'Limit Grove'",
         "effects": [
             {
                 "code": 43,
@@ -1323,7 +1323,7 @@
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "隕石の欠片",
+        "name": "Meteorite Shard",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -1344,7 +1344,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「ボルケーノ」を習得する",
+        "description": "[Skill Acquisition] Learn the magic bullet 'Volcano'",
         "effects": [
             {
                 "code": 43,
@@ -1356,7 +1356,7 @@
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "溶岩石",
+        "name": "Lava Stone",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -1377,7 +1377,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「アクアブレス」を習得する",
+        "description": "[Skill Acquisition] Learn the magic bullet 'Aqua Breath'",
         "effects": [
             {
                 "code": 43,
@@ -1389,7 +1389,7 @@
         "hitType": 0,
         "iconIndex": 303,
         "itypeId": 1,
-        "name": "水の結晶",
+        "name": "Water Crystal",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -1410,7 +1410,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「グレイヴニードル」を習得する",
+        "description": "[Skill Acquisition] Learn the magic bullet 'Grave Needle'",
         "effects": [
             {
                 "code": 43,
@@ -1422,7 +1422,7 @@
         "hitType": 0,
         "iconIndex": 293,
         "itypeId": 1,
-        "name": "大地の角",
+        "name": "Earth Horn",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -1443,7 +1443,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「スターライト」を習得する",
+        "description": "[Skill Acquisition] Learn the magic bullet 'Starlight'",
         "effects": [
             {
                 "code": 43,
@@ -1455,7 +1455,7 @@
         "hitType": 0,
         "iconIndex": 300,
         "itypeId": 1,
-        "name": "星の瞬き",
+        "name": "Star Twinkle",
         "note": "",
         "occasion": 2,
         "price": 8000,
@@ -1476,7 +1476,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「シャドウフレア」を習得する",
+        "description": "[Skill Acquired] Learned the magic bullet \"Shadow Flare\".",
         "effects": [
             {
                 "code": 43,
@@ -1488,7 +1488,7 @@
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "ダークマター",
+        "name": "Dark Matter",
         "note": "",
         "occasion": 2,
         "price": 8000,
@@ -1509,7 +1509,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「イカサマ」を習得する",
+        "description": "[Skill Acquired] Learned the magic bullet \"Trick Shot\".",
         "effects": [
             {
                 "code": 43,
@@ -1521,7 +1521,7 @@
         "hitType": 0,
         "iconIndex": 314,
         "itypeId": 1,
-        "name": "両表のコイン",
+        "name": "Two-Sided Coin",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -1542,7 +1542,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「自爆」を習得する",
+        "description": "[Skill Acquired] Learned the magic bullet \"Self-Destruct\".",
         "effects": [
             {
                 "code": 43,
@@ -1554,7 +1554,7 @@
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "爆弾石",
+        "name": "Bomb Stone",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -1575,7 +1575,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「歩数アタック」を習得する",
+        "description": "[Skill Acquired] Learned the magic bullet \"Step Attack\".",
         "effects": [
             {
                 "code": 43,
@@ -1587,7 +1587,7 @@
         "hitType": 0,
         "iconIndex": 244,
         "itypeId": 1,
-        "name": "歩数計",
+        "name": "Pedometer",
         "note": "",
         "occasion": 2,
         "price": 10000,
@@ -1608,7 +1608,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「メンタルダメージ」を習得する",
+        "description": "[Skill Acquired] Learned the magic bullet \"Mental Damage\".",
         "effects": [
             {
                 "code": 43,
@@ -1620,7 +1620,7 @@
         "hitType": 0,
         "iconIndex": 304,
         "itypeId": 1,
-        "name": "魔法の粉",
+        "name": "Magic Powder",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -1641,7 +1641,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「癒しの風」を習得する",
+        "description": "[Skill Acquired] Learned the magic bullet \"Healing Wind\".",
         "effects": [
             {
                 "code": 43,
@@ -1653,7 +1653,7 @@
         "hitType": 0,
         "iconIndex": 303,
         "itypeId": 1,
-        "name": "白風の結晶",
+        "name": "White Wind Crystal",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -1674,7 +1674,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「マイティガード」を習得する",
+        "description": "[Skill Acquired] Learned the magic bullet \"Mighty Guard\".",
         "effects": [
             {
                 "code": 43,
@@ -1686,7 +1686,7 @@
         "hitType": 0,
         "iconIndex": 296,
         "itypeId": 1,
-        "name": "月のカーテン",
+        "name": "Moon Curtain",
         "note": "",
         "occasion": 2,
         "price": 5000,
@@ -1707,7 +1707,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「トラインパワー」を習得する",
+        "description": "[Skill Acquired] Learned the magic bullet \"Tri-Power\".",
         "effects": [
             {
                 "code": 43,
@@ -1719,7 +1719,7 @@
         "hitType": 0,
         "iconIndex": 300,
         "itypeId": 1,
-        "name": "デルタストーン",
+        "name": "Delta Stone",
         "note": "",
         "occasion": 2,
         "price": 5000,
@@ -1740,7 +1740,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「ハバネロパウダー」を習得する",
+        "description": "[Skill Acquired] Learned the magic bullet \"Habanero Powder\".",
         "effects": [
             {
                 "code": 43,
@@ -1752,7 +1752,7 @@
         "hitType": 0,
         "iconIndex": 256,
         "itypeId": 1,
-        "name": "レッドペッパー",
+        "name": "Red Pepper",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -1773,7 +1773,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「臭い息」を習得する",
+        "description": "[Skill Acquired] Learned the magic bullet \"Stinky Breath\".",
         "effects": [
             {
                 "code": 43,
@@ -1785,7 +1785,7 @@
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 1,
-        "name": "シュールストレミング",
+        "name": "Surströmming",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -1806,7 +1806,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n魔銃弾「フロートウィンド」を習得する",
+        "description": "[Skill Acquired] Learned the magic bullet \"Float Wind\".",
         "effects": [
             {
                 "code": 43,
@@ -1818,7 +1818,7 @@
         "hitType": 0,
         "iconIndex": 202,
         "itypeId": 1,
-        "name": "そよ風の笛",
+        "name": "Zephyr's Flute",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -1844,7 +1844,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "*** 発明品 ***",
+        "name": "*** Invention ***",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1865,7 +1865,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n発明品「フリーズビーム」を習得する",
+        "description": "[Skill Acquired] Learned the invention \"Freeze Beam\".",
         "effects": [
             {
                 "code": 43,
@@ -1877,7 +1877,7 @@
         "hitType": 0,
         "iconIndex": 242,
         "itypeId": 1,
-        "name": "壊れた冷却装置",
+        "name": "Broken Cooling Device",
         "note": "",
         "occasion": 2,
         "price": 750,
@@ -1898,7 +1898,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n発明品「プラズマキャノン」を習得する",
+        "description": "[Skill Acquired] Learned the invention \"Plasma Cannon\".",
         "effects": [
             {
                 "code": 43,
@@ -1910,7 +1910,7 @@
         "hitType": 0,
         "iconIndex": 242,
         "itypeId": 1,
-        "name": "壊れた電磁砲",
+        "name": "Broken Railgun",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -1931,7 +1931,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n発明品「火炎放射器」を習得する",
+        "description": "[Skill Acquired] Learned the invention \"Flamethrower\".",
         "effects": [
             {
                 "code": 43,
@@ -1943,7 +1943,7 @@
         "hitType": 0,
         "iconIndex": 242,
         "itypeId": 1,
-        "name": "壊れたガスバーナー",
+        "name": "Broken Gas Burner",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -1964,7 +1964,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n発明品「チェーンソー」を習得する",
+        "description": "[Skill Acquired] Learned the invention \"Chainsaw\".",
         "effects": [
             {
                 "code": 43,
@@ -1976,7 +1976,7 @@
         "hitType": 0,
         "iconIndex": 242,
         "itypeId": 1,
-        "name": "壊れたノコギリ",
+        "name": "Broken Saw",
         "note": "",
         "occasion": 2,
         "price": 2500,
@@ -1997,7 +1997,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n発明品「バズーカ砲」を習得する",
+        "description": "[Skill Acquired] Learned the invention \"Bazooka\".",
         "effects": [
             {
                 "code": 43,
@@ -2009,7 +2009,7 @@
         "hitType": 0,
         "iconIndex": 242,
         "itypeId": 1,
-        "name": "壊れた砲筒",
+        "name": "Broken Cannon Barrel",
         "note": "",
         "occasion": 2,
         "price": 6000,
@@ -2030,7 +2030,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n発明品「バリアシャワー」を習得する",
+        "description": "[Skill Acquired] Learned the invention \"Barrier Shower\".",
         "effects": [
             {
                 "code": 43,
@@ -2042,7 +2042,7 @@
         "hitType": 0,
         "iconIndex": 242,
         "itypeId": 1,
-        "name": "壊れたシャワーヘッド",
+        "name": "Broken Shower Head",
         "note": "",
         "occasion": 2,
         "price": 5000,
@@ -2063,7 +2063,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n発明品「シールドキラー」を習得する",
+        "description": "[Skill Acquired] Learned the invention \"Shield Killer\".",
         "effects": [
             {
                 "code": 43,
@@ -2075,7 +2075,7 @@
         "hitType": 0,
         "iconIndex": 242,
         "itypeId": 1,
-        "name": "壊れた水道管",
+        "name": "Broken Water Pipe",
         "note": "",
         "occasion": 2,
         "price": 2000,
@@ -2096,7 +2096,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n発明品「エフェクトバキューム」を習得する",
+        "description": "[Skill Acquired] Learned the invention \"Effect Vacuum\".",
         "effects": [
             {
                 "code": 43,
@@ -2108,7 +2108,7 @@
         "hitType": 0,
         "iconIndex": 242,
         "itypeId": 1,
-        "name": "壊れた掃除機",
+        "name": "Broken Vacuum Cleaner",
         "note": "",
         "occasion": 2,
         "price": 5000,
@@ -2129,7 +2129,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n発明品「フラッシャー」を習得する",
+        "description": "[Skill Acquired] Learned the invention \"Flasher\".",
         "effects": [
             {
                 "code": 43,
@@ -2141,7 +2141,7 @@
         "hitType": 0,
         "iconIndex": 242,
         "itypeId": 1,
-        "name": "壊れたカメラ",
+        "name": "Broken Camera",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -2162,7 +2162,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n発明品「催眠スプレー」を習得する",
+        "description": "[Skill Acquired] Learned the invention \"Hypnosis Spray\".",
         "effects": [
             {
                 "code": 43,
@@ -2174,7 +2174,7 @@
         "hitType": 0,
         "iconIndex": 242,
         "itypeId": 1,
-        "name": "壊れたスプレー",
+        "name": "Broken Spray",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -2195,7 +2195,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n発明品「超音波マイク」を習得する",
+        "description": "[Skill Acquired] Learned the invention \"Ultrasonic Microphone\".",
         "effects": [
             {
                 "code": 43,
@@ -2207,7 +2207,7 @@
         "hitType": 0,
         "iconIndex": 242,
         "itypeId": 1,
-        "name": "壊れたマイクスピーカー",
+        "name": "Broken Microphone Speaker",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -2228,7 +2228,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【スキル習得】\n発明品「有害スプレー」を習得する",
+        "description": "[Skill Acquired] Learned the invention \"Toxic Spray\".",
         "effects": [
             {
                 "code": 43,
@@ -2240,7 +2240,7 @@
         "hitType": 0,
         "iconIndex": 242,
         "itypeId": 1,
-        "name": "壊れた煙突",
+        "name": "Broken Chimney",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -2266,7 +2266,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "----以下追加用------",
+        "name": "----For Additional Entries------",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -2417,7 +2417,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると拠点へ戻ることが出来る。",
+        "description": "Using it allows you to return to base.",
         "effects": [
             {
                 "code": 44,
@@ -2429,7 +2429,7 @@
         "hitType": 0,
         "iconIndex": 340,
         "itypeId": 2,
-        "name": "帰還石",
+        "name": "Return Stone",
         "note": "<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 0,
@@ -2450,7 +2450,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると味方が全滅する。",
+        "description": "Using it will cause all allies to be wiped out.",
         "effects": [
             {
                 "code": 21,
@@ -2462,7 +2462,7 @@
         "hitType": 0,
         "iconIndex": 1,
         "itypeId": 2,
-        "name": "致死薬",
+        "name": "Lethal Drug",
         "note": "",
         "occasion": 1,
         "price": 10,
@@ -2483,12 +2483,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "使用すると相手は死ぬ。",
+        "description": "Using it will kill the opponent.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 17,
         "itypeId": 2,
-        "name": "抹殺薬",
+        "name": "Eradication Drug",
         "note": "",
         "occasion": 1,
         "price": 10,
@@ -2509,12 +2509,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "所持していると無敵になる。",
+        "description": "Owning it makes you invincible.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 30,
         "itypeId": 2,
-        "name": "不死の宝石",
+        "name": "Gem of Immortality",
         "note": "",
         "occasion": 3,
         "price": 10,
@@ -2535,12 +2535,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "「374287」と書かれている",
+        "description": "\"374287\" is written on it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 236,
         "itypeId": 2,
-        "name": "謎の紙",
+        "name": "Mysterious Paper",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2691,7 +2691,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用するとHPを10%回復する。",
+        "description": "Using it restores 10% of HP.",
         "effects": [
             {
                 "code": 11,
@@ -2703,7 +2703,7 @@
         "hitType": 0,
         "iconIndex": 192,
         "itypeId": 1,
-        "name": "ポーション",
+        "name": "Potion",
         "note": "",
         "occasion": 0,
         "price": 100,
@@ -2724,7 +2724,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用するとHPを30%回復する。",
+        "description": "Using it restores 30% of HP.",
         "effects": [
             {
                 "code": 11,
@@ -2736,7 +2736,7 @@
         "hitType": 0,
         "iconIndex": 192,
         "itypeId": 1,
-        "name": "ハイポーション",
+        "name": "High Potion",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -2757,7 +2757,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用するとMPを10%回復する。",
+        "description": "Using it restores 10% of MP.",
         "effects": [
             {
                 "code": 12,
@@ -2769,7 +2769,7 @@
         "hitType": 0,
         "iconIndex": 193,
         "itypeId": 1,
-        "name": "マナポーション",
+        "name": "Mana Potion",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -2790,7 +2790,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用するとMPを30%回復する。",
+        "description": "Using it restores 30% of MP.",
         "effects": [
             {
                 "code": 12,
@@ -2802,7 +2802,7 @@
         "hitType": 0,
         "iconIndex": 193,
         "itypeId": 1,
-        "name": "ハイマナポーション",
+        "name": "High Mana Potion",
         "note": "",
         "occasion": 0,
         "price": 400,
@@ -2823,7 +2823,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "すべての状態異常を回復する。",
+        "description": "Cures all status abnormalities.",
         "effects": [
             {
                 "code": 44,
@@ -2835,7 +2835,7 @@
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 1,
-        "name": "万能薬",
+        "name": "Panacea",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -2856,7 +2856,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用するとHPを50%回復する。\n戦闘時のみ使用できる。",
+        "description": "Using it restores 50% of HP. Can only be used during battle.",
         "effects": [
             {
                 "code": 11,
@@ -2868,7 +2868,7 @@
         "hitType": 0,
         "iconIndex": 212,
         "itypeId": 1,
-        "name": "回復薬",
+        "name": "Recovery Medicine",
         "note": "",
         "occasion": 1,
         "price": 400,
@@ -2889,7 +2889,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用するとHPを100%回復する。\n戦闘時のみ使用できる。",
+        "description": "Using it restores 100% of HP. Can only be used during battle.",
         "effects": [
             {
                 "code": 11,
@@ -2901,7 +2901,7 @@
         "hitType": 0,
         "iconIndex": 212,
         "itypeId": 1,
-        "name": "特級回復薬",
+        "name": "Special Recovery Medicine",
         "note": "",
         "occasion": 1,
         "price": 500,
@@ -2922,7 +2922,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用するとMPを50%回復する。\n戦闘時のみ使用できる。",
+        "description": "Using it restores 50% of MP. Can only be used during battle.",
         "effects": [
             {
                 "code": 12,
@@ -2934,7 +2934,7 @@
         "hitType": 0,
         "iconIndex": 213,
         "itypeId": 1,
-        "name": "マナ回復薬",
+        "name": "Mana Recovery Medicine",
         "note": "",
         "occasion": 1,
         "price": 500,
@@ -2955,7 +2955,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用するとMPを100%回復する。\n戦闘時のみ使用できる。",
+        "description": "Using it restores 100% of MP. Can only be used during battle.",
         "effects": [
             {
                 "code": 12,
@@ -2967,7 +2967,7 @@
         "hitType": 0,
         "iconIndex": 213,
         "itypeId": 1,
-        "name": "特級マナ回復薬",
+        "name": "Special Mana Recovery Medicine",
         "note": "",
         "occasion": 1,
         "price": 600,
@@ -3014,12 +3014,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "所持しているとマップ上での被ダメージが半分になる\n他の貴重品と同時に効果を発揮する",
+        "description": "Owning it halves damage received on the map. Works in conjunction with other key\nitems.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 357,
         "itypeId": 2,
-        "name": "黒の護石",
+        "name": "Black Amulet",
         "note": "<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 0,
@@ -3040,12 +3040,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "所持しているとボス戦闘の際の攻撃力が倍になる\n他の貴重品と同時に効果を発揮する",
+        "description": "When held, it doubles your attack power during boss battles and can be used in\nconjunction with other key items.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 352,
         "itypeId": 2,
-        "name": "赤の護石",
+        "name": "Red Amulet",
         "note": "<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 0,
@@ -3066,12 +3066,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "所持しているとボス戦闘の際の防御力が倍になる\n他の貴重品と同時に効果を発揮する",
+        "description": "When held, it doubles your defense power during boss battles and can be used in\nconjunction with other key items.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 353,
         "itypeId": 2,
-        "name": "青の護石",
+        "name": "Blue Amulet",
         "note": "<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 0,
@@ -3092,12 +3092,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "所持していると最大HPが倍になる\n他の貴重品と同時に効果を発揮する",
+        "description": "When held, it doubles your Max HP and can be used in conjunction with other key\nitems.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 356,
         "itypeId": 2,
-        "name": "紫の護石",
+        "name": "Purple Amulet",
         "note": "<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 0,
@@ -3118,12 +3118,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "所持していると最大MPが倍になる\n他の貴重品と同時に効果を発揮する",
+        "description": "When held, it doubles your Max MP and can be used in conjunction with other key\nitems.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 354,
         "itypeId": 2,
-        "name": "緑の護石",
+        "name": "Green Amulet",
         "note": "<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 0,
@@ -3274,7 +3274,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方全体の攻撃力を5ターンの間、100%上げる。",
+        "description": "Increases the attack power of all allies by 100% for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -3286,7 +3286,7 @@
         "hitType": 0,
         "iconIndex": 260,
         "itypeId": 1,
-        "name": "激化薬",
+        "name": "Intensifier Drug",
         "note": "",
         "occasion": 1,
         "price": 1000,
@@ -3333,7 +3333,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方全体の防御力を5ターンの間、100%上げる。",
+        "description": "Increases the defense power of all allies by 100% for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -3345,7 +3345,7 @@
         "hitType": 0,
         "iconIndex": 260,
         "itypeId": 1,
-        "name": "硬化薬",
+        "name": "Hardener Drug",
         "note": "",
         "occasion": 1,
         "price": 1000,

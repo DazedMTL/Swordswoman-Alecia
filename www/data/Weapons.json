@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--------剣----------",
+        "name": "--------Swords----------",
         "note": "",
         "params": [
             0,
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** 店売り ***",
+        "name": "*** For Sale ***",
         "note": "",
         "params": [
             0,
@@ -69,7 +69,7 @@
     {
         "id": 3,
         "animationId": 6,
-        "description": "【剣/攻+10】\n軽くて扱いやすい刀身の短い剣",
+        "description": "[Sword/Attack+10] A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -79,7 +79,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "",
         "params": [
             0,
@@ -97,7 +97,7 @@
     {
         "id": 4,
         "animationId": 6,
-        "description": "【剣/攻+17】\n鋭い切れ味を誇る戦闘用の長剣",
+        "description": "[Sword/Attack+17] A long sword with a sharp edge, designed for combat.",
         "etypeId": 1,
         "traits": [
             {
@@ -107,7 +107,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ロングソード",
+        "name": "Long Sword",
         "note": "",
         "params": [
             0,
@@ -125,7 +125,7 @@
     {
         "id": 5,
         "animationId": 6,
-        "description": "【剣/攻+27】\nオーソドックスな幅広の剣",
+        "description": "[Sword/Attack+27] An orthodox broadsword.",
         "etypeId": 1,
         "traits": [
             {
@@ -135,7 +135,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ブロードソード",
+        "name": "Broad Sword",
         "note": "",
         "params": [
             0,
@@ -153,7 +153,7 @@
     {
         "id": 6,
         "animationId": 6,
-        "description": "【剣/攻+40】\n反りのある刀身を持つ幅広の剣",
+        "description": "[Sword/Attack+40] A broadsword with a curved blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -163,7 +163,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ファルシオン",
+        "name": "Falchion",
         "note": "",
         "params": [
             0,
@@ -181,7 +181,7 @@
     {
         "id": 7,
         "animationId": 6,
-        "description": "【剣/攻+54】\n片手でも両手でも使用することのできる剣",
+        "description": "[Sword/Attack+54] A sword that can be used with either one hand or both hands.",
         "etypeId": 1,
         "traits": [
             {
@@ -191,7 +191,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "バスタードソード",
+        "name": "Bastard Sword",
         "note": "",
         "params": [
             0,
@@ -209,7 +209,7 @@
     {
         "id": 8,
         "animationId": 6,
-        "description": "【剣/攻+70】\n敵を斬ることを重視して作られた幅広の剣",
+        "description": "[Sword/Attack+70] A broadsword designed with an emphasis on cutting enemies.",
         "etypeId": 1,
         "traits": [
             {
@@ -219,7 +219,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "クレイモア",
+        "name": "Claymore",
         "note": "",
         "params": [
             0,
@@ -237,7 +237,7 @@
     {
         "id": 9,
         "animationId": 6,
-        "description": "【剣/攻+88】\n魔法の金属ミスリルで作られた剣",
+        "description": "[Sword/Attack+88] A sword made of the magical metal mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -247,7 +247,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "",
         "params": [
             0,
@@ -265,7 +265,7 @@
     {
         "id": 10,
         "animationId": 6,
-        "description": "【剣/攻+107】\nドラゴンの角と牙を加工して作られた剣",
+        "description": "[Sword/Attack+107] A sword crafted from the horns and fangs of a dragon.",
         "etypeId": 1,
         "traits": [
             {
@@ -275,7 +275,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ドラゴンソード",
+        "name": "Dragon Sword",
         "note": "",
         "params": [
             0,
@@ -308,7 +308,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** レア ***",
+        "name": "*** Rare ***",
         "note": "",
         "params": [
             0,
@@ -326,7 +326,7 @@
     {
         "id": 12,
         "animationId": 6,
-        "description": "【剣/攻+24/不死系特攻】\n教会の騎士が使う十字架を象った剣",
+        "description": "[Sword/Attack+24/Undead Bane] A cross-shaped sword used by knights of the\nchurch.",
         "etypeId": 1,
         "traits": [
             {
@@ -336,7 +336,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "クロスセイバー",
+        "name": "Cross Saber",
         "note": "",
         "params": [
             0,
@@ -354,7 +354,7 @@
     {
         "id": 13,
         "animationId": 6,
-        "description": "【剣/攻+33/＋睡眠】\n斬りつけた敵を眠らせることもある剣",
+        "description": "[Sword/Attack+33/+Sleep] A sword that can sometimes put the enemy to sleep upon\nslashing them.",
         "etypeId": 1,
         "traits": [
             {
@@ -369,7 +369,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "眠りの剣",
+        "name": "Sword of Slumber",
         "note": "",
         "params": [
             0,
@@ -387,7 +387,7 @@
     {
         "id": 14,
         "animationId": 171,
-        "description": "【剣/攻+46/防+10/腕装備不可】\n守りにも使える大型の剣",
+        "description": "[Sword/Attack+46/Defense+10/No Arm Equipment] A large sword that can also be\nused for defense.",
         "etypeId": 1,
         "traits": [
             {
@@ -402,7 +402,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ディフェンダー",
+        "name": "Defender",
         "note": "",
         "params": [
             0,
@@ -420,7 +420,7 @@
     {
         "id": 15,
         "animationId": 6,
-        "description": "【剣/攻+60/魔力+20】\n刀身にルーンの刻まれた剣",
+        "description": "[Sword/Attack+60/Magic Power+20] A sword engraved with runes on its blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -430,7 +430,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ルーンブレード",
+        "name": "Rune Blade",
         "note": "",
         "params": [
             0,
@@ -448,7 +448,7 @@
     {
         "id": 16,
         "animationId": 6,
-        "description": "【剣/攻+77/会心+40%/装備者のスキル封印】\n傘は形状が剣に似てるし、振り回したくなるのはわかるが…",
+        "description": "[Sword/Attack+77/Critical+40%/Wielder's Skills Sealed] I understand that\numbrellas are shaped like swords and make you want to swing them around, but...",
         "etypeId": 1,
         "traits": [
             {
@@ -513,7 +513,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "アンブレラ",
+        "name": "Umbrella",
         "note": "",
         "params": [
             0,
@@ -531,7 +531,7 @@
     {
         "id": 17,
         "animationId": 8,
-        "description": "【剣/攻+98/炎属性】\n炎のように波打つ刃を持った剣",
+        "description": "[Sword/Attack+98/Fire Attribute] A sword with a blade that undulates like\nflames.",
         "etypeId": 1,
         "traits": [
             {
@@ -541,7 +541,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "フランベルジュ",
+        "name": "Flamberge",
         "note": "",
         "params": [
             0,
@@ -559,7 +559,7 @@
     {
         "id": 18,
         "animationId": 6,
-        "description": "【剣/攻+136/防+10/魔力+10/魔防+10】\n己に眠る勇気の心を最大まで引き出してくれる剣",
+        "description": "[Sword/Attack+136/Defense+10/Magic Power+10/Magic Defense+10] A sword that draws\nout the courage sleeping within to its maximum.",
         "etypeId": 1,
         "traits": [
             {
@@ -569,7 +569,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ブレイブハート",
+        "name": "Braveheart",
         "note": "",
         "params": [
             0,
@@ -602,7 +602,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--------斧----------",
+        "name": "--------Axes----------",
         "note": "",
         "params": [
             0,
@@ -635,7 +635,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** 店売り ***",
+        "name": "*** For Sale ***",
         "note": "",
         "params": [
             0,
@@ -653,7 +653,7 @@
     {
         "id": 21,
         "animationId": 171,
-        "description": "【斧/攻+12/命中-5%】\n伐採に使う小型の斧",
+        "description": "[Axe/Attack+12/Accuracy-5%] A small axe used for logging.",
         "etypeId": 1,
         "traits": [
             {
@@ -673,7 +673,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ハンドアックス",
+        "name": "Hand Axe",
         "note": "",
         "params": [
             0,
@@ -691,7 +691,7 @@
     {
         "id": 22,
         "animationId": 6,
-        "description": "【斧/攻+19/命中-5%】\n狩猟で使用する投擲用の斧",
+        "description": "[Axe/Attack+19/Accuracy-5%] A throwing axe used for hunting.",
         "etypeId": 1,
         "traits": [
             {
@@ -711,7 +711,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "フランシスカ",
+        "name": "Francisca",
         "note": "",
         "params": [
             0,
@@ -729,7 +729,7 @@
     {
         "id": 23,
         "animationId": 171,
-        "description": "【斧/攻+30/命中-5％】\n戦闘用に作られた両刃の斧",
+        "description": "[Axe/Attack+30/Accuracy-5%] A double-edged axe made for combat.",
         "etypeId": 1,
         "traits": [
             {
@@ -749,7 +749,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バトルアックス",
+        "name": "Battle Axe",
         "note": "",
         "params": [
             0,
@@ -767,7 +767,7 @@
     {
         "id": 24,
         "animationId": 171,
-        "description": "【斧/攻+44/命中-5%】\n三日月型の刃を持つ戦斧",
+        "description": "[Axe/Attack+44/Accuracy-5%] A battle axe with a crescent-shaped blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -787,7 +787,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バルディッシュ",
+        "name": "Bardiche",
         "note": "",
         "params": [
             0,
@@ -805,7 +805,7 @@
     {
         "id": 25,
         "animationId": 171,
-        "description": "【斧/攻+58/命中-4％】\n柄を長くした強力なバトルアックス",
+        "description": "[Axe/Attack+58/Accuracy-4%] A powerful battle axe with an extended handle.",
         "etypeId": 1,
         "traits": [
             {
@@ -825,7 +825,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "グレートアックス",
+        "name": "Great Axe",
         "note": "",
         "params": [
             0,
@@ -843,7 +843,7 @@
     {
         "id": 26,
         "animationId": 171,
-        "description": "【斧/攻+74/命中-5%】\n深紅に染め上げられた戦斧",
+        "description": "[Axe/Attack+74/Accuracy-5%] A battle axe dyed deep crimson.",
         "etypeId": 1,
         "traits": [
             {
@@ -863,7 +863,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "クリムゾンアックス",
+        "name": "Crimson Axe",
         "note": "",
         "params": [
             0,
@@ -881,7 +881,7 @@
     {
         "id": 27,
         "animationId": 171,
-        "description": "【斧/攻+96/命中-5％】\n魔法の金属ミスリルで作られた斧",
+        "description": "[Axe/Attack+96/Accuracy-5%] An axe made of the magical metal mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -901,7 +901,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ミスリルアックス",
+        "name": "Mithril Axe",
         "note": "",
         "params": [
             0,
@@ -919,7 +919,7 @@
     {
         "id": 28,
         "animationId": 171,
-        "description": "【斧/攻+120/命中-5%】\nドラゴンの角と牙を加工して作られた戦斧",
+        "description": "[Axe/Attack+120/Accuracy-5%] A battle axe crafted from the horns and fangs of a\ndragon.",
         "etypeId": 1,
         "traits": [
             {
@@ -939,7 +939,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ドラゴンアックス",
+        "name": "Dragon Axe",
         "note": "",
         "params": [
             0,
@@ -972,7 +972,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** レア ***",
+        "name": "*** Rare ***",
         "note": "",
         "params": [
             0,
@@ -990,7 +990,7 @@
     {
         "id": 30,
         "animationId": 166,
-        "description": "【斧/攻+32/命中-5%/植物系特攻】\nより効率良く木が切れるよう改良されたハンドアックス",
+        "description": "[Axe/Attack+32/Accuracy-5%/Plant Bane] A hand axe improved for more efficient\nwoodcutting.",
         "etypeId": 1,
         "traits": [
             {
@@ -1010,7 +1010,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "木こりの斧",
+        "name": "Lumberjack's Axe",
         "note": "",
         "params": [
             0,
@@ -1028,7 +1028,7 @@
     {
         "id": 31,
         "animationId": 171,
-        "description": "【斧/攻+38/敏+4/命中-5%】\nならず者達が愛用する斧。なぜか敏捷性が上がる",
+        "description": "[Axe/Attack+38/Dexterity+4/Accuracy-5%] An axe favored by rogues. It somehow\nincreases agility.",
         "etypeId": 1,
         "traits": [
             {
@@ -1048,7 +1048,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バンデッドアックス",
+        "name": "Banded Axe",
         "note": "",
         "params": [
             0,
@@ -1066,7 +1066,7 @@
     {
         "id": 32,
         "animationId": 166,
-        "description": "【斧/攻+50/命中-5%/鬼系特攻】\n鬼の身体を簡単に切り裂けるよう、魔法がかけられた斧",
+        "description": "[Axe/Attack+50/Accuracy-5%/Demon Bane] An axe enchanted to easily slice through\ndemon flesh.",
         "etypeId": 1,
         "traits": [
             {
@@ -1086,7 +1086,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "オーガキラー",
+        "name": "Ogre Killer",
         "note": "",
         "params": [
             0,
@@ -1104,7 +1104,7 @@
     {
         "id": 33,
         "animationId": 171,
-        "description": "【斧/攻+67/命中-5％/水属性】\n水の力を秘めた海賊御用達の斧",
+        "description": "[Axe/Attack+67/Accuracy-5%/Water Attribute] An axe imbued with the power of\nwater, favored by pirates.",
         "etypeId": 1,
         "traits": [
             {
@@ -1124,7 +1124,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "パイレーツアックス",
+        "name": "Pirate's Axe",
         "note": "",
         "params": [
             0,
@@ -1142,7 +1142,7 @@
     {
         "id": 34,
         "animationId": 177,
-        "description": "【斧/攻+90/命中-5%/+スタン/装備者のスキル封印】\nボケに対してスパーン！とツッコみましょう",
+        "description": "[Axe/Attack+90/Accuracy-5%/+Stun/Wielder's Skills Sealed] Let's respond to\nsilliness with a sharp retort!",
         "etypeId": 1,
         "traits": [
             {
@@ -1217,7 +1217,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ハリセン",
+        "name": "Harisen",
         "note": "",
         "params": [
             0,
@@ -1235,7 +1235,7 @@
     {
         "id": 35,
         "animationId": 171,
-        "description": "【斧/攻+108/魔防+10/命中-5%】\n表面にルーンの刻まれた斧",
+        "description": "[Axe/Attack+108/Magic Defense+10/Accuracy-5%] An axe with runes inscribed on its\nsurface.",
         "etypeId": 1,
         "traits": [
             {
@@ -1255,7 +1255,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ルーンアックス",
+        "name": "Rune Axe",
         "note": "",
         "params": [
             0,
@@ -1273,7 +1273,7 @@
     {
         "id": 36,
         "animationId": 171,
-        "description": "【斧/攻+160/命中-5％/会心+7％】\n巨人族の英雄が使ったとされる重斧",
+        "description": "[Axe/Attack+160/Accuracy-5%/Critical+7%] A heavy axe said to have been used by a\ngiant hero.",
         "etypeId": 1,
         "traits": [
             {
@@ -1298,7 +1298,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ギガンテス",
+        "name": "Gigantes",
         "note": "",
         "params": [
             0,
@@ -1331,7 +1331,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--------槍----------",
+        "name": "--------Spears----------",
         "note": "",
         "params": [
             0,
@@ -1364,7 +1364,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** 店売り ***",
+        "name": "*** For Sale ***",
         "note": "",
         "params": [
             0,
@@ -1382,7 +1382,7 @@
     {
         "id": 39,
         "animationId": 11,
-        "description": "【槍/攻+11】\n突きに特化させた短めの槍",
+        "description": "[Spear/Attack+11] A short spear specialized for thrusting.",
         "etypeId": 1,
         "traits": [
             {
@@ -1392,7 +1392,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ショートスピア",
+        "name": "Short Spear",
         "note": "",
         "params": [
             0,
@@ -1410,7 +1410,7 @@
     {
         "id": 40,
         "animationId": 11,
-        "description": "【槍/攻+18】\n柄を可能な限り長くした槍。",
+        "description": "[Spear/Attack+18] A spear with a handle made as long as possible.",
         "etypeId": 1,
         "traits": [
             {
@@ -1420,7 +1420,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ロングスピア",
+        "name": "Long Spear",
         "note": "",
         "params": [
             0,
@@ -1438,7 +1438,7 @@
     {
         "id": 41,
         "animationId": 11,
-        "description": "【槍/攻+28】\n先端が木の葉状の刃になっている戦闘用の長槍",
+        "description": "[Spear/Attack+28] A combat spear with a blade shaped like a leaf at the tip",
         "etypeId": 1,
         "traits": [
             {
@@ -1448,7 +1448,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "パイク",
+        "name": "Pike",
         "note": "",
         "params": [
             0,
@@ -1466,7 +1466,7 @@
     {
         "id": 42,
         "animationId": 11,
-        "description": "【槍/攻+42】\n農具から発展した三つ又の鉾",
+        "description": "[Spear/Attack+42] A trident spear evolved from farming tools",
         "etypeId": 1,
         "traits": [
             {
@@ -1476,7 +1476,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "トライデント",
+        "name": "Trident",
         "note": "",
         "params": [
             0,
@@ -1494,7 +1494,7 @@
     {
         "id": 43,
         "animationId": 11,
-        "description": "【槍/攻+56】\n幅広の刃を持った鋼鉄製の長槍",
+        "description": "[Spear/Attack+56] A long steel spear with a wide blade",
         "etypeId": 1,
         "traits": [
             {
@@ -1504,7 +1504,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "パルチザン",
+        "name": "Partisan",
         "note": "",
         "params": [
             0,
@@ -1522,7 +1522,7 @@
     {
         "id": 44,
         "animationId": 166,
-        "description": "【槍/攻+72】\n穂先に斧頭が取り付けられた槍",
+        "description": "[Spear/Attack+72] A spear with an axe head attached to the tip",
         "etypeId": 1,
         "traits": [
             {
@@ -1532,7 +1532,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ハルバード",
+        "name": "Halberd",
         "note": "",
         "params": [
             0,
@@ -1550,7 +1550,7 @@
     {
         "id": 45,
         "animationId": 11,
-        "description": "【槍/攻+91】\n魔法の金属ミスリルで作られた長槍",
+        "description": "[Spear/Attack+91] A long spear made of the magical metal Mithril",
         "etypeId": 1,
         "traits": [
             {
@@ -1560,7 +1560,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ミスリルスピア",
+        "name": "Mithril Spear",
         "note": "",
         "params": [
             0,
@@ -1578,7 +1578,7 @@
     {
         "id": 46,
         "animationId": 11,
-        "description": "【槍/攻+112】\nドラゴンの角を加工して作られた長槍",
+        "description": "[Spear/Attack+112] A long spear crafted from a dragon's horn",
         "etypeId": 1,
         "traits": [
             {
@@ -1588,7 +1588,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ドラゴンスピア",
+        "name": "Dragon Spear",
         "note": "",
         "params": [
             0,
@@ -1621,7 +1621,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** レア ***",
+        "name": "*** Rare ***",
         "note": "",
         "params": [
             0,
@@ -1639,7 +1639,7 @@
     {
         "id": 48,
         "animationId": 14,
-        "description": "【槍/攻+25/氷属性】\n氷の力を秘めた槍",
+        "description": "[Spear/Attack+25/Ice Attribute] A spear imbued with the power of ice",
         "etypeId": 1,
         "traits": [
             {
@@ -1649,7 +1649,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "アイスランス",
+        "name": "Ice Lance",
         "note": "",
         "params": [
             0,
@@ -1667,7 +1667,7 @@
     {
         "id": 49,
         "animationId": 202,
-        "description": "【槍/攻+34/＋毒】\n先端に毒が塗られた長槍。刺されると毒による激痛が走る",
+        "description": "[Spear/Attack+34/+Poison] A long spear coated with poison at the tip. Being\nstabbed causes intense pain from the poison",
         "etypeId": 1,
         "traits": [
             {
@@ -1682,7 +1682,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "スティンガー",
+        "name": "Stinger",
         "note": "",
         "params": [
             0,
@@ -1700,7 +1700,7 @@
     {
         "id": 50,
         "animationId": 11,
-        "description": "【槍/攻+47/通常攻撃時HP吸収】\n刺された敵の生き血を吸う赤い槍",
+        "description": "[Spear/Attack+47/HP Absorption on Normal Attacks] A red spear that sucks the\nlifeblood of enemies it stabs",
         "etypeId": 1,
         "traits": [
             {
@@ -1710,7 +1710,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ブラッドスピア",
+        "name": "Blood Spear",
         "note": "<skill_id:5>",
         "params": [
             0,
@@ -1728,7 +1728,7 @@
     {
         "id": 51,
         "animationId": 11,
-        "description": "【槍/攻+60/水棲系特攻】\n主に漁師が魚を仕留める時に使用するモリ",
+        "description": "[Spear/Attack+60/Special Attack Against Aquatic Creatures] A harpoon mainly used\nby fishermen to catch fish",
         "etypeId": 1,
         "traits": [
             {
@@ -1738,7 +1738,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ハープーン",
+        "name": "Harpoon",
         "note": "",
         "params": [
             0,
@@ -1756,7 +1756,7 @@
     {
         "id": 52,
         "animationId": 11,
-        "description": "【槍/攻+79/会心+40%/装備者のスキル封印】\n掃除用具で戦うって、シュールすぎないだろうか…？",
+        "description": "[Spear/Attack+79/Critical+40%/Wielder's Skills Sealed] Fighting with cleaning\nequipment... isn't that just too surreal?",
         "etypeId": 1,
         "traits": [
             {
@@ -1821,7 +1821,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "モップ",
+        "name": "Mop",
         "note": "",
         "params": [
             0,
@@ -1839,7 +1839,7 @@
     {
         "id": 53,
         "animationId": 12,
-        "description": "【槍/攻+99/魔防+5/光属性】\n白き神の祝福を受けた聖なる槍",
+        "description": "[Spear/Attack+99/M. Defense+5/Light Attribute] A holy spear blessed by a white\ngod",
         "etypeId": 1,
         "traits": [
             {
@@ -1849,7 +1849,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ホーリーランス",
+        "name": "Holy Lance",
         "note": "",
         "params": [
             0,
@@ -1867,7 +1867,7 @@
     {
         "id": 54,
         "animationId": 11,
-        "description": "【槍/攻+144/魔防+10】\nとある神が持つ意志、行動、知恵の力を秘めた三叉槍",
+        "description": "[Spear/Attack+144/M. Defense+10] A trident that holds the power of will, action,\nand wisdom of a certain god",
         "etypeId": 1,
         "traits": [
             {
@@ -1877,7 +1877,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "トリシューラ",
+        "name": "Trishula",
         "note": "",
         "params": [
             0,
@@ -1910,7 +1910,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--------刀----------",
+        "name": "--------Swords----------",
         "note": "",
         "params": [
             0,
@@ -1943,7 +1943,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** 店売り ***",
+        "name": "*** Shop Item ***",
         "note": "",
         "params": [
             0,
@@ -1961,7 +1961,7 @@
     {
         "id": 57,
         "animationId": 6,
-        "description": "【斧/攻+15/命中-8%】\n刃を下にして帯刀する一般的な刀",
+        "description": "[Axe/Attack+15/Accuracy-8%] A common sword carried with the blade facing down",
         "etypeId": 1,
         "traits": [
             {
@@ -1976,7 +1976,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "太刀",
+        "name": "Tachi",
         "note": "",
         "params": [
             0,
@@ -1994,7 +1994,7 @@
     {
         "id": 58,
         "animationId": 6,
-        "description": "【斧/攻+22/命中-8%】\n銘を持たない細身の刀",
+        "description": "[Axe/Attack+22/Accuracy-8%] A slender sword without a famous inscription",
         "etypeId": 1,
         "traits": [
             {
@@ -2009,7 +2009,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "無銘刀",
+        "name": "Nameless Sword",
         "note": "",
         "params": [
             0,
@@ -2027,7 +2027,7 @@
     {
         "id": 59,
         "animationId": 6,
-        "description": "【刀/攻+34/命中-8％】\n破壊力に優れた太刀",
+        "description": "[Sword/Attack+34/Accuracy-8%] A tachi renowned for its destructive power",
         "etypeId": 1,
         "traits": [
             {
@@ -2042,7 +2042,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "斬馬刀",
+        "name": "Zanbato",
         "note": "",
         "params": [
             0,
@@ -2060,7 +2060,7 @@
     {
         "id": 60,
         "animationId": 6,
-        "description": "【刀/攻+48/命中-5%】\n桜の紋が柄にあしらわれた刀",
+        "description": "[Sword/Attack+48/Accuracy-5%] A sword adorned with a cherry blossom pattern on\nits hilt",
         "etypeId": 1,
         "traits": [
             {
@@ -2075,7 +2075,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "桜花",
+        "name": "Ouka (Cherry Blossom)",
         "note": "",
         "params": [
             0,
@@ -2093,7 +2093,7 @@
     {
         "id": 61,
         "animationId": 6,
-        "description": "【刀/攻+62/命中-8％】\n名のある刀匠に鍛えられた業物の刀",
+        "description": "[Sword/Attack+62/Accuracy-8%] A masterwork sword forged by a renowned swordsmith",
         "etypeId": 1,
         "traits": [
             {
@@ -2108,7 +2108,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "虎徹",
+        "name": "Kotetsu",
         "note": "",
         "params": [
             0,
@@ -2126,7 +2126,7 @@
     {
         "id": 62,
         "animationId": 6,
-        "description": "【斧/攻+78/命中-8%】\n刀身が血のように深紅に染まった刀",
+        "description": "[Axe/Attack+78/Accuracy-8%] A sword with a blade dyed deep crimson like blood",
         "etypeId": 1,
         "traits": [
             {
@@ -2141,7 +2141,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "紅血",
+        "name": "Kouketsu (Crimson Blood)",
         "note": "",
         "params": [
             0,
@@ -2159,7 +2159,7 @@
     {
         "id": 63,
         "animationId": 6,
-        "description": "【刀/攻+101/命中-8％】\n西洋ではミスリルと呼ばれる魔法の金属で作られた刀",
+        "description": "[Sword/Attack+101/Accuracy-8%] A sword made of magical metal called Mithril in\nthe West",
         "etypeId": 1,
         "traits": [
             {
@@ -2174,7 +2174,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "霊銀刀",
+        "name": "Reigin Sword",
         "note": "",
         "params": [
             0,
@@ -2192,7 +2192,7 @@
     {
         "id": 64,
         "animationId": 6,
-        "description": "【刀/攻+125/命中-8%】\n竜の角を加工して作られた刀",
+        "description": "[Sword/Attack+125/Accuracy-8%] A sword crafted from a dragon's horn",
         "etypeId": 1,
         "traits": [
             {
@@ -2207,7 +2207,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "竜角刀",
+        "name": "Ryukotsu Sword",
         "note": "",
         "params": [
             0,
@@ -2240,7 +2240,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** レア ***",
+        "name": "*** Rare ***",
         "note": "",
         "params": [
             0,
@@ -2258,7 +2258,7 @@
     {
         "id": 66,
         "animationId": 6,
-        "description": "【刀/攻+22/命中-8%/早い順番で攻撃】\n素早く動けるよう全体的に軽い素材で作られた刀",
+        "description": "[Sword/Attack+22/Accuracy-8%/Attacks Earlier in Turn Order] A sword made from\nlighter materials for quick movement",
         "etypeId": 1,
         "traits": [
             {
@@ -2278,7 +2278,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "疾風",
+        "name": "Hayate (Gale)",
         "note": "",
         "params": [
             0,
@@ -2296,7 +2296,7 @@
     {
         "id": 67,
         "animationId": 171,
-        "description": "【刀/攻+21/命中-4%/2回攻撃】\n一呼吸で二度斬りつけることができる刀",
+        "description": "[Sword/Attack+21/Accuracy-4%/Double Attack] A sword capable of striking twice in\none breath",
         "etypeId": 1,
         "traits": [
             {
@@ -2316,7 +2316,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "隼",
+        "name": "Hayabusa (Falcon)",
         "note": "",
         "params": [
             0,
@@ -2334,7 +2334,7 @@
     {
         "id": 68,
         "animationId": 199,
-        "description": "【刀/攻+54/命中-8%/＋麻痺】\n斬りつけたと同時に相手の影を縛り付けてしまう刀",
+        "description": "[Sword/Attack+54/Accuracy-8%/+Paralysis] A sword that binds the shadow of the\nopponent as it slashes",
         "etypeId": 1,
         "traits": [
             {
@@ -2354,7 +2354,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "影殺",
+        "name": "Kagesatsu (Shadow Kill)",
         "note": "",
         "params": [
             0,
@@ -2372,7 +2372,7 @@
     {
         "id": 69,
         "animationId": 7,
-        "description": "【刀/攻+71/命中-8％/悪魔系特攻】\n破邪の力を秘めた刀",
+        "description": "[Sword/Attack+71/Accuracy-8%/Special Attack Against Demons] A sword imbued with\nthe power to vanquish evil",
         "etypeId": 1,
         "traits": [
             {
@@ -2387,7 +2387,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "七支刀",
+        "name": "Shichishito (Seven-Branched Sword)",
         "note": "",
         "params": [
             0,
@@ -2405,7 +2405,7 @@
     {
         "id": 70,
         "animationId": 171,
-        "description": "【刀/攻+95/命中-8%/会心+40%/装備者のスキル封印】\n観光地のお土産さんでよく見かけるアレ",
+        "description": "[Sword/Attack+95/Accuracy-8%/Critical+40%/Wielder's Skills Sealed] That thing\nyou often see at souvenir shops in tourist spots",
         "etypeId": 1,
         "traits": [
             {
@@ -2475,7 +2475,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "木刀",
+        "name": "Bokuto (Wooden Sword)",
         "note": "",
         "params": [
             0,
@@ -2493,7 +2493,7 @@
     {
         "id": 71,
         "animationId": 6,
-        "description": "【刀/攻+113/命中-8%/闇属性】\n妖しい輝きと力を宿した黒い刀",
+        "description": "[Sword/Attack+113/Accuracy-8%/Dark Attribute] A black sword with a mysterious\nglow and power",
         "etypeId": 1,
         "traits": [
             {
@@ -2508,7 +2508,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "妖刀",
+        "name": "Youken (Cursed Sword)",
         "note": "",
         "params": [
             0,
@@ -2526,7 +2526,7 @@
     {
         "id": 72,
         "animationId": 6,
-        "description": "【刀/攻+165/命中-8％/エンカウント率半減】\n邪を退け、妖を治めると称される刀",
+        "description": "[Sword/Attack+165/Accuracy-8%/Encounter Rate Halved] A sword said to repel evil\nand control spirits",
         "etypeId": 1,
         "traits": [
             {
@@ -2551,7 +2551,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "村雨",
+        "name": "Murasame",
         "note": "",
         "params": [
             0,
@@ -2584,7 +2584,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "-----格闘・爪--------",
+        "name": "-----Martial Arts & Claws--------",
         "note": "",
         "params": [
             0,
@@ -2617,7 +2617,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** 店売り ***",
+        "name": "*** Shop Item ***",
         "note": "",
         "params": [
             0,
@@ -2635,7 +2635,7 @@
     {
         "id": 75,
         "animationId": 1,
-        "description": "【格闘/攻+10/会心+4%/腕装備不可】\nなめし革で作られた格闘家用の手袋",
+        "description": "[Fist/Attack+10/Critical+4%/Arm Equipment Not Allowed] Gloves made of tanned\nleather for martial artists",
         "etypeId": 1,
         "traits": [
             {
@@ -2655,7 +2655,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "レザーグローブ",
+        "name": "Leather Glove",
         "note": "",
         "params": [
             0,
@@ -2673,7 +2673,7 @@
     {
         "id": 76,
         "animationId": 1,
-        "description": "【格闘/攻+16/会心+4%/腕装備不可】\n拳にはめて打撃力を強化する金属製のリング",
+        "description": "[Fist/Attack+16/Critical+4%/Arm Equipment Not Allowed] Metal rings worn on the\nfists to enhance striking power",
         "etypeId": 1,
         "traits": [
             {
@@ -2693,7 +2693,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "ナックルダスター",
+        "name": "Knuckle Duster",
         "note": "",
         "params": [
             0,
@@ -2711,7 +2711,7 @@
     {
         "id": 77,
         "animationId": 1,
-        "description": "【格闘/攻+26/会心+4%/腕装備不可】\n拳頭にトゲがついたグローブ",
+        "description": "[Fist/Attack+26/Critical+4%/Arm Equipment Not Allowed] Gloves with spikes on the\nknuckles",
         "etypeId": 1,
         "traits": [
             {
@@ -2731,7 +2731,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "セスタス",
+        "name": "Cestus",
         "note": "",
         "params": [
             0,
@@ -2749,7 +2749,7 @@
     {
         "id": 78,
         "animationId": 16,
-        "description": "【爪/攻+38/会心+4％/腕装備不可】\n短い4本の爪が取り付けられた格闘武器",
+        "description": "[Claw/Attack+38/Critical+4%/Arm Equipment Not Allowed] A fighting weapon with\nfour short claws attached",
         "etypeId": 1,
         "traits": [
             {
@@ -2769,7 +2769,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "バグナウ",
+        "name": "Bagh Nakh",
         "note": "",
         "params": [
             0,
@@ -2787,7 +2787,7 @@
     {
         "id": 79,
         "animationId": 16,
-        "description": "【爪/攻+52/会心+4%/腕装備不可】\n鋼鉄のかぎ爪が仕込まれた手甲",
+        "description": "[Claw/Attack+52/Critical+4%/Arm Equipment Not Allowed] Gauntlets with steel\ntalons concealed within",
         "etypeId": 1,
         "traits": [
             {
@@ -2807,7 +2807,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "アイアンクロー",
+        "name": "Iron Claw",
         "note": "",
         "params": [
             0,
@@ -2825,7 +2825,7 @@
     {
         "id": 80,
         "animationId": 16,
-        "description": "【爪/攻+68/会心+4%/腕装備不可】\n銀のかぎ爪が仕込まれた手甲",
+        "description": "[Claw/Attack+68/Critical+4%/Arm Equipment Not Allowed] Gauntlets with silver\ntalons concealed within",
         "etypeId": 1,
         "traits": [
             {
@@ -2845,7 +2845,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "シルバークロー",
+        "name": "Silver Claw",
         "note": "",
         "params": [
             0,
@@ -2863,7 +2863,7 @@
     {
         "id": 81,
         "animationId": 16,
-        "description": "【爪/攻+85/会心+4%/腕装備不可】\n魔法の金属ミスリルのかぎ爪が仕込まれた手甲",
+        "description": "[Claw/Atk+85/Crit+4%/No Arm Equip] A gauntlet with magical mithril claws built\nin",
         "etypeId": 1,
         "traits": [
             {
@@ -2883,7 +2883,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "ミスリルクロー",
+        "name": "Mithril Claw",
         "note": "",
         "params": [
             0,
@@ -2901,7 +2901,7 @@
     {
         "id": 82,
         "animationId": 16,
-        "description": "【爪/攻+104/会心+4%/腕装備不可】\nドラゴンの爪が仕込まれた手甲",
+        "description": "[Claw/Atk+104/Crit+4%/No Arm Equip] A gauntlet with dragon claws built in",
         "etypeId": 1,
         "traits": [
             {
@@ -2921,7 +2921,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "ドラゴンクロー",
+        "name": "Dragon Claw",
         "note": "",
         "params": [
             0,
@@ -2954,7 +2954,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** レア ***",
+        "name": "*** Rare ***",
         "note": "",
         "params": [
             0,
@@ -2972,7 +2972,7 @@
     {
         "id": 84,
         "animationId": 1,
-        "description": "【格闘/攻+23/防+6/会心+4%/腕装備不可】\n手を保護する防具だが、格闘家には武器としての用途もある",
+        "description": "[Martial Arts/Atk+23/Def+6/Crit+4%/No Arm Equip] Protective gear for the hands,\nalso serves as a weapon for martial artists",
         "etypeId": 1,
         "traits": [
             {
@@ -2992,7 +2992,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "ガントレット",
+        "name": "Gauntlet",
         "note": "",
         "params": [
             0,
@@ -3010,7 +3010,7 @@
     {
         "id": 85,
         "animationId": 18,
-        "description": "【爪/攻+32/魔力+3/会心+4%/炎属性/腕装備不可】\n炎の力を宿したかぎ爪",
+        "description": "[Claw/Atk+32/M. Power+3/Crit+4%/Fire Attribute/No Arm Equip] Claw imbued with\nthe power of fire",
         "etypeId": 1,
         "traits": [
             {
@@ -3030,7 +3030,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "炎の爪",
+        "name": "Flame Claw",
         "note": "",
         "params": [
             0,
@@ -3048,7 +3048,7 @@
     {
         "id": 86,
         "animationId": 16,
-        "description": "【爪/攻+45/魔力+3/会心+4%/＋混乱/腕装備不可】\n妖精の魔力を宿したかぎ爪",
+        "description": "[Claw/Atk+45/M. Power+3/Crit+4%/+Confusion/No Arm Equip] Claw imbued with fairy\nmagic",
         "etypeId": 1,
         "traits": [
             {
@@ -3073,7 +3073,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "妖精の爪",
+        "name": "Fairy Claw",
         "note": "",
         "params": [
             0,
@@ -3091,7 +3091,7 @@
     {
         "id": 87,
         "animationId": 1,
-        "description": "【格闘/攻+58/会心+4%/物質系特攻/腕装備不可】\n岩や金属を砕きやすくなるグローブ",
+        "description": "[Martial Arts/Atk+58/Crit+4%/Material Type Bonus Damage/No Arm Equip] Gloves\nthat make it easier to crush rocks and metals",
         "etypeId": 1,
         "traits": [
             {
@@ -3111,7 +3111,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "ブレイクナックル",
+        "name": "Break Knuckle",
         "note": "",
         "params": [
             0,
@@ -3129,7 +3129,7 @@
     {
         "id": 88,
         "animationId": 1,
-        "description": "【格闘/攻+75/会心+40%/装備者のスキル封印/腕装備不可】\n農業や工業等様々な場面で活躍する手袋。そして戦闘でも…",
+        "description": "[Martial Arts/Atk+75/Crit+40%/Wearer's Skills Sealed/No Arm Equip] Gloves that\nare useful in various situations like agriculture and industry, and in combat...",
         "etypeId": 1,
         "traits": [
             {
@@ -3199,7 +3199,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "軍手",
+        "name": "Work Gloves",
         "note": "",
         "params": [
             0,
@@ -3217,7 +3217,7 @@
     {
         "id": 89,
         "animationId": 16,
-        "description": "【爪/攻+95/会心+4%/＋激昂/腕装備不可】\n自分だけでなく、相手の闘争心も引き出すかぎ爪",
+        "description": "[Claw/Atk+95/Crit+4%/+Rage/No Arm Equip] Claws that not only incite the wearer's\nfighting spirit but also the opponent's",
         "etypeId": 1,
         "traits": [
             {
@@ -3247,7 +3247,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "デュエルクロー",
+        "name": "Duel Claw",
         "note": "",
         "params": [
             0,
@@ -3265,7 +3265,7 @@
     {
         "id": 90,
         "animationId": 16,
-        "description": "【爪/攻+140/会心+8%/腕装備不可】\n百獣の王の如き力を得られる究極のかぎ爪",
+        "description": "[Claw/Atk+140/Crit+8%/No Arm Equip] The ultimate claws that grant the power of\nthe king of beasts",
         "etypeId": 1,
         "traits": [
             {
@@ -3285,7 +3285,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "キングオブビースト",
+        "name": "King of Beasts",
         "note": "",
         "params": [
             0,
@@ -3318,7 +3318,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "------弓--------",
+        "name": "------ Bows --------",
         "note": "",
         "params": [
             0,
@@ -3351,7 +3351,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** 店売り ***",
+        "name": "*** Shop Item ***",
         "note": "",
         "params": [
             0,
@@ -3369,7 +3369,7 @@
     {
         "id": 93,
         "animationId": 11,
-        "description": "【弓/攻+8/敏+2】\n狩猟用に作られた短めの弓",
+        "description": "[Bow/Atk+8/Dex+2] A short bow made for hunting",
         "etypeId": 1,
         "traits": [
             {
@@ -3379,7 +3379,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ショートボウ",
+        "name": "Short Bow",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3397,7 +3397,7 @@
     {
         "id": 94,
         "animationId": 11,
-        "description": "【弓/攻+13/敏+3】\n威力を高めた戦闘用の長弓",
+        "description": "[Bow/Atk+13/Dex+3] A longbow enhanced for combat",
         "etypeId": 1,
         "traits": [
             {
@@ -3407,7 +3407,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ロングボウ",
+        "name": "Long Bow",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3425,7 +3425,7 @@
     {
         "id": 95,
         "animationId": 11,
-        "description": "【弓/攻+21/敏+5】\n動物の腱を裏打ちして強化した弓",
+        "description": "[Bow/Atk+21/Dex+5] A bow reinforced with animal tendons",
         "etypeId": 1,
         "traits": [
             {
@@ -3435,7 +3435,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ラップドボウ",
+        "name": "Wrapped Bow",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3453,7 +3453,7 @@
     {
         "id": 96,
         "animationId": 11,
-        "description": "【弓/攻+31/敏+8】\n強力なバネで矢を射出する石弓",
+        "description": "[Bow/Atk+31/Dex+8] A crossbow that shoots arrows with a powerful spring",
         "etypeId": 1,
         "traits": [
             {
@@ -3463,7 +3463,7 @@
             }
         ],
         "iconIndex": 103,
-        "name": "クロスボウ",
+        "name": "Crossbow",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3481,7 +3481,7 @@
     {
         "id": 97,
         "animationId": 11,
-        "description": "【弓/攻+43/敏+10】\n銀で作られた弓",
+        "description": "[Bow/Atk+43/Dex+10] A bow made of silver",
         "etypeId": 1,
         "traits": [
             {
@@ -3491,7 +3491,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "シルバーボウ",
+        "name": "Silver Bow",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3509,7 +3509,7 @@
     {
         "id": 98,
         "animationId": 11,
-        "description": "【弓/攻+55/敏+14】\n殺傷性のある矢を放てるように改良された弓",
+        "description": "[Bow/Atk+55/Dex+14] A bow modified to shoot lethal arrows",
         "etypeId": 1,
         "traits": [
             {
@@ -3519,7 +3519,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "キラーボウ",
+        "name": "Killer Bow",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3537,7 +3537,7 @@
     {
         "id": 99,
         "animationId": 11,
-        "description": "【弓/攻+69/敏+17】\n魔法の金属ミスリルで作られた弓",
+        "description": "[Bow/Atk+69/Dex+17] A bow made of magical mithril metal",
         "etypeId": 1,
         "traits": [
             {
@@ -3547,7 +3547,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ミスリルボウ",
+        "name": "Mithril Bow",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3565,7 +3565,7 @@
     {
         "id": 100,
         "animationId": 11,
-        "description": "【弓/攻+85/敏+21】\n弦の部分に竜の髭が使われている弓",
+        "description": "[Bow/Atk+85/Dex+21] A bow using dragon whiskers for the string",
         "etypeId": 1,
         "traits": [
             {
@@ -3575,7 +3575,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ドラゴンボウ",
+        "name": "Dragon Bow",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3608,7 +3608,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** レア ***",
+        "name": "*** Rare ***",
         "note": "",
         "params": [
             0,
@@ -3626,7 +3626,7 @@
     {
         "id": 102,
         "animationId": 11,
-        "description": "【弓/攻+18/魔力+5/敏+5】\n東洋の国において神事で使用される弓。あずさゆみと読む",
+        "description": "[Bow/Atk+18/M. Power+5/Dex+5] A bow used in sacred ceremonies in Eastern\ncountries, called an Azusa Yumi",
         "etypeId": 1,
         "traits": [
             {
@@ -3636,7 +3636,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "梓弓",
+        "name": "Azusa Bow",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3654,7 +3654,7 @@
     {
         "id": 103,
         "animationId": 204,
-        "description": "【弓/攻+26/敏+6/＋幻惑】\n幻惑の力が込められた弓",
+        "description": "[Bow/Atk+26/Dex+6/+Bewitchment] A bow imbued with the power of bewitchment",
         "etypeId": 1,
         "traits": [
             {
@@ -3669,7 +3669,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "幻惑の弓",
+        "name": "Bow of Enchantment",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3687,7 +3687,7 @@
     {
         "id": 104,
         "animationId": 86,
-        "description": "【弓/攻+36/魔力+6/敏+12/土属性】\n土の精霊の力が込められた弓",
+        "description": "[Bow/Atk+36/M. Power+6/Dex+12/Earth Attribute] A bow imbued with the power of\nearth spirits",
         "etypeId": 1,
         "traits": [
             {
@@ -3697,7 +3697,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "大地の弓",
+        "name": "Bow of the Earth",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3715,7 +3715,7 @@
     {
         "id": 105,
         "animationId": 209,
-        "description": "【弓/攻+47/魔力+12/敏+12/＋魅了】\n敵のハートまで射抜いてしまう魔性の弓",
+        "description": "[Bow/Atk+47/M. Power+12/Dex+12/+Charm] A bewitching bow that can pierce even the\nheart of an enemy",
         "etypeId": 1,
         "traits": [
             {
@@ -3730,7 +3730,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "キューピッドボウ",
+        "name": "Cupid Bow",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3748,7 +3748,7 @@
     {
         "id": 106,
         "animationId": 11,
-        "description": "【弓/攻+76/会心+40%/装備者のスキル封印】\n某緑の勇者や超能力少年も使っていた由緒正しき飛び道具",
+        "description": "[Bow/Atk+76/Crit+40%/Wearer's Skills Sealed] A noble projectile weapon used by a\ncertain green hero and a psychic boy",
         "etypeId": 1,
         "traits": [
             {
@@ -3813,7 +3813,7 @@
             }
         ],
         "iconIndex": 114,
-        "name": "パチンコ",
+        "name": "Slingshot",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3831,7 +3831,7 @@
     {
         "id": 107,
         "animationId": 11,
-        "description": "【弓/攻+77/魔力+16/敏+19】\n妖精の森に生える霊木から作られた弓",
+        "description": "[Bow/Atk+77/M. Power+16/Dex+19] A bow made from the spirit wood that grows in\nthe fairy forest",
         "etypeId": 1,
         "traits": [
             {
@@ -3841,7 +3841,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "エルブンボウ",
+        "name": "Elven Bow",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3859,7 +3859,7 @@
     {
         "id": 108,
         "animationId": 12,
-        "description": "【弓/攻106/魔力+22/敏+26】\n流星の如き速さの矢が放てる至高の弓",
+        "description": "[Bow/Atk+106/M. Power+22/Dex+26] The supreme bow that can shoot arrows with\nmeteoric speed",
         "etypeId": 1,
         "traits": [
             {
@@ -3869,7 +3869,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "シューティングスター",
+        "name": "Shooting Star",
         "note": "<skill_id:3>",
         "params": [
             0,
@@ -3902,7 +3902,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "------短剣--------",
+        "name": "------ Daggers --------",
         "note": "",
         "params": [
             0,
@@ -3935,7 +3935,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** 店売り ***",
+        "name": "*** Shop Item ***",
         "note": "",
         "params": [
             0,
@@ -3953,7 +3953,7 @@
     {
         "id": 111,
         "animationId": 6,
-        "description": "【短剣/攻+4/敏+2/運+2】\n日常生活にも使えるナイフ",
+        "description": "[Dagger/Atk+4/Dex+2/Luck+2] A knife that can also be used in everyday life",
         "etypeId": 1,
         "traits": [
             {
@@ -3968,7 +3968,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ナイフ",
+        "name": "Knife",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -3986,7 +3986,7 @@
     {
         "id": 112,
         "animationId": 6,
-        "description": "【短剣/攻+7/敏+3/運+4】\n幅広の刀身を持つ戦闘用の短刀",
+        "description": "[Dagger/Atk+7/Dex+3/Luck+4] A combat dagger with a broad blade",
         "etypeId": 1,
         "traits": [
             {
@@ -4001,7 +4001,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ダガー",
+        "name": "Dagger",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4019,7 +4019,7 @@
     {
         "id": 113,
         "animationId": 11,
-        "description": "【短剣/攻+12/敏+6/運+7】\n斬るというより刺して攻撃する短剣",
+        "description": "[Dagger/Atk+12/Dex+6/Luck+7] A dagger designed more for stabbing than slashing",
         "etypeId": 1,
         "traits": [
             {
@@ -4034,7 +4034,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "スティレット",
+        "name": "Stiletto",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4052,7 +4052,7 @@
     {
         "id": 114,
         "animationId": 6,
-        "description": "【短剣/攻+18/敏+9/運+9】\n湾曲しているのが特徴の短剣",
+        "description": "[Dagger/Atk+18/Dex+9/Luck+9] A distinctive dagger with a curved blade",
         "etypeId": 1,
         "traits": [
             {
@@ -4067,7 +4067,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ククリ",
+        "name": "Kukri",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4085,7 +4085,7 @@
     {
         "id": 115,
         "animationId": 6,
-        "description": "【短剣/攻+24/敏+12/運+13】\n刀身が厚く丈夫な短刀",
+        "description": "[Dagger/Atk+24/Dex+12/Luck+13] A sturdy, thick-bladed short sword",
         "etypeId": 1,
         "traits": [
             {
@@ -4100,7 +4100,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "マシェット",
+        "name": "Machete",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4118,7 +4118,7 @@
     {
         "id": 116,
         "animationId": 6,
-        "description": "【短剣/攻+32/敏+16/運+17】\n刀身が長めの短剣。剣や鉈の代わりとしても使用される",
+        "description": "[Dagger/Atk+32/Dex+16/Luck+17] A longer-bladed dagger, can also be used as a\nsword or machete replacement",
         "etypeId": 1,
         "traits": [
             {
@@ -4133,7 +4133,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "スクラマサクス",
+        "name": "Scramasax",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4151,7 +4151,7 @@
     {
         "id": 117,
         "animationId": 11,
-        "description": "【短剣/攻+41/敏+20/運+21】\n魔法の金属ミスリルで作られた短剣",
+        "description": "[Dagger/Atk+41/Dex+20/Luck+21] A dagger made of magical mithril metal",
         "etypeId": 1,
         "traits": [
             {
@@ -4166,7 +4166,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ミスリルダガー",
+        "name": "Mithril Dagger",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4184,7 +4184,7 @@
     {
         "id": 118,
         "animationId": 11,
-        "description": "【短剣/攻+50/敏+25/運+25】\nドラゴンの牙を加工して作られた短剣",
+        "description": "[Dagger/Atk+50/Dex+25/Luck+25] A dagger crafted from a dragon's fang",
         "etypeId": 1,
         "traits": [
             {
@@ -4199,7 +4199,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ドラゴンファング",
+        "name": "Dragon Fang",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4232,7 +4232,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** レア ***",
+        "name": "*** Rare ***",
         "note": "",
         "params": [
             0,
@@ -4250,7 +4250,7 @@
     {
         "id": 120,
         "animationId": 6,
-        "description": "【短剣/攻+10/敏+5/運+5/獣系特攻】\n獣の肉を引き裂く、狩猟用の短剣",
+        "description": "[Dagger/Atk+10/Dex+5/Luck+5/Beast Type Bonus Damage] A hunting dagger for\ntearing through beast flesh",
         "etypeId": 1,
         "traits": [
             {
@@ -4265,7 +4265,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ハンティングナイフ",
+        "name": "Hunting Knife",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4283,7 +4283,7 @@
     {
         "id": 121,
         "animationId": 6,
-        "description": "【短剣/攻+15/敏+7/運+8/回避+5%】\n攻撃を盾のように受け流せる短剣",
+        "description": "[Dagger/Atk+15/Agi+7/Luck+8/Evasion+5%] A dagger that can deflect attacks like a\nshield.",
         "etypeId": 1,
         "traits": [
             {
@@ -4303,7 +4303,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "マンゴーシュ",
+        "name": "Main-gauche",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4321,7 +4321,7 @@
     {
         "id": 122,
         "animationId": 6,
-        "description": "【短剣/攻+21/敏+10/運+11/＋魔封じ】\n魔法使い殺しの異名を持つ短剣",
+        "description": "[Dagger/Atk+21/Agi+10/Luck+11/+Magic Seal] A dagger known as the mage killer.",
         "etypeId": 1,
         "traits": [
             {
@@ -4341,7 +4341,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "メイジマッシャー",
+        "name": "Mage Masher",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4359,7 +4359,7 @@
     {
         "id": 123,
         "animationId": 6,
-        "description": "【短剣/攻+29/敏+14/運+15/＋即死】\n暗殺者が好んで使う漆黒の短刀",
+        "description": "[Dagger/Atk+29/Agi+14/Luck+15/+Instant Death] A jet-black dagger favored by\nassassins.",
         "etypeId": 1,
         "traits": [
             {
@@ -4379,7 +4379,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "アサシンダガー",
+        "name": "Assassin Dagger",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4397,7 +4397,7 @@
     {
         "id": 124,
         "animationId": 6,
-        "description": "【短剣/攻+74/会心+40%/装備者のスキル封印】\n料理で使う刃物だからね！犯罪行為に使っちゃいけないよ！",
+        "description": "[Dagger/Atk+74/Crit+40%/Wearer's Skills Sealed] It's a kitchen knife, so don't\nuse it for crimes!",
         "etypeId": 1,
         "traits": [
             {
@@ -4467,7 +4467,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "包丁",
+        "name": "Kitchen Knife",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4485,7 +4485,7 @@
     {
         "id": 125,
         "animationId": 6,
-        "description": "【短剣/攻+45/敏+22/運+23/攻撃力1段階弱体】\nその名の通り、剣を折ることのできる短剣",
+        "description": "[Dagger/Atk+45/Agi+22/Luck+23/Attack Power Weakened] True to its name, a dagger\nthat can break swords.",
         "etypeId": 1,
         "traits": [
             {
@@ -4500,7 +4500,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ソードブレイカー",
+        "name": "Sword Breaker",
         "note": "<skill_id:357>",
         "params": [
             0,
@@ -4518,7 +4518,7 @@
     {
         "id": 126,
         "animationId": 6,
-        "description": "【短剣/攻+64/敏+32/運+32/回避+5%/風属性】\n暴風に名を冠する短剣。扱う者に風の如き速さをもたらす",
+        "description": "[Dagger/Atk+64/Agi+32/Luck+32/Evasion+5%/Wind Attribute] A dagger named after\nthe gale, granting its wielder the speed of the wind.",
         "etypeId": 1,
         "traits": [
             {
@@ -4538,7 +4538,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ヴォーテクス",
+        "name": "Vortex",
         "note": "<skill_id:4>",
         "params": [
             0,
@@ -4571,7 +4571,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "------鞭--------",
+        "name": "------Whip--------",
         "note": "",
         "params": [
             0,
@@ -4604,7 +4604,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** 店売り ***",
+        "name": "*** Store Sold ***",
         "note": "",
         "params": [
             0,
@@ -4622,7 +4622,7 @@
     {
         "id": 129,
         "animationId": 177,
-        "description": "【鞭/攻+9】\nなめし革で作られた一般的な鞭",
+        "description": "[Whip/Atk+9] A common whip made from tanned leather.",
         "etypeId": 1,
         "traits": [
             {
@@ -4632,7 +4632,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "革の鞭",
+        "name": "Leather Whip",
         "note": "",
         "params": [
             0,
@@ -4650,7 +4650,7 @@
     {
         "id": 130,
         "animationId": 177,
-        "description": "【鞭/攻+15】\n蛇の皮で作られた丈夫な鞭",
+        "description": "[Whip/Atk+15] A sturdy whip made from snake skin.",
         "etypeId": 1,
         "traits": [
             {
@@ -4660,7 +4660,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "蛇皮の鞭",
+        "name": "Snake Skin Whip",
         "note": "",
         "params": [
             0,
@@ -4678,7 +4678,7 @@
     {
         "id": 131,
         "animationId": 177,
-        "description": "【鞭/攻+26】\n茨を編んで作られた鞭",
+        "description": "[Whip/Atk+26] A whip made from woven thorns.",
         "etypeId": 1,
         "traits": [
             {
@@ -4688,7 +4688,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "茨の鞭",
+        "name": "Thorn Whip",
         "note": "",
         "params": [
             0,
@@ -4706,7 +4706,7 @@
     {
         "id": 132,
         "animationId": 177,
-        "description": "【鞭/攻+38】\n鎖の先に分銅が取り付けて作られた鞭",
+        "description": "[Whip/Atk+38] A whip with a weight attached to the end of a chain.",
         "etypeId": 1,
         "traits": [
             {
@@ -4716,7 +4716,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "鎖鞭",
+        "name": "Chain Whip",
         "note": "",
         "params": [
             0,
@@ -4734,7 +4734,7 @@
     {
         "id": 133,
         "animationId": 177,
-        "description": "【鞭/攻+51】\n何本もの有刺鉄線を編み込んで作られた鞭",
+        "description": "[Whip/Atk+51] A whip made from several strands of barbed wire.",
         "etypeId": 1,
         "traits": [
             {
@@ -4744,7 +4744,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "棘の鞭",
+        "name": "Spiked Whip",
         "note": "",
         "params": [
             0,
@@ -4762,7 +4762,7 @@
     {
         "id": 134,
         "animationId": 177,
-        "description": "【鞭/攻+67】\n猛獣を調教する者達が使う丈夫な鞭",
+        "description": "[Whip/Atk+67] A sturdy whip used by tamers of wild beasts.",
         "etypeId": 1,
         "traits": [
             {
@@ -4772,7 +4772,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "調教師の鞭",
+        "name": "Trainer's Whip",
         "note": "",
         "params": [
             0,
@@ -4790,7 +4790,7 @@
     {
         "id": 135,
         "animationId": 177,
-        "description": "【鞭/攻+84】\n魔法の金属ミスリルを編み込んで作られた鞭",
+        "description": "[Whip/Atk+84] A whip woven with the magical metal mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -4800,7 +4800,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "ミスリルの鞭",
+        "name": "Mithril Whip",
         "note": "",
         "params": [
             0,
@@ -4818,7 +4818,7 @@
     {
         "id": 136,
         "animationId": 177,
-        "description": "【鞭/攻+102】\nドラゴンの髭を加工して作られた鞭",
+        "description": "[Whip/Atk+102] A whip made from processed dragon whiskers.",
         "etypeId": 1,
         "traits": [
             {
@@ -4828,7 +4828,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "竜の髭",
+        "name": "Dragon's Beard",
         "note": "",
         "params": [
             0,
@@ -4861,7 +4861,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** レア ***",
+        "name": "*** Rare ***",
         "note": "",
         "params": [
             0,
@@ -4879,7 +4879,7 @@
     {
         "id": 138,
         "animationId": 177,
-        "description": "【鞭/攻+22/＋毒】\nサソリの尻尾を模して作られた鞭",
+        "description": "[Whip/Atk+22/+Poison] A whip modeled after a scorpion's tail.",
         "etypeId": 1,
         "traits": [
             {
@@ -4894,7 +4894,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "スコーピオンテイル",
+        "name": "Scorpion Tail",
         "note": "",
         "params": [
             0,
@@ -4912,7 +4912,7 @@
     {
         "id": 139,
         "animationId": 177,
-        "description": "【鞭/攻+32/魔力+8/土属性】\n土蛇を模して作られた鞭",
+        "description": "[Whip/Atk+32/M. Power+8/Earth Attribute] A whip modeled after an earth serpent.",
         "etypeId": 1,
         "traits": [
             {
@@ -4922,7 +4922,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "サイドワインダー",
+        "name": "Sidewinder",
         "note": "",
         "params": [
             0,
@@ -4940,7 +4940,7 @@
     {
         "id": 140,
         "animationId": 181,
-        "description": "【鞭/攻+46/魔力+8/雷属性】\n電撃を帯びた鞭。拷問でも使われているとのこと",
+        "description": "[Whip/Atk+46/M. Power+8/Lightning Attribute] An electrified whip, said to be\nused in torture.",
         "etypeId": 1,
         "traits": [
             {
@@ -4950,7 +4950,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "電撃鞭",
+        "name": "Electric Whip",
         "note": "",
         "params": [
             0,
@@ -4968,7 +4968,7 @@
     {
         "id": 141,
         "animationId": 177,
-        "description": "【鞭/攻+58/魔力+15】\n魔道士が護身用に持つ魔力の込められた鞭",
+        "description": "[Whip/Atk+58/M. Power+15] A whip imbued with magic power, carried by magicians\nfor self-defense.",
         "etypeId": 1,
         "traits": [
             {
@@ -4978,7 +4978,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "魔道士の鞭",
+        "name": "Sorcerer's Whip",
         "note": "",
         "params": [
             0,
@@ -4996,7 +4996,7 @@
     {
         "id": 142,
         "animationId": 177,
-        "description": "【鞭/攻+74/会心+40%/装備者のスキル封印】\nナワトビの縄を鞭のように振り回したことのある人っている？",
+        "description": "[Whip/Atk+74/Crit+40%/Wearer's Skills Sealed] Has anyone ever swung a jump rope\nlike a whip?",
         "etypeId": 1,
         "traits": [
             {
@@ -5061,7 +5061,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "跳び縄",
+        "name": "Jump Rope",
         "note": "",
         "params": [
             0,
@@ -5079,7 +5079,7 @@
     {
         "id": 143,
         "animationId": 177,
-        "description": "【鞭/攻+92/魔力+30/水属性】\n鯨の髭を加工して作られた鞭。水の力を秘めている",
+        "description": "[Whip/Atk+92/M. Power+30/Water Attribute] A whip made from processed whale\nwhiskers, concealing the power of water.",
         "etypeId": 1,
         "traits": [
             {
@@ -5089,7 +5089,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "鯨の髭",
+        "name": "Whale's Beard",
         "note": "",
         "params": [
             0,
@@ -5107,7 +5107,7 @@
     {
         "id": 144,
         "animationId": 177,
-        "description": "【鞭/攻+130/魔力+20/敏+5】\nとある神の愛馬の尻尾を加工して作られたと言われる鞭",
+        "description": "[Whip/Atk+130/M. Power+20/Agi+5] A whip said to be made from the tail of a\ncertain god's beloved horse.",
         "etypeId": 1,
         "traits": [
             {
@@ -5117,7 +5117,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "スレイプニル",
+        "name": "Sleipnir",
         "note": "",
         "params": [
             0,
@@ -5150,7 +5150,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "------杖--------",
+        "name": "------Staff--------",
         "note": "",
         "params": [
             0,
@@ -5183,7 +5183,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** 店売り ***",
+        "name": "*** Store Sold ***",
         "note": "",
         "params": [
             0,
@@ -5201,7 +5201,7 @@
     {
         "id": 147,
         "animationId": 1,
-        "description": "【杖/攻+6/魔力+8】\n樫の木で作られた堅い杖",
+        "description": "[Staff/Atk+6/M. Power+8] A sturdy staff made from oak wood.",
         "etypeId": 1,
         "traits": [
             {
@@ -5211,7 +5211,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "オークスタッフ",
+        "name": "Oak Staff",
         "note": "",
         "params": [
             0,
@@ -5229,7 +5229,7 @@
     {
         "id": 148,
         "animationId": 1,
-        "description": "【杖/攻+10/魔力+12】\n糸杉の木で作られた杖",
+        "description": "[Staff/Atk+10/M. Power+12] A staff made from yew wood.",
         "etypeId": 1,
         "traits": [
             {
@@ -5239,7 +5239,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "サイプレスパイル",
+        "name": "Cypress Pile",
         "note": "",
         "params": [
             0,
@@ -5257,7 +5257,7 @@
     {
         "id": 149,
         "animationId": 1,
-        "description": "【杖/攻+18/魔力+16】\n金属で作られた杖",
+        "description": "[Staff/Atk+18/M. Power+16] A staff made from metal.",
         "etypeId": 1,
         "traits": [
             {
@@ -5267,7 +5267,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "フルメタルロッド",
+        "name": "Full Metal Rod",
         "note": "",
         "params": [
             0,
@@ -5285,7 +5285,7 @@
     {
         "id": 150,
         "animationId": 1,
-        "description": "【杖/攻+26/魔力+20】\n精神集中を助ける宝珠のついた杖",
+        "description": "[Staff/Atk+26/M. Power+20] A staff with an orb that aids in concentration.",
         "etypeId": 1,
         "traits": [
             {
@@ -5295,7 +5295,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ジュエルワンド",
+        "name": "Jewel Wand",
         "note": "",
         "params": [
             0,
@@ -5313,7 +5313,7 @@
     {
         "id": 151,
         "animationId": 1,
-        "description": "【杖/攻+36/魔力+26】\n術者の魔力を増幅させる銀製の杖",
+        "description": "[Staff/Atk+36/M. Power+26] A silver staff that amplifies the wielder's magical\npower.",
         "etypeId": 1,
         "traits": [
             {
@@ -5323,7 +5323,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "フォースワンド",
+        "name": "Force Wand",
         "note": "",
         "params": [
             0,
@@ -5341,7 +5341,7 @@
     {
         "id": 152,
         "animationId": 1,
-        "description": "【杖/攻+47/魔力+37】\n黄金色に輝く魔法の杖",
+        "description": "[Staff/Atk+47/M. Power+37] A golden staff shining with magical power.",
         "etypeId": 1,
         "traits": [
             {
@@ -5351,7 +5351,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ゴールドスタッフ",
+        "name": "Gold Staff",
         "note": "",
         "params": [
             0,
@@ -5369,7 +5369,7 @@
     {
         "id": 153,
         "animationId": 1,
-        "description": "【杖/攻+60/魔力+46】\n魔法の金属ミスリルで作られた杖",
+        "description": "[Staff/Atk+60/M. Power+46] A staff made from the magical metal mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -5379,7 +5379,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ミスリルロッド",
+        "name": "Mithril Rod",
         "note": "",
         "params": [
             0,
@@ -5397,7 +5397,7 @@
     {
         "id": 154,
         "animationId": 2,
-        "description": "【杖/攻+60/魔力+56】\n内に込められた魔力で衝撃波を発生させる杖",
+        "description": "[Staff/Atk+60/M. Power+56] A staff that generates shockwaves with the magic\npower contained within.",
         "etypeId": 1,
         "traits": [
             {
@@ -5407,7 +5407,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ウィザードスタッフ",
+        "name": "Wizard's Staff",
         "note": "",
         "params": [
             0,
@@ -5440,7 +5440,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** レア ***",
+        "name": "*** Rare ***",
         "note": "",
         "params": [
             0,
@@ -5458,7 +5458,7 @@
     {
         "id": 156,
         "animationId": 3,
-        "description": "【杖/攻+14/魔力+18/炎属性】\n炎の魔力を秘めた杖。通常攻撃時に火球を放つ",
+        "description": "[Staff/Atk+14/M. Power+18/Fire Attribute] A staff harboring the power of fire,\nreleasing fireballs during normal attacks.",
         "etypeId": 1,
         "traits": [
             {
@@ -5468,7 +5468,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "フレイムロッド",
+        "name": "Flame Rod",
         "note": "<skill_id:300>",
         "params": [
             0,
@@ -5486,7 +5486,7 @@
     {
         "id": 157,
         "animationId": 1,
-        "description": "【杖/攻+22/魔力+16/敏+2/風属性】\n風の魔力を秘めた杖。通常攻撃時につむじ風を起こす",
+        "description": "[Staff/Atk+22/M. Power+16/Agi+2/Wind Attribute] A staff harboring the power of\nwind, creating whirlwinds during normal attacks.",
         "etypeId": 1,
         "traits": [
             {
@@ -5496,7 +5496,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ウィンドスタッフ",
+        "name": "Wind Staff",
         "note": "<skill_id:310>",
         "params": [
             0,
@@ -5514,7 +5514,7 @@
     {
         "id": 158,
         "animationId": 1,
-        "description": "【杖/攻+30/魔力+24/水属性】\n水の魔力を秘めた杖。通常攻撃時に水鉄砲を放つ",
+        "description": "[Staff/Atk+30/M. Power+24/Water Attribute] A staff harboring the power of water,\nshooting water jets during normal attacks.",
         "etypeId": 1,
         "traits": [
             {
@@ -5524,7 +5524,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "アクアワンド",
+        "name": "Aqua Wand",
         "note": "<skill_id:306>",
         "params": [
             0,
@@ -5542,7 +5542,7 @@
     {
         "id": 159,
         "animationId": 1,
-        "description": "【杖/攻+42/魔力+28/雷属性】\n雷の魔力を秘めた杖。通常攻撃時に稲妻を落とす",
+        "description": "[Staff/Atk+42/M. Power+28/Lightning Attribute] A staff harboring the power of\nlightning, calling down thunderbolts during normal attacks.",
         "etypeId": 1,
         "traits": [
             {
@@ -5552,7 +5552,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "雷雲の杖",
+        "name": "Storm Cloud Staff",
         "note": "<skill_id:304>",
         "params": [
             0,
@@ -5570,7 +5570,7 @@
     {
         "id": 160,
         "animationId": 1,
-        "description": "【鞭/攻+72/魔力-500/会心+40%/装備者のスキル封印】\nこれを使えば君も魔法少女（少年）になれるかも！？",
+        "description": "[Whip/Atk+72/M. Power-500/Crit+40%/Wearer's Skills Sealed] With this, you might\nbecome a magical girl (or boy)!?",
         "etypeId": 1,
         "traits": [
             {
@@ -5635,7 +5635,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "おもちゃのステッキ",
+        "name": "Toy Stick",
         "note": "",
         "params": [
             0,
@@ -5653,7 +5653,7 @@
     {
         "id": 161,
         "animationId": 1,
-        "description": "【杖/攻+66/魔力+50/闇属性】\n闇の魔力を秘めた錫杖。通常攻撃時に暗黒を放つ",
+        "description": "[Staff/Attack+66/Magic+50/Dark Attribute] A rod imbued with dark magic. Emits\ndarkness with normal attacks.",
         "etypeId": 1,
         "traits": [
             {
@@ -5663,7 +5663,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "シャドウセプター",
+        "name": "Shadow Scepter",
         "note": "<skill_id:314>",
         "params": [
             0,
@@ -5681,7 +5681,7 @@
     {
         "id": 162,
         "animationId": 1,
-        "description": "【杖/攻+90/魔力+78/光属性】\n世界樹より生まれたとされる杖。通常攻撃時に光弾を放つ",
+        "description": "[Staff/Attack+90/Magic+78/Light Attribute] A staff said to be born from the\nWorld Tree. Emits light bullets with normal attacks.",
         "etypeId": 1,
         "traits": [
             {
@@ -5691,7 +5691,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ユグドラシル",
+        "name": "Yggdrasil",
         "note": "<skill_id:312>",
         "params": [
             0,
@@ -5724,7 +5724,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "------鈍器--------",
+        "name": "------Blunt Weapons--------",
         "note": "",
         "params": [
             0,
@@ -5757,7 +5757,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** 店売り ***",
+        "name": "*** Store Sold ***",
         "note": "",
         "params": [
             0,
@@ -5775,7 +5775,7 @@
     {
         "id": 165,
         "animationId": 1,
-        "description": "【鈍器/攻+8/魔力+6】\nシンプルな木製の棍棒",
+        "description": "[Blunt Weapon/Attack+8/Magic+6] A simple wooden club.",
         "etypeId": 1,
         "traits": [
             {
@@ -5785,7 +5785,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "グラブ",
+        "name": "Glove",
         "note": "",
         "params": [
             0,
@@ -5803,7 +5803,7 @@
     {
         "id": 166,
         "animationId": 1,
-        "description": "【鈍器/攻+14/魔力+8】\n大工仕事でも使用される木製のハンマー",
+        "description": "[Blunt Weapon/Attack+14/Magic+8] A wooden hammer also used for carpentry work.",
         "etypeId": 1,
         "traits": [
             {
@@ -5813,7 +5813,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "ウッドハンマー",
+        "name": "Wood Hammer",
         "note": "",
         "params": [
             0,
@@ -5831,7 +5831,7 @@
     {
         "id": 167,
         "animationId": 1,
-        "description": "【鈍器/攻+24/魔力+10】\n打撃力を高めた金属製の鈍器",
+        "description": "[Blunt Weapon/Attack+24/Magic+10] A metal blunt weapon enhanced for striking\npower.",
         "etypeId": 1,
         "traits": [
             {
@@ -5841,7 +5841,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "メイス",
+        "name": "Mace",
         "note": "",
         "params": [
             0,
@@ -5859,7 +5859,7 @@
     {
         "id": 168,
         "animationId": 1,
-        "description": "【鈍器/攻+34/魔力+12】\n柄の先に鎖で鉄球をつないだ打撃武器",
+        "description": "[Blunt Weapon/Attack+34/Magic+12] A striking weapon with an iron ball attached\nto the handle by a chain.",
         "etypeId": 1,
         "traits": [
             {
@@ -5869,7 +5869,7 @@
             }
         ],
         "iconIndex": 98,
-        "name": "フレイル",
+        "name": "Flail",
         "note": "",
         "params": [
             0,
@@ -5887,7 +5887,7 @@
     {
         "id": 169,
         "animationId": 1,
-        "description": "【鈍器/攻+48/魔力+16】\n刺つきの鉄球が取り付けられたメイス",
+        "description": "[Blunt Weapon/Attack+48/Magic+16] A mace with an iron ball fitted with spikes.",
         "etypeId": 1,
         "traits": [
             {
@@ -5897,7 +5897,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "モーニングスター",
+        "name": "Morning Star",
         "note": "",
         "params": [
             0,
@@ -5915,7 +5915,7 @@
     {
         "id": 170,
         "animationId": 1,
-        "description": "【鈍器/攻+63/魔力+20】\n戦闘用に作られた鋼鉄のハンマー",
+        "description": "[Blunt Weapon/Attack+63/Magic+20] A steel hammer made for combat.",
         "etypeId": 1,
         "traits": [
             {
@@ -5925,7 +5925,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "ウォーハンマー",
+        "name": "War Hammer",
         "note": "",
         "params": [
             0,
@@ -5943,7 +5943,7 @@
     {
         "id": 171,
         "animationId": 1,
-        "description": "【鈍器/攻+80/魔力+26】\n魔法の金属ミスリルで作られたハンマー",
+        "description": "[Blunt Weapon/Attack+80/Magic+26] A hammer made of the magical metal mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -5953,7 +5953,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "ミスリルハンマー",
+        "name": "Mithril Hammer",
         "note": "",
         "params": [
             0,
@@ -5971,7 +5971,7 @@
     {
         "id": 172,
         "animationId": 1,
-        "description": "【鈍器/攻+97/魔力+32】\n最大の大きさを誇るメイス",
+        "description": "[Blunt Weapon/Attack+97/Magic+32] A mace boasting the largest size.",
         "etypeId": 1,
         "traits": [
             {
@@ -5981,7 +5981,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "グランドメイス",
+        "name": "Grand Mace",
         "note": "",
         "params": [
             0,
@@ -6014,7 +6014,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** レア ***",
+        "name": "*** Rare ***",
         "note": "",
         "params": [
             0,
@@ -6032,7 +6032,7 @@
     {
         "id": 174,
         "animationId": 188,
-        "description": "【鈍器/攻+19/魔力+11/＋魔封じ】\n魔封じの力を秘めたメイス",
+        "description": "[Blunt Weapon/Attack+19/Magic+11/+Magic Seal] A mace with the power to seal\nmagic.",
         "etypeId": 1,
         "traits": [
             {
@@ -6047,7 +6047,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "魔封じのメイス",
+        "name": "Magic-Sealing Mace",
         "note": "",
         "params": [
             0,
@@ -6065,7 +6065,7 @@
     {
         "id": 175,
         "animationId": 1,
-        "description": "【鈍器/攻+29/魔力+10/土属性】\n大地の力を秘めた魔法のハンマー",
+        "description": "[Blunt Weapon/Attack+29/Magic+10/Earth Attribute] A magical hammer imbued with\nthe power of the earth.",
         "etypeId": 1,
         "traits": [
             {
@@ -6075,7 +6075,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "アースブレイカー",
+        "name": "Earth Breaker",
         "note": "",
         "params": [
             0,
@@ -6093,7 +6093,7 @@
     {
         "id": 176,
         "animationId": 190,
-        "description": "【鈍器/攻+40/魔力+14/＋混乱】\nその名の通り、先端が星型になっているメイス",
+        "description": "[Blunt Weapon/Attack+40/Magic+14/+Confusion] True to its name, a mace with a\nstar-shaped tip.",
         "etypeId": 1,
         "traits": [
             {
@@ -6108,7 +6108,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "スターメイス",
+        "name": "Star Mace",
         "note": "",
         "params": [
             0,
@@ -6126,7 +6126,7 @@
     {
         "id": 177,
         "animationId": 2,
-        "description": "【鈍器/攻+56/魔力+18/光属性】\n大天使セラフィムの祝福を受けたメイス",
+        "description": "[Blunt Weapon/Attack+56/Magic+18/Light Attribute] A mace blessed by the great\narchangel Seraphim.",
         "etypeId": 1,
         "traits": [
             {
@@ -6136,7 +6136,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "セラフィムメイス",
+        "name": "Seraphim Mace",
         "note": "",
         "params": [
             0,
@@ -6154,7 +6154,7 @@
     {
         "id": 178,
         "animationId": 1,
-        "description": "【鈍器/攻+80/会心+40%/装備者のスキル封印】\n不良と言えばこれか鉄パイプのイメージが強い",
+        "description": "[Blunt Weapon/Attack+80/Critical+40%/Wearer's Skill Seal] The image of a\ndelinquent often comes with an iron pipe.",
         "etypeId": 1,
         "traits": [
             {
@@ -6219,7 +6219,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "釘バット",
+        "name": "Nail Bat",
         "note": "",
         "params": [
             0,
@@ -6237,7 +6237,7 @@
     {
         "id": 179,
         "animationId": 5,
-        "description": "【鈍器/攻+88/魔力+35/雷属性】\n天上の神ゼウスの雷を浴びたとされるメイス",
+        "description": "[Blunt Weapon/Attack+88/Magic+35/Lightning Attribute] A mace said to have been\nbathed in the lightning of Zeus, the god of the heavens.",
         "etypeId": 1,
         "traits": [
             {
@@ -6247,7 +6247,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "メイスオブゼウス",
+        "name": "Mace of Zeus",
         "note": "",
         "params": [
             0,
@@ -6265,7 +6265,7 @@
     {
         "id": 180,
         "animationId": 5,
-        "description": "【鈍器/攻+120/魔力+47/雷属性】\n「打ち砕くもの」の異名を持つ戦神の槌。ただし柄が短い",
+        "description": "[Blunt Weapon/Attack+120/Magic+47/Lightning Attribute] The war god's hammer,\nknown as 'The Crusher.' However, it has a short handle.",
         "etypeId": 1,
         "traits": [
             {
@@ -6275,7 +6275,7 @@
             }
         ],
         "iconIndex": 109,
-        "name": "ミョルニル",
+        "name": "Mjolnir",
         "note": "",
         "params": [
             0,
@@ -6308,7 +6308,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "------銃--------",
+        "name": "------Guns--------",
         "note": "",
         "params": [
             0,
@@ -6341,7 +6341,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** 店売り ***",
+        "name": "*** Store Sold ***",
         "note": "",
         "params": [
             0,
@@ -6359,7 +6359,7 @@
     {
         "id": 183,
         "animationId": 111,
-        "description": "【銃/攻+10】\n初心者用の小型拳銃",
+        "description": "[Gun/Attack+10] A small handgun for beginners.",
         "etypeId": 1,
         "traits": [
             {
@@ -6369,7 +6369,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "ハンドガン",
+        "name": "Handgun",
         "note": "",
         "params": [
             0,
@@ -6387,7 +6387,7 @@
     {
         "id": 184,
         "animationId": 111,
-        "description": "【銃/攻+16】\n黒色火薬を用いたリボルバー式拳銃",
+        "description": "[Gun/Attack+16] A revolver handgun that uses black powder.",
         "etypeId": 1,
         "traits": [
             {
@@ -6397,7 +6397,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "ピースメイカー",
+        "name": "Peacemaker",
         "note": "",
         "params": [
             0,
@@ -6415,7 +6415,7 @@
     {
         "id": 185,
         "animationId": 111,
-        "description": "【銃/攻+26】\n主に国の治安を守る者達が使用するオートマチック拳銃",
+        "description": "[Gun/Attack+26] An automatic handgun mainly used by those who protect the\nnation's peace.",
         "etypeId": 1,
         "traits": [
             {
@@ -6425,7 +6425,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "チーター",
+        "name": "Cheetah",
         "note": "",
         "params": [
             0,
@@ -6443,7 +6443,7 @@
     {
         "id": 186,
         "animationId": 111,
-        "description": "【銃/攻+39】\n錆びない金属が使われている軽量のリボルバー式拳銃",
+        "description": "[Gun/Attack+39] A lightweight revolver handgun made with rustproof metal.",
         "etypeId": 1,
         "traits": [
             {
@@ -6453,7 +6453,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "チーフスペシャル",
+        "name": "Chief Special",
         "note": "",
         "params": [
             0,
@@ -6471,7 +6471,7 @@
     {
         "id": 187,
         "animationId": 111,
-        "description": "【銃/攻+53】\n狩猟で使われているリボルバー式拳銃",
+        "description": "[Gun/Attack+53] A revolver handgun used for hunting.",
         "etypeId": 1,
         "traits": [
             {
@@ -6481,7 +6481,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "レッドホーク",
+        "name": "Red Hawk",
         "note": "",
         "params": [
             0,
@@ -6499,7 +6499,7 @@
     {
         "id": 188,
         "animationId": 111,
-        "description": "【銃/攻+69】\n精巧に調整されているリボルバー式拳銃",
+        "description": "[Gun/Attack+69] A finely tuned revolver handgun.",
         "etypeId": 1,
         "traits": [
             {
@@ -6509,7 +6509,7 @@
             }
         ],
         "iconIndex": 104,
-        "name": "パイソン",
+        "name": "Python",
         "note": "",
         "params": [
             0,
@@ -6527,7 +6527,7 @@
     {
         "id": 189,
         "animationId": 111,
-        "description": "【銃/攻+86】\n貫通力のある銃弾を発射できるオートマチック拳銃",
+        "description": "[Gun/Attack+86] An automatic handgun capable of firing armor-piercing bullets.",
         "etypeId": 1,
         "traits": [
             {
@@ -6537,7 +6537,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "ファイブセブン",
+        "name": "Five-seveN",
         "note": "",
         "params": [
             0,
@@ -6555,7 +6555,7 @@
     {
         "id": 190,
         "animationId": 111,
-        "description": "【銃/攻+106】\n魔法の金属ミスリルで作られたオートマチック拳銃",
+        "description": "[Gun/Attack+106] An automatic handgun made of the magical metal mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -6565,7 +6565,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "ミスリルモデル",
+        "name": "Mithril Model",
         "note": "",
         "params": [
             0,
@@ -6598,7 +6598,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "*** レア ***",
+        "name": "*** Rare ***",
         "note": "",
         "params": [
             0,
@@ -6616,7 +6616,7 @@
     {
         "id": 192,
         "animationId": 218,
-        "description": "【銃/攻+23/＋毒】\n毒蛇の名を冠したリボルバー式拳銃",
+        "description": "[Gun/Attack+23/+Poison] A revolver handgun named after a venomous snake.",
         "etypeId": 1,
         "traits": [
             {
@@ -6631,7 +6631,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "ヴァイパー",
+        "name": "Viper",
         "note": "",
         "params": [
             0,
@@ -6649,7 +6649,7 @@
     {
         "id": 193,
         "animationId": 111,
-        "description": "【銃/攻+26/魔力+5】\n神秘的な力が込められているリボルバー式拳銃",
+        "description": "[Gun/Attack+26/Magic+5] A revolver handgun filled with mystical power.",
         "etypeId": 1,
         "traits": [
             {
@@ -6659,7 +6659,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "ミスティック",
+        "name": "Mystic",
         "note": "",
         "params": [
             0,
@@ -6677,7 +6677,7 @@
     {
         "id": 194,
         "animationId": 111,
-        "description": "【銃/攻+45/敏+3/獣系特攻】\n猛獣をも狩れるほどの威力と精度を誇るリボルバー式拳銃",
+        "description": "[Gun/Attack+45/Agility+3/+Beast Killer] A revolver handgun boasting power and\nprecision enough to hunt ferocious beasts.",
         "etypeId": 1,
         "traits": [
             {
@@ -6687,7 +6687,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "ステルスハンター",
+        "name": "Stealth Hunter",
         "note": "",
         "params": [
             0,
@@ -6705,7 +6705,7 @@
     {
         "id": 195,
         "animationId": 111,
-        "description": "【銃/攻+59/敏-8/会心+8%】\n威力と反動が大きい大型のオートマチック拳銃",
+        "description": "[Gun/Attack+59/Agility-8/Critical+8%] A large automatic handgun with great power\nand recoil.",
         "etypeId": 1,
         "traits": [
             {
@@ -6720,7 +6720,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "デザートイーグル",
+        "name": "Desert Eagle",
         "note": "",
         "params": [
             0,
@@ -6738,7 +6738,7 @@
     {
         "id": 196,
         "animationId": 111,
-        "description": "【銃/攻+80/会心+40%/装備者のスキル封印】\n最近のおもちゃの銃ってよくできていると思う",
+        "description": "[Gun/Attack+80/Critical+40%/Wearer's Skill Seal] I think modern toy guns are\nreally well made.",
         "etypeId": 1,
         "traits": [
             {
@@ -6803,7 +6803,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "銀玉鉄砲",
+        "name": "Silver Bullet Gun",
         "note": "",
         "params": [
             0,
@@ -6821,7 +6821,7 @@
     {
         "id": 197,
         "animationId": 111,
-        "description": "【銃/攻+96/魔力+15/炎属性】\n「炎の魔銃」と呼ばれた古の魔銃。機構はリボルバー式",
+        "description": "[Gun/Attack+96/Magic+15/Fire Attribute] An ancient magic gun known as 'The Flame\nMagic Gun.' The mechanism is revolver-style.",
         "etypeId": 1,
         "traits": [
             {
@@ -6831,7 +6831,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "プロトメルカルヴァ",
+        "name": "Proto Mercurva",
         "note": "",
         "params": [
             0,
@@ -6849,7 +6849,7 @@
     {
         "id": 198,
         "animationId": 111,
-        "description": "【銃/攻132/魔力+23】\n霊子を弾丸に換えて撃ち出す古の魔銃",
+        "description": "[Gun/Attack 132/Magic+23] An ancient magic gun that converts spirit particles\ninto bullets and fires them.",
         "etypeId": 1,
         "traits": [
             {
@@ -6859,7 +6859,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "エーテルブラスト",
+        "name": "Ether Blast",
         "note": "",
         "params": [
             0,
@@ -6892,7 +6892,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "----以下追加用------",
+        "name": "----Additional Items Below------",
         "note": "",
         "params": [
             0,

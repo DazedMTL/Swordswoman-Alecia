@@ -12965,14 +12965,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "次に表示されるスキル画面では"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "Q/Wキーでキャラクターを切り替えられます"
+                    "In the skill screen that appears next, you can switch\ncharacters using the Q/W keys."
                 ]
             },
             {
@@ -13390,7 +13383,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "タイトルに戻りますか？"
+                    "Would you like to return to the title?"
                 ]
             },
             {
@@ -13398,8 +13391,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "はい",
-                        "いいえ"
+                        "Yes",
+                        "No"
                     ],
                     1,
                     0,
@@ -25654,7 +25647,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>あああ\\<\\.\\^"
+                    "Ahhh"
                 ]
             },
             {
@@ -26067,7 +26060,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>あああ\\<\\.\\^"
+                    "Ahhh"
                 ]
             },
             {
@@ -26480,7 +26473,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>あああ\\<\\.\\^"
+                    "Ahhh"
                 ]
             },
             {
@@ -26893,7 +26886,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>あああ\\<\\.\\^"
+                    "Ahhh"
                 ]
             },
             {
@@ -27306,7 +27299,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>あああ\\<\\.\\^"
+                    "Ahhh"
                 ]
             },
             {
@@ -27799,7 +27792,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>あああ\\<\\.\\^"
+                    "Ahhh"
                 ]
             },
             {
@@ -28167,7 +28160,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>あああ\\<\\.\\^"
+                    "Ahhh"
                 ]
             },
             {
@@ -29311,7 +29304,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>あああ\\<\\.\\^"
+                    "Ahhh"
                 ]
             },
             {
@@ -30943,14 +30936,14 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\c[2]アレシア\\c[0]"
+                    "\\c[2]Alecia\\c[0]"
                 ]
             },
             {
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "くっ・・・"
+                    "Ugh..."
                 ]
             },
             {
@@ -30967,21 +30960,14 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\c[2]アレシア\\c[0]"
+                    "\\c[2]Alecia\\c[0]"
                 ]
             },
             {
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "これ以上は危険だ・・・"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "一度脱出しよう・・・"
+                    "It's too dangerous to go any further... Let's escape for\nnow..."
                 ]
             },
             {
@@ -34454,14 +34440,14 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\c[2]アレシア\\c[0]"
+                    "\\c[2]Alecia\\c[0]"
                 ]
             },
             {
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "くっ・・・"
+                    "Ugh..."
                 ]
             },
             {
@@ -34478,21 +34464,14 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\c[2]アレシア\\c[0]"
+                    "\\c[2]Alecia\\c[0]"
                 ]
             },
             {
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "これ以上は危険だ・・・"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "一度脱出しよう・・・"
+                    "It's too dangerous to go any further... Let's escape for\nnow..."
                 ]
             },
             {
@@ -62762,7 +62741,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -62800,7 +62779,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -62838,7 +62817,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -62876,7 +62855,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>スラスト！\\<\\.\\^"
+                    "Thrust!"
                 ]
             },
             {
@@ -63144,7 +63123,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -63182,7 +63161,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -63220,7 +63199,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -63258,7 +63237,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>スラスト！\\<\\.\\^"
+                    "Thrust!"
                 ]
             },
             {
@@ -63500,7 +63479,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -63538,7 +63517,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -63576,7 +63555,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -63614,7 +63593,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>スラスト！\\<\\.\\^"
+                    "Thrust!"
                 ]
             },
             {
@@ -63856,7 +63835,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -63894,7 +63873,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -63932,7 +63911,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -63970,7 +63949,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>スラスト！\\<\\.\\^"
+                    "Thrust!"
                 ]
             },
             {
@@ -64212,7 +64191,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -64250,7 +64229,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -64288,7 +64267,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -64326,7 +64305,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>パワースラッシュ！\\<\\.\\^"
+                    "Power Slash!"
                 ]
             },
             {
@@ -64648,7 +64627,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -64686,7 +64665,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -64724,7 +64703,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -64762,7 +64741,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>パワースラッシュ！\\<\\.\\^"
+                    "Power Slash!"
                 ]
             },
             {
@@ -65084,7 +65063,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -65122,7 +65101,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -65160,7 +65139,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -65198,7 +65177,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>パワースラッシュ！\\<\\.\\^"
+                    "Power Slash!"
                 ]
             },
             {
@@ -65520,7 +65499,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -65558,7 +65537,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -65596,7 +65575,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -65634,7 +65613,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>パワースラッシュ！\\<\\.\\^"
+                    "Power Slash!"
                 ]
             },
             {
@@ -65956,7 +65935,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -65994,7 +65973,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -66032,7 +66011,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -66070,7 +66049,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>クエイクエッジ！\\<\\.\\^"
+                    "Quake Edge!"
                 ]
             },
             {
@@ -66632,7 +66611,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -66670,7 +66649,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -66708,7 +66687,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -66746,7 +66725,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>クエイクエッジ！\\<\\.\\^"
+                    "Quake Edge!"
                 ]
             },
             {
@@ -67308,7 +67287,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -67346,7 +67325,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -67384,7 +67363,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -67422,7 +67401,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>クエイクエッジ！\\<\\.\\^"
+                    "Quake Edge!"
                 ]
             },
             {
@@ -67984,7 +67963,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -68022,7 +68001,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -68060,7 +68039,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -68098,7 +68077,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>クエイクエッジ！\\<\\.\\^"
+                    "Quake Edge!"
                 ]
             },
             {
@@ -68660,7 +68639,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -68698,7 +68677,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -68736,7 +68715,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -68774,7 +68753,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>テンペストストライク！\\<\\.\\^"
+                    "Tempest Strike!"
                 ]
             },
             {
@@ -69576,7 +69555,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -69614,7 +69593,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -69652,7 +69631,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -69690,7 +69669,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>テンペストストライク！\\<\\.\\^"
+                    "Tempest Strike!"
                 ]
             },
             {
@@ -70492,7 +70471,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -70530,7 +70509,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -70568,7 +70547,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -70606,7 +70585,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>テンペストストライク！\\<\\.\\^"
+                    "Tempest Strike!"
                 ]
             },
             {
@@ -71408,7 +71387,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -71446,7 +71425,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -71484,7 +71463,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -71522,7 +71501,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>テンペストストライク！\\<\\.\\^"
+                    "Tempest Strike!"
                 ]
             },
             {
@@ -72337,7 +72316,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -72375,7 +72354,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -72413,7 +72392,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -72451,7 +72430,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>セイントスラスト！\\<\\.\\^"
+                    "Saint Thrust!"
                 ]
             },
             {
@@ -72773,7 +72752,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -72811,7 +72790,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -72849,7 +72828,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -72887,7 +72866,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>セイントスラスト！\\<\\.\\^"
+                    "Saint Thrust!"
                 ]
             },
             {
@@ -73209,7 +73188,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -73247,7 +73226,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -73285,7 +73264,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -73323,7 +73302,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>セイントスラスト！\\<\\.\\^"
+                    "Saint Thrust!"
                 ]
             },
             {
@@ -73645,7 +73624,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -73683,7 +73662,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -73721,7 +73700,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -73759,7 +73738,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>セイントスラスト！\\<\\.\\^"
+                    "Saint Thrust!"
                 ]
             },
             {
@@ -74081,7 +74060,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -74119,7 +74098,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -74157,7 +74136,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -74195,7 +74174,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>スクリューエッジ！\\<\\.\\^"
+                    "Screw Edge!"
                 ]
             },
             {
@@ -75197,7 +75176,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -75235,7 +75214,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -75273,7 +75252,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -75311,7 +75290,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>クイーンスラッシュ！\\<\\.\\^"
+                    "Queen Slash!"
                 ]
             },
             {
@@ -76153,7 +76132,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -76191,7 +76170,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -76229,7 +76208,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -76267,7 +76246,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>クイーンスラッシュ！\\<\\.\\^"
+                    "Queen Slash!"
                 ]
             },
             {
@@ -77109,7 +77088,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -77147,7 +77126,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -77185,7 +77164,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -77223,7 +77202,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>クイーンスラッシュ！\\<\\.\\^"
+                    "Queen Slash!"
                 ]
             },
             {
@@ -78065,7 +78044,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -78103,7 +78082,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -78141,7 +78120,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -78179,7 +78158,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>クイーンスラッシュ！\\<\\.\\^"
+                    "Queen Slash!"
                 ]
             },
             {
@@ -79021,7 +79000,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -79059,7 +79038,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -79097,7 +79076,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -79135,7 +79114,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>スターライトストライク！\\<\\.\\^"
+                    "Starlight Strike!"
                 ]
             },
             {
@@ -80537,7 +80516,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -80575,7 +80554,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -80613,7 +80592,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -80651,7 +80630,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>スターライトストライク！\\<\\.\\^"
+                    "Starlight Strike!"
                 ]
             },
             {
@@ -82053,7 +82032,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -82091,7 +82070,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -82129,7 +82108,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -82167,7 +82146,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>スターライトストライク！\\<\\.\\^"
+                    "Starlight Strike!"
                 ]
             },
             {
@@ -83569,7 +83548,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>ハァッ！\\<\\.\\^"
+                    "Haah!"
                 ]
             },
             {
@@ -83607,7 +83586,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>せいっ！\\<\\.\\^"
+                    "Sei!"
                 ]
             },
             {
@@ -83645,7 +83624,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>喰らえっ！\\<\\.\\^"
+                    "Take this!"
                 ]
             },
             {
@@ -83683,7 +83662,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\>スターライトストライク！\\<\\.\\^"
+                    "Starlight Strike!"
                 ]
             },
             {

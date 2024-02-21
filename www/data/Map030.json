@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "砂漠 エリア1",
+    "displayName": "Desert Area 1",
     "encounterList": [],
     "encounterStep": 30,
     "height": 37,
@@ -9786,7 +9786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>ぐっ！\\<\\.\\^"
+                                "Ugh!"
                             ]
                         },
                         {

@@ -186,7 +186,7 @@
             }
         ],
         "learnings": [],
-        "name": "すっぴん",
+        "name": "Barefaced",
         "note": "",
         "params": [
             [
@@ -1053,7 +1053,7 @@
             }
         ],
         "learnings": [],
-        "name": "--ファンタジー系----",
+        "name": "--Fantasy Series----",
         "note": "",
         "params": [
             [
@@ -2016,7 +2016,7 @@
                 "skillId": 148
             }
         ],
-        "name": "戦士",
+        "name": "Warrior",
         "note": "",
         "params": [
             [
@@ -2979,7 +2979,7 @@
                 "skillId": 167
             }
         ],
-        "name": "槍使い",
+        "name": "Spearman",
         "note": "",
         "params": [
             [
@@ -3932,7 +3932,7 @@
                 "skillId": 178
             }
         ],
-        "name": "侍",
+        "name": "Samurai",
         "note": "",
         "params": [
             [
@@ -4885,7 +4885,7 @@
                 "skillId": 189
             }
         ],
-        "name": "格闘家",
+        "name": "Martial Artist",
         "note": "",
         "params": [
             [
@@ -5838,7 +5838,7 @@
                 "skillId": 200
             }
         ],
-        "name": "狩人",
+        "name": "Hunter",
         "note": "",
         "params": [
             [
@@ -6791,7 +6791,7 @@
                 "skillId": 204
             }
         ],
-        "name": "シーフ",
+        "name": "Thief",
         "note": "",
         "params": [
             [
@@ -7744,7 +7744,7 @@
                 "skillId": 219
             }
         ],
-        "name": "踊り子",
+        "name": "Dancer",
         "note": "",
         "params": [
             [
@@ -8732,7 +8732,7 @@
                 "skillId": 110
             }
         ],
-        "name": "魔術師",
+        "name": "Magician",
         "note": "",
         "params": [
             [
@@ -9725,7 +9725,7 @@
                 "skillId": 103
             }
         ],
-        "name": "神術士",
+        "name": "Priest",
         "note": "",
         "params": [
             [
@@ -10728,7 +10728,7 @@
                 "skillId": 43
             }
         ],
-        "name": "精霊術士",
+        "name": "Spiritualist",
         "note": "",
         "params": [
             [
@@ -11746,7 +11746,7 @@
                 "skillId": 73
             }
         ],
-        "name": "呪術師",
+        "name": "Sorcerer",
         "note": "",
         "params": [
             [
@@ -12784,7 +12784,7 @@
                 "skillId": 60
             }
         ],
-        "name": "魔法戦士",
+        "name": "Magic Knight",
         "note": "",
         "params": [
             [
@@ -13702,7 +13702,7 @@
                 "skillId": 114
             }
         ],
-        "name": "魔銃士",
+        "name": "Magic Gunner",
         "note": "",
         "params": [
             [
@@ -14690,7 +14690,7 @@
                 "skillId": 144
             }
         ],
-        "name": "忍者",
+        "name": "Ninja",
         "note": "",
         "params": [
             [
@@ -15678,7 +15678,7 @@
                 "skillId": 104
             }
         ],
-        "name": "勇者",
+        "name": "Hero",
         "note": "",
         "params": [
             [
@@ -16545,7 +16545,7 @@
             }
         ],
         "learnings": [],
-        "name": "--SF系----",
+        "name": "--SF Series----",
         "note": "",
         "params": [
             [
@@ -17493,7 +17493,7 @@
                 "skillId": 228
             }
         ],
-        "name": "フェンサー",
+        "name": "Fencer",
         "note": "",
         "params": [
             [
@@ -18446,7 +18446,7 @@
                 "skillId": 238
             }
         ],
-        "name": "ガンナー",
+        "name": "Gunner",
         "note": "",
         "params": [
             [
@@ -19414,7 +19414,7 @@
                 "skillId": 242
             }
         ],
-        "name": "ドクター",
+        "name": "Doctor",
         "note": "",
         "params": [
             [
@@ -20312,7 +20312,7 @@
                 "skillId": 254
             }
         ],
-        "name": "インベンター",
+        "name": "Inventor",
         "note": "",
         "params": [
             [
@@ -28206,7 +28206,7 @@
                 "skillId": 408
             }
         ],
-        "name": "剣士",
+        "name": "Swordsman",
         "note": "<attackSkill:378>",
         "params": [
             [
@@ -29099,7 +29099,7 @@
                 "skillId": 415
             }
         ],
-        "name": "兵士",
+        "name": "Soldier",
         "note": "<attackSkill:379>",
         "params": [
             [
