@@ -26,9 +26,9 @@ var $plugins = [
       rateS: "56",
       helptext: "374",
       smiletext: "P",
-      maxtext: "上限です",
-      resettext: "ポイントリセット",
-      comtext: "ステータス振り分け",
+      maxtext: "Max",
+      resettext: "Reset Points",
+      comtext: "Stat Allocation",
       display: "15",
       completion: "false",
       selectEnable: "true",
@@ -60,10 +60,10 @@ var $plugins = [
     parameters: {
       数値項目: "",
       文字項目:
-        '["{\\"Name\\":\\"メッセージ表示速度\\",\\"DefaultValue\\":\\"2\\",\\"VariableID\\":\\"61\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"StringItems\\":\\"[\\\\\\"最速\\\\\\",\\\\\\"速\\\\\\",\\\\\\"中\\\\\\",\\\\\\"遅\\\\\\"]\\",\\"AddPosition\\":\\"\\"}"]',
+        '["{\\"Name\\":\\"Message Display Speed\\",\\"DefaultValue\\":\\"2\\",\\"VariableID\\":\\"61\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"StringItems\\":\\"[\\\\\\"Fastest\\\\\\",\\\\\\"Fast\\\\\\",\\\\\\"Normal\\\\\\",\\\\\\"Slow\\\\\\"]\\",\\"AddPosition\\":\\"\\"}"]',
       スイッチ項目: "[]",
       音量項目:
-        '["{\\"Name\\":\\"ヒロイン バックボイス音量\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"62\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"ヒロイン 絶頂ボイス音量\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"63\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}"]',
+        '["{\\"Name\\":\\"Heroine Background Volume\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"62\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"Heroine Climax Volume\\",\\"DefaultValue\\":\\"60\\",\\"VariableID\\":\\"63\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}"]',
     },
   },
   {
@@ -692,7 +692,7 @@ var $plugins = [
     name: "MasterVolumeOption",
     status: true,
     description: "マスターボリューム設定プラグイン",
-    parameters: { 項目名称: "全体 音量", 初期値: "10", 音量の増減量: "10" },
+    parameters: { 項目名称: "Master Volume", 初期値: "10", 音量の増減量: "10" },
   },
   {
     name: "DTextPicture",
@@ -903,7 +903,7 @@ var $plugins = [
     description: "簡易ボイスプラグイン",
     parameters: {
       フォルダ名: "voice",
-      オプション名称: "全体バックボイス音量",
+      オプション名称: "Background Volume",
       オプション初期値: "100",
     },
   },

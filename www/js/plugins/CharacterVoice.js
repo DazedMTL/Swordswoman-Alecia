@@ -109,7 +109,7 @@
 
   var p_parameters = PluginManager.parameters("Wataridori_CharacterVoice");
   var p_commandText_WindowOptions =
-    p_parameters.CommandText_WindowOptions || "全体絶頂ボイス音量";
+    p_parameters.CommandText_WindowOptions || "Climax Volume";
   var p_cv_StoreFolderName = p_parameters.CV_StoreFolderName || "cv";
   var p_useToVolume = p_parameters.UseToVolume == "true";
   var p_bgmVolume_DuringPlayCV = Number(
