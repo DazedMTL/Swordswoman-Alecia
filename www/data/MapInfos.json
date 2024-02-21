@@ -48,7 +48,7 @@
     {
         "id": 6,
         "expanded": false,
-        "name": "\\V[85]の家",
+        "name": "エドガーの家",
         "order": 45,
         "parentId": 5,
         "scrollX": 584.5714285714286,
@@ -57,7 +57,7 @@
     {
         "id": 7,
         "expanded": false,
-        "name": "\\V[87]の家",
+        "name": "デレクの家",
         "order": 46,
         "parentId": 5,
         "scrollX": 584.5714285714286,
@@ -66,7 +66,7 @@
     {
         "id": 8,
         "expanded": false,
-        "name": "\\V[93]の家",
+        "name": "グレッグの家",
         "order": 47,
         "parentId": 5,
         "scrollX": 584.5714285714286,
@@ -84,7 +84,7 @@
     {
         "id": 10,
         "expanded": false,
-        "name": "\\V[89]の家",
+        "name": "ドビーの家",
         "order": 48,
         "parentId": 5,
         "scrollX": 584.5714285714286,
@@ -93,7 +93,7 @@
     {
         "id": 11,
         "expanded": true,
-        "name": "\\V[91]の家",
+        "name": "エドマンの家",
         "order": 49,
         "parentId": 5,
         "scrollX": 584.5714285714286,

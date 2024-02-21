@@ -1423,14 +1423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メッセージ表示速度を選んで下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（オプションでいつでも変更できます）"
+                                "Please select the message display speed. (You can change\nthis at any time in the options.)"
                             ]
                         },
                         {
@@ -1438,10 +1431,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "遅い",
-                                    "普通",
-                                    "速い",
-                                    "一瞬"
+                                    "Slow",
+                                    "Normal",
+                                    "Fast",
+                                    "Instant"
                                 ],
                                 -1,
                                 1,
@@ -1564,14 +1557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hシーンでのバックボイスを再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（オプションでいつでも変更できます）"
+                                "Would you like to play back voices during H-scenes? (You can\nchange this at any time in the options.)"
                             ]
                         },
                         {
@@ -1579,8 +1565,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1655,14 +1641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hシーンでの絶頂ボイスを再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（オプションでいつでも変更できます）"
+                                "Would you like to play climax voices during H-scenes? (You\ncan change this at any time in the options.)"
                             ]
                         },
                         {
@@ -1670,8 +1649,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1746,28 +1725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メニュー・アイテム・スキルの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリック操作をオンにしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（オンにするとゲームの負荷が増えます　高スペック推奨）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（回想部屋でいつでも変更できます）"
+                                "Would you like to enable click operations for Menu, Items,\nand Skills? (Turning this on will increase game load, high-\nspec recommended) (You can change this at any time in the\nMemory Room.)"
                             ]
                         },
                         {
@@ -1775,8 +1733,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "オンにする",
-                                    "オフにする"
+                                    "Turn On",
+                                    "Turn Off"
                                 ],
                                 -2,
                                 0,
