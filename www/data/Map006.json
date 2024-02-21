@@ -2971,7 +2971,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 家へと帰って寝る"
+                                "DW_目標設定 Go_home_and_sleep."
                             ]
                         },
                         {
@@ -6372,7 +6372,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 家へと帰って寝る"
+                                "DW_目標設定 Go_home_and_sleep."
                             ]
                         },
                         {
@@ -8393,7 +8393,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 家へと帰って寝る"
+                                "DW_目標設定 Go_home_and_sleep."
                             ]
                         },
                         {
@@ -9509,7 +9509,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 家へと帰って寝る"
+                                "DW_目標設定 Go_home_and_sleep."
                             ]
                         },
                         {

@@ -366,7 +366,7 @@
   };
 
   Window_Destination.prototype.standardFontSize = function () {
-    return param.fontSize || Window_Base.prototype.standardFontSize.call(this);
+    return param.fontSize - 4 || Window_Base.prototype.standardFontSize.call(this) - 4;
   };
 
   Window_Destination.prototype.standardBackOpacity = function () {
@@ -397,7 +397,7 @@
   };
 
   Window_Destination.prototype.updateText = function () {
-    var text = this.convertEscapeCharacters($gameSystem.getDestination());
+    var text = this.convertEscapeCharacters($gameSystem.getDestination()).replace(/_/g, ' ');
     var iconIndex = getArgNumber(
       this.convertEscapeCharacters($gameSystem.getDestinationIcon()),
       0

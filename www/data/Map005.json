@@ -3485,7 +3485,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 居間のRoyに話しかける"
+                                "DW_目標設定 Talk_to_Roy_in_the_living_room."
                             ]
                         },
                         {
@@ -5450,7 +5450,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街の出口で男と待ち合わせる"
+                                "DW_目標設定 Meet_up_with_a_man_at_the_town's_exit."
                             ]
                         },
                         {
@@ -7164,7 +7164,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街の入口で人を待つ"
+                                "DW_目標設定 Waiting_for_someone_at_the_town_entrance"
                             ]
                         },
                         {
@@ -8145,7 +8145,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街を探索する"
+                                "DW_目標設定 Explore_the_town."
                             ]
                         },
                         {
@@ -9791,7 +9791,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 あの男の家に行く・・・"
+                                "DW_目標設定 Going_to_that_man's_house..."
                             ]
                         },
                         {
@@ -13070,7 +13070,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 寝室のベッドで就寝する"
+                                "DW_目標設定 Go_to_sleep_in_the_bedroom_bed."
                             ]
                         },
                         {
@@ -14291,7 +14291,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街の中を探索する"
+                                "DW_目標設定 Exploring_the_town."
                             ]
                         },
                         {
@@ -14981,7 +14981,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街の中を探索する"
+                                "DW_目標設定 Exploring_the_town."
                             ]
                         },
                         {
@@ -15576,7 +15576,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街の中を探索する"
+                                "DW_目標設定 Explore_the_town."
                             ]
                         },
                         {
@@ -16147,7 +16147,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 居間にいる夫に話しかける"
+                                "DW_目標設定 Talk_to_the_husband_in_the_living_room."
                             ]
                         },
                         {
@@ -17622,7 +17622,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街を探索する"
+                                "DW_目標設定 Explore_the_town"
                             ]
                         },
                         {
@@ -18314,7 +18314,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街を探索する"
+                                "DW_目標設定 Explore_the_town"
                             ]
                         },
                         {
@@ -18965,7 +18965,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街を探索する"
+                                "DW_目標設定 Explore_the_town"
                             ]
                         },
                         {

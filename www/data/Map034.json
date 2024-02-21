@@ -9288,7 +9288,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "DW_目標設定 街へ戻り待ち合わせ場所に行く"
+                                "DW_目標設定 Return_to_town_and_go_to_the_meeting_place."
                             ]
                         },
                         {

@@ -17958,7 +17958,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街から出て森へと向かう"
+                                "DW_目標設定 Head_out_of_town_and_towards_the_forest."
                             ]
                         },
                         {
@@ -18081,7 +18081,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 エドガーの家へ行く"
+                                "DW_目標設定 Go_to_Edgar's_house."
                             ]
                         },
                         {
@@ -18190,7 +18190,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街の出口にいる男に話しかける"
+                                "DW_目標設定 Talk_to_the_man_at_the_town's_exit."
                             ]
                         },
                         {
@@ -18299,7 +18299,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 沼地へ行き、魔物を倒す"
+                                "DW_目標設定 Go_to_the_swamp_and_defeat_the_monsters."
                             ]
                         },
                         {
@@ -18408,7 +18408,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街の入口でエドガーと待ち合わせる"
+                                "DW_目標設定 Meet_up_with_Edgar_at_the_town_entrance."
                             ]
                         },
                         {
@@ -18517,7 +18517,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街の入口へ行く"
+                                "DW_目標設定 Go_to_the_town_entrance."
                             ]
                         },
                         {
@@ -18626,7 +18626,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 氷の洞穴に行き、魔物を倒す"
+                                "DW_目標設定 Go_to_the_Ice_Cave_and_defeat_the_monsters."
                             ]
                         },
                         {
@@ -18735,7 +18735,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街の入口で男と待ち合わせる"
+                                "DW_目標設定 Meet_up_with_a_man_at_the_town_entrance."
                             ]
                         },
                         {
@@ -20570,7 +20570,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街から出て砂漠へと向かう"
+                                "DW_目標設定 Head_out_of_town_and_towards_the_desert."
                             ]
                         },
                         {
@@ -21212,7 +21212,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 家へと帰り、ゆっくりと休む"
+                                "DW_目標設定 I'll_go_home_and_rest_slowly."
                             ]
                         },
                         {
@@ -22008,7 +22008,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街から出て草原へと向かう"
+                                "DW_目標設定 Head_out_from_the_town_to_the_grasslands."
                             ]
                         },
                         {
@@ -22564,7 +22564,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街から出て洞窟へと向かう"
+                                "DW_目標設定 Head_out_of_town_and_towards_the_cave."
                             ]
                         },
                         {
@@ -23374,7 +23374,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 街から出て遺跡へと向かう"
+                                "DW_目標設定 Head_out_from_the_town_towards_the_ruins."
                             ]
                         },
                         {
@@ -24450,7 +24450,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 家へと帰って寝る"
+                                "DW_目標設定 Go_home_and_sleep."
                             ]
                         },
                         {

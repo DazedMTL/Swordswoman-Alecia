@@ -11590,7 +11590,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "DW_目標設定 街へ戻り、自宅に帰る"
+                                "DW_目標設定 Return_to_town_and_go_home."
                             ]
                         },
                         {
@@ -11968,7 +11968,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "DW_目標設定 街へ戻り、自宅に帰る"
+                                "DW_目標設定 Return_to_town_and_go_home."
                             ]
                         },
                         {
